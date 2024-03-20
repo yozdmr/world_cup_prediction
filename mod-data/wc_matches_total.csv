@@ -1,981 +1,981 @@
 Year,Home_goals,Away_goals,Home Team,Away Team,Home Team ISO,Away Team ISO
-1930,4,1,France,Mexico,FRA,MEX
-1930,3,0,USA,Belgium,USA,BEL
-1930,2,1,Yugoslavia,Brazil,YUG,BRA
-1930,3,1,Romania,Peru,ROU,PER
-1930,1,0,Argentina,France,ARG,FRA
-1930,3,0,Chile,Mexico,CHL,MEX
-1930,4,0,Yugoslavia,Bolivia,YUG,BOL
-1930,3,0,USA,Paraguay,USA,PRY
-1930,1,0,Uruguay,Peru,URY,PER
-1930,1,0,Chile,France,CHL,FRA
-1930,6,3,Argentina,Mexico,ARG,MEX
-1930,4,0,Brazil,Bolivia,BRA,BOL
-1930,1,0,Paraguay,Belgium,PRY,BEL
-1930,4,0,Uruguay,Romania,URY,ROU
-1930,3,1,Argentina,Chile,ARG,CHL
-1930,6,1,Argentina,USA,ARG,USA
-1930,6,1,Uruguay,Yugoslavia,URY,YUG
-1930,4,2,Uruguay,Argentina,URY,ARG
-1934,3,2,Austria,France,AUT,FRA
-1934,4,2,Hungary,Egypt,HUN,EGY
-1934,3,2,Switzerland,Netherlands,CHE,NLD
-1934,3,2,Sweden,Argentina,SWE,ARG
-1934,5,2,Germany,Belgium,DEU,BEL
-1934,3,1,Spain,Brazil,ESP,BRA
-1934,7,1,Italy,USA,ITA,USA
-1934,2,1,Czechoslovakia,Romania,CZE,ROU
-1934,3,2,Czechoslovakia,Switzerland,CZE,CHE
-1934,2,1,Germany,Sweden,DEU,SWE
-1934,1,1,Italy,Spain,ITA,ESP
-1934,2,1,Austria,Hungary,AUT,HUN
-1934,1,0,Italy,Spain,ITA,ESP
-1934,1,0,Italy,Austria,ITA,AUT
-1934,3,1,Czechoslovakia,Germany,CZE,DEU
-1934,3,2,Germany,Austria,DEU,AUT
-1934,2,1,Italy,Czechoslovakia,ITA,CZE
-1938,1,1,Switzerland,Germany,CHE,DEU
-1938,6,0,Hungary,Dutch East Indies,HUN,INH
-1938,3,1,France,Belgium,FRA,BEL
-1938,3,3,Cuba,Romania,CUB,ROU
-1938,2,1,Italy,Norway,ITA,NOR
-1938,6,5,Brazil,Poland,BRA,POL
-1938,3,0,Czechoslovakia,Netherlands,CZE,NLD
-1938,2,1,Cuba,Romania,CUB,ROU
-1938,4,2,Switzerland,Germany,CHE,DEU
-1938,1,1,Brazil,Czechoslovakia,BRA,CZE
-1938,2,0,Hungary,Switzerland,HUN,CHE
-1938,8,0,Sweden,Cuba,SWE,CUB
-1938,3,1,Italy,France,ITA,FRA
-1938,2,1,Brazil,Czechoslovakia,BRA,CZE
-1938,5,1,Hungary,Sweden,HUN,SWE
-1938,2,1,Italy,Brazil,ITA,BRA
-1938,4,2,Brazil,Sweden,BRA,SWE
-1938,4,2,Italy,Hungary,ITA,HUN
-1950,4,0,Brazil,Mexico,BRA,MEX
-1950,2,0,England,Chile,ENG,CHL
-1950,3,1,Spain,USA,ESP,USA
-1950,3,2,Sweden,Italy,SWE,ITA
-1950,3,0,Yugoslavia,Switzerland,YUG,CHE
-1950,2,2,Brazil,Switzerland,BRA,CHE
-1950,4,1,Yugoslavia,Mexico,YUG,MEX
-1950,2,0,Spain,Chile,ESP,CHL
-1950,2,2,Sweden,Paraguay,SWE,PRY
-1950,1,0,USA,England,USA,ENG
-1950,2,0,Brazil,Yugoslavia,BRA,YUG
-1950,1,0,Spain,England,ESP,ENG
-1950,2,0,Italy,Paraguay,ITA,PRY
-1950,8,0,Uruguay,Bolivia,URY,BOL
-1950,2,1,Switzerland,Mexico,CHE,MEX
-1950,5,2,Chile,USA,CHL,USA
-1950,2,2,Uruguay,Spain,URY,ESP
-1950,7,1,Brazil,Sweden,BRA,SWE
-1950,6,1,Brazil,Spain,BRA,ESP
-1950,3,2,Uruguay,Sweden,URY,SWE
-1950,3,1,Sweden,Spain,SWE,ESP
-1950,2,1,Uruguay,Brazil,URY,BRA
-1954,2,0,Uruguay,Czechoslovakia,URY,CZE
-1954,1,0,Austria,Scotland,AUT,SCT
-1954,5,0,Brazil,Mexico,BRA,MEX
-1954,1,0,Yugoslavia,France,YUG,FRA
-1954,4,1,Germany FR,Turkey,DEU,TUR
-1954,9,0,Hungary,Korea Republic,HUN,KOR
-1954,4,4,England,Belgium,ENG,BEL
-1954,2,1,Switzerland,Italy,CHE,ITA
-1954,7,0,Uruguay,Scotland,URY,SCT
-1954,5,0,Austria,Czechoslovakia,AUT,CZE
-1954,3,2,France,Mexico,FRA,MEX
-1954,1,1,Brazil,Yugoslavia,BRA,YUG
-1954,8,3,Hungary,Germany FR,HUN,DEU
-1954,7,0,Turkey,Korea Republic,TUR,KOR
-1954,2,0,England,Switzerland,ENG,CHE
-1954,4,1,Italy,Belgium,ITA,BEL
-1954,7,2,Germany FR,Turkey,DEU,TUR
-1954,4,1,Switzerland,Italy,CHE,ITA
-1954,4,2,Uruguay,England,URY,ENG
-1954,7,5,Austria,Switzerland,AUT,CHE
-1954,2,0,Germany FR,Yugoslavia,DEU,YUG
-1954,4,2,Hungary,Brazil,HUN,BRA
-1954,6,1,Germany FR,Austria,DEU,AUT
-1954,4,2,Hungary,Uruguay,HUN,URY
-1954,3,1,Austria,Uruguay,AUT,URY
-1954,3,2,Germany FR,Hungary,DEU,HUN
-1958,3,0,Sweden,Mexico,SWE,MEX
-1958,2,2,Soviet Union,England,SUN,ENG
-1958,1,3,Argentina,Germany FR,ARG,DEU
-1958,1,1,Hungary,Wales,HUN,WLS
-1958,7,3,France,Paraguay,FRA,PRY
-1958,1,1,Yugoslavia,Scotland,YUG,SCT
-1958,3,0,Brazil,Austria,BRA,AUT
-1958,1,0,Northern Ireland,Czechoslovakia,NIL,CZE
-1958,0,0,Brazil,England,BRA,ENG
-1958,1,1,Mexico,Wales,MEX,WLS
-1958,3,2,Paraguay,Scotland,PRY,SCT
-1958,3,2,Yugoslavia,France,YUG,FRA
-1958,2,0,Soviet Union,Austria,SUN,AUT
-1958,2,2,Germany FR,Czechoslovakia,DEU,CZE
-1958,3,1,Argentina,Northern Ireland,ARG,NIL
-1958,2,1,Sweden,Hungary,SWE,HUN
-1958,0,0,Sweden,Wales,SWE,WLS
-1958,2,0,Brazil,Soviet Union,BRA,SUN
-1958,2,2,Germany FR,Northern Ireland,DEU,NIL
-1958,4,0,Hungary,Mexico,HUN,MEX
-1958,3,3,Paraguay,Yugoslavia,PRY,YUG
-1958,2,1,France,Scotland,FRA,SCT
-1958,2,2,England,Austria,ENG,AUT
-1958,6,1,Czechoslovakia,Argentina,CZE,ARG
-1958,1,0,Soviet Union,England,SUN,ENG
-1958,2,1,Northern Ireland,Czechoslovakia,NIL,CZE
-1958,2,1,Wales,Hungary,WLS,HUN
-1958,1,0,Brazil,Wales,BRA,WLS
-1958,1,0,Germany FR,Yugoslavia,DEU,YUG
-1958,2,0,Sweden,Soviet Union,SWE,SUN
-1958,4,0,France,Northern Ireland,FRA,NIL
-1958,3,1,Sweden,Germany FR,SWE,DEU
-1958,5,2,Brazil,France,BRA,FRA
-1958,6,3,France,Germany FR,FRA,DEU
-1958,5,2,Brazil,Sweden,BRA,SWE
-1962,2,1,Uruguay,Colombia,URY,COL
-1962,2,0,Brazil,Mexico,BRA,MEX
-1962,1,0,Argentina,Bulgaria,ARG,BGR
-1962,3,1,Chile,Switzerland,CHL,CHE
-1962,2,0,Soviet Union,Yugoslavia,SUN,YUG
-1962,1,0,Czechoslovakia,Spain,CZE,ESP
-1962,2,1,Hungary,England,HUN,ENG
-1962,0,0,Germany FR,Italy,DEU,ITA
-1962,3,1,Yugoslavia,Uruguay,YUG,URY
-1962,0,0,Brazil,Czechoslovakia,BRA,CZE
-1962,3,1,England,Argentina,ENG,ARG
-1962,2,0,Chile,Italy,CHL,ITA
-1962,4,4,Soviet Union,Colombia,SUN,COL
-1962,1,0,Spain,Mexico,ESP,MEX
-1962,6,1,Hungary,Bulgaria,HUN,BGR
-1962,2,1,Germany FR,Switzerland,DEU,CHE
-1962,2,1,Soviet Union,Uruguay,SUN,URY
-1962,2,1,Brazil,Spain,BRA,ESP
-1962,0,0,Hungary,Argentina,HUN,ARG
-1962,2,0,Germany FR,Chile,DEU,CHL
-1962,5,0,Yugoslavia,Colombia,YUG,COL
-1962,3,1,Mexico,Czechoslovakia,MEX,CZE
-1962,0,0,England,Bulgaria,ENG,BGR
-1962,3,0,Italy,Switzerland,ITA,CHE
-1962,2,1,Chile,Soviet Union,CHL,SUN
-1962,3,1,Brazil,England,BRA,ENG
-1962,1,0,Czechoslovakia,Hungary,CZE,HUN
-1962,1,0,Yugoslavia,Germany FR,YUG,DEU
-1962,3,1,Czechoslovakia,Yugoslavia,CZE,YUG
-1962,4,2,Brazil,Chile,BRA,CHL
-1962,1,0,Chile,Yugoslavia,CHL,YUG
-1962,3,1,Brazil,Czechoslovakia,BRA,CZE
-1966,0,0,England,Uruguay,ENG,URY
-1966,5,0,Germany FR,Switzerland,DEU,CHE
-1966,2,0,Brazil,Bulgaria,BRA,BGR
-1966,3,0,Soviet Union,Korea DPR,SUN,PRK
-1966,1,1,France,Mexico,FRA,MEX
-1966,3,1,Portugal,Hungary,PRT,HUN
-1966,2,1,Argentina,Spain,ARG,ESP
-1966,2,0,Italy,Chile,ITA,CHL
-1966,2,1,Uruguay,France,URY,FRA
-1966,2,1,Spain,Switzerland,ESP,CHE
-1966,3,1,Hungary,Brazil,HUN,BRA
-1966,1,1,Korea DPR,Chile,PRK,CHL
-1966,3,0,Portugal,Bulgaria,PRT,BGR
-1966,0,0,Germany FR,Argentina,DEU,ARG
-1966,1,0,Soviet Union,Italy,SUN,ITA
-1966,2,0,England,Mexico,ENG,MEX
-1966,0,0,Uruguay,Mexico,URY,MEX
-1966,2,0,Argentina,Switzerland,ARG,CHE
-1966,3,1,Portugal,Brazil,PRT,BRA
-1966,1,0,Korea DPR,Italy,PRK,ITA
-1966,2,0,England,France,ENG,FRA
-1966,3,1,Hungary,Bulgaria,HUN,BGR
-1966,2,1,Germany FR,Spain,DEU,ESP
-1966,2,1,Soviet Union,Chile,SUN,CHL
-1966,1,0,England,Argentina,ENG,ARG
-1966,4,0,Germany FR,Uruguay,DEU,URY
-1966,2,1,Soviet Union,Hungary,SUN,HUN
-1966,5,3,Portugal,Korea DPR,PRT,PRK
-1966,2,1,Germany FR,Soviet Union,DEU,SUN
-1966,2,1,England,Portugal,ENG,PRT
-1966,2,1,Portugal,Soviet Union,PRT,SUN
-1966,4,2,England,Germany FR,ENG,DEU
-1970,0,0,Mexico,Soviet Union,MEX,SUN
-1970,2,0,Uruguay,Israel,URY,ISR
-1970,3,2,Peru,Bulgaria,PER,BGR
-1970,1,0,England,Romania,ENG,ROU
-1970,1,0,Italy,Sweden,ITA,SWE
-1970,2,1,Germany FR,Morocco,DEU,MAR
-1970,4,1,Brazil,Czechoslovakia,BRA,CZE
-1970,3,0,Belgium,El Salvador,BEL,SLV
-1970,0,0,Uruguay,Italy,URY,ITA
-1970,3,0,Peru,Morocco,PER,MAR
-1970,2,1,Romania,Czechoslovakia,ROU,CZE
-1970,4,1,Soviet Union,Belgium,SUN,BEL
-1970,1,1,Sweden,Israel,SWE,ISR
-1970,5,2,Germany FR,Bulgaria,DEU,BGR
-1970,1,0,Brazil,England,BRA,ENG
-1970,4,0,Mexico,El Salvador,MEX,SLV
-1970,1,0,Sweden,Uruguay,SWE,URY
-1970,3,1,Germany FR,Peru,DEU,PER
-1970,3,2,Brazil,Romania,BRA,ROU
-1970,2,0,Soviet Union,El Salvador,SUN,SLV
-1970,0,0,Italy,Israel,ITA,ISR
-1970,1,1,Bulgaria,Morocco,BGR,MAR
-1970,1,0,England,Czechoslovakia,ENG,CZE
-1970,1,0,Mexico,Belgium,MEX,BEL
-1970,4,1,Italy,Mexico,ITA,MEX
-1970,3,2,Germany FR,England,DEU,ENG
-1970,4,2,Brazil,Peru,BRA,PER
-1970,1,0,Uruguay,Soviet Union,URY,SUN
-1970,3,1,Brazil,Uruguay,BRA,URY
-1970,4,3,Italy,Germany FR,ITA,DEU
-1970,1,0,Germany FR,Uruguay,DEU,URY
-1970,4,1,Brazil,Italy,BRA,ITA
-1974,0,0,Brazil,Yugoslavia,BRA,YUG
-1974,1,0,Germany FR,Chile,DEU,CHL
-1974,2,0,German DR,Australia,DEU,AUS
-1974,0,2,Zaire,Scotland,COD,SCT
-1974,0,2,Uruguay,Netherlands,URY,NLD
-1974,0,0,Sweden,Bulgaria,SWE,BGR
-1974,3,1,Italy,Haiti,ITA,HTI
-1974,3,2,Poland,Argentina,POL,ARG
-1974,0,3,Australia,Germany FR,AUS,DEU
-1974,0,0,Scotland,Brazil,SCT,BRA
-1974,1,1,Chile,German DR,CHL,DEU
-1974,9,0,Yugoslavia,Zaire,YUG,COD
-1974,0,0,Netherlands,Sweden,NLD,SWE
-1974,1,1,Bulgaria,Uruguay,BGR,URY
-1974,0,7,Haiti,Poland,HTI,POL
-1974,1,1,Argentina,Italy,ARG,ITA
-1974,1,1,Scotland,Yugoslavia,SCT,YUG
-1974,0,0,Australia,Chile,AUS,CHL
-1974,0,3,Zaire,Brazil,COD,BRA
-1974,1,0,German DR,Germany FR,DEU,DEU
-1974,1,4,Bulgaria,Netherlands,BGR,NLD
-1974,4,1,Argentina,Haiti,ARG,HTI
-1974,3,0,Sweden,Uruguay,SWE,URY
-1974,2,1,Poland,Italy,POL,ITA
-1974,0,2,Yugoslavia,Germany FR,YUG,DEU
-1974,1,0,Brazil,German DR,BRA,DEU
-1974,4,0,Netherlands,Argentina,NLD,ARG
-1974,0,1,Sweden,Poland,SWE,POL
-1974,1,2,Argentina,Brazil,ARG,BRA
-1974,2,1,Poland,Yugoslavia,POL,YUG
-1974,0,2,German DR,Netherlands,DEU,NLD
-1974,4,2,Germany FR,Sweden,DEU,SWE
-1974,0,1,Poland,Germany FR,POL,DEU
-1974,2,0,Netherlands,Brazil,NLD,BRA
-1974,1,1,Argentina,German DR,ARG,DEU
-1974,2,1,Sweden,Yugoslavia,SWE,YUG
-1974,0,1,Brazil,Poland,BRA,POL
-1974,1,2,Netherlands,Germany FR,NLD,DEU
-1978,0,0,Germany FR,Poland,DEU,POL
-1978,2,1,Italy,France,ITA,FRA
-1978,3,1,Tunisia,Mexico,TUN,MEX
-1978,2,1,Argentina,Hungary,ARG,HUN
-1978,1,1,Sweden,Brazil,SWE,BRA
-1978,2,1,Austria,Spain,AUT,ESP
-1978,3,1,Peru,Scotland,PER,SCT
-1978,3,0,Netherlands,IR Iran,NLD,IRN
-1978,3,1,Italy,Hungary,ITA,HUN
-1978,1,0,Poland,Tunisia,POL,TUN
-1978,6,0,Germany FR,Mexico,DEU,MEX
-1978,2,1,Argentina,France,ARG,FRA
-1978,0,0,Brazil,Spain,BRA,ESP
-1978,1,0,Austria,Sweden,AUT,SWE
-1978,1,1,Scotland,IR Iran,SCT,IRN
-1978,0,0,Netherlands,Peru,NLD,PER
-1978,3,1,France,Hungary,FRA,HUN
-1978,3,1,Poland,Mexico,POL,MEX
-1978,0,0,Germany FR,Tunisia,DEU,TUN
-1978,1,0,Italy,Argentina,ITA,ARG
-1978,1,0,Brazil,Austria,BRA,AUT
-1978,1,0,Spain,Sweden,ESP,SWE
-1978,4,1,Peru,Iran,PER,IRN
-1978,3,2,Scotland,Netherlands,SCT,NLD
-1978,0,0,Germany FR,Italy,DEU,ITA
-1978,5,1,Netherlands,Austria,NLD,AUT
-1978,3,0,Brazil,Peru,BRA,PER
-1978,2,0,Argentina,Poland,ARG,POL
-1978,1,0,Poland,Peru,POL,PER
-1978,1,0,Italy,Austria,ITA,AUT
-1978,2,2,Germany FR,Netherlands,DEU,NLD
-1978,0,0,Argentina,Brazil,ARG,BRA
-1978,2,1,Netherlands,Italy,NLD,ITA
-1978,3,2,Austria,Germany FR,AUT,DEU
-1978,3,1,Brazil,Poland,BRA,POL
-1978,6,0,Argentina,Peru,ARG,PER
-1978,2,1,Brazil,Italy,BRA,ITA
-1978,3,1,Argentina,Netherlands,ARG,NLD
-1982,0,1,Argentina,Belgium,ARG,BEL
-1982,0,0,Italy,Poland,ITA,POL
-1982,2,1,Brazil,Soviet Union,BRA,SUN
-1982,0,0,Peru,Cameroon,PER,CMR
-1982,10,1,Hungary,El Salvador,HUN,SLV
-1982,5,2,Scotland,New Zealand,SCT,NZL
-1982,1,2,Germany FR,Algeria,DEU,DZA
-1982,3,1,England,France,ENG,FRA
-1982,1,1,Spain,Honduras,ESP,HND
-1982,0,1,Chile,Austria,CHL,AUT
-1982,1,1,Czechoslovakia,Kuwait,CZE,KWT
-1982,0,0,Yugoslavia,Northern Ireland,YUG,NIL
-1982,1,1,Italy,Peru,ITA,PER
-1982,4,1,Argentina,Hungary,ARG,HUN
-1982,4,1,Brazil,Scotland,BRA,SCT
-1982,0,0,Poland,Cameroon,POL,CMR
-1982,1,0,Belgium,El Salvador,BEL,SLV
-1982,3,0,Soviet Union,New Zealand,SUN,NZL
-1982,4,1,Germany FR,Chile,DEU,CHL
-1982,2,0,England,Czechoslovakia,ENG,CZE
-1982,2,1,Spain,Yugoslavia,ESP,YUG
-1982,0,2,Algeria,Austria,DZA,AUT
-1982,4,1,France,Kuwait,FRA,KWT
-1982,1,1,Honduras,Northern Ireland,HND,NIL
-1982,5,1,Poland,Peru,POL,PER
-1982,1,1,Belgium,Hungary,BEL,HUN
-1982,2,2,Soviet Union,Scotland,SUN,SCT
-1982,1,1,Italy,Cameroon,ITA,CMR
-1982,2,0,Argentina,El Salvador,ARG,SLV
-1982,4,0,Brazil,New Zealand,BRA,NZL
-1982,3,2,Algeria,Chile,DZA,CHL
-1982,1,1,France,Czechoslovakia,FRA,CZE
-1982,0,1,Honduras,Yugoslavia,HND,YUG
-1982,1,0,Germany FR,Austria,DEU,AUT
-1982,1,0,England,Kuwait,ENG,KWT
-1982,1,0,Northern Ireland,Spain,NIL,ESP
-1982,0,1,Austria,France,AUT,FRA
-1982,3,0,Poland,Belgium,POL,BEL
-1982,2,1,Italy,Argentina,ITA,ARG
-1982,0,0,Germany FR,England,DEU,ENG
-1982,2,2,Austria,Northern Ireland,AUT,NIL
-1982,0,1,Belgium,Soviet Union,BEL,SUN
-1982,1,3,Argentina,Brazil,ARG,BRA
-1982,2,1,Germany FR,Spain,DEU,ESP
-1982,4,1,France,Northern Ireland,FRA,NIL
-1982,0,0,Poland,Soviet Union,POL,SUN
-1982,3,2,Italy,Brazil,ITA,BRA
-1982,0,0,Spain,England,ESP,ENG
-1982,0,2,Poland,Italy,POL,ITA
-1982,3,3,Germany FR,France,DEU,FRA
-1982,3,2,Poland,France,POL,FRA
-1982,3,1,Italy,Germany FR,ITA,DEU
-1986,1,1,Bulgaria,Italy,BGR,ITA
-1986,0,1,Canada,France,CAN,FRA
-1986,0,1,Spain,Brazil,ESP,BRA
-1986,6,0,Soviet Union,Hungary,SUN,HUN
-1986,3,1,Argentina,Korea Republic,ARG,KOR
-1986,0,0,Morocco,Poland,MAR,POL
-1986,1,1,Algeria,Northern Ireland,DZA,NIL
-1986,1,2,Belgium,Mexico,BEL,MEX
-1986,1,0,Portugal,England,PRT,ENG
-1986,1,0,Paraguay,Iraq,PRY,IRQ
-1986,0,1,Scotland,Denmark,SCT,DNK
-1986,1,1,Uruguay,Germany FR,URY,DEU
-1986,1,1,Italy,Argentina,ITA,ARG
-1986,1,1,France,Soviet Union,FRA,SUN
-1986,1,1,Korea Republic,Bulgaria,KOR,BGR
-1986,2,0,Hungary,Canada,HUN,CAN
-1986,1,0,Brazil,Algeria,BRA,DZA
-1986,0,0,England,Morocco,ENG,MAR
-1986,1,2,Northern Ireland,Spain,NIL,ESP
-1986,1,1,Mexico,Paraguay,MEX,PRY
-1986,1,0,Poland,Portugal,POL,PRT
-1986,1,2,Iraq,Belgium,IRQ,BEL
-1986,6,1,Denmark,Uruguay,DNK,URY
-1986,2,1,Germany FR,Scotland,DEU,SCT
-1986,0,3,Hungary,France,HUN,FRA
-1986,2,0,Soviet Union,Canada,SUN,CAN
-1986,2,3,Korea Republic,Italy,KOR,ITA
-1986,2,0,Argentina,Bulgaria,ARG,BGR
-1986,2,2,Paraguay,Belgium,PRY,BEL
-1986,0,1,Iraq,Mexico,IRQ,MEX
-1986,1,3,Portugal,Morocco,PRT,MAR
-1986,3,0,England,Poland,ENG,POL
-1986,0,3,Northern Ireland,Brazil,NIL,BRA
-1986,0,3,Algeria,Spain,DZA,ESP
-1986,0,0,Scotland,Uruguay,SCT,URY
-1986,2,0,Denmark,Germany FR,DNK,DEU
-1986,3,4,Soviet Union,Belgium,SUN,BEL
-1986,2,0,Mexico,Bulgaria,MEX,BGR
-1986,1,0,Argentina,Uruguay,ARG,URY
-1986,4,0,Brazil,Poland,BRA,POL
-1986,0,2,Italy,France,ITA,FRA
-1986,0,1,Morocco,Germany FR,MAR,DEU
-1986,3,0,England,Paraguay,ENG,PRY
-1986,1,5,Denmark,Spain,DNK,ESP
-1986,1,1,Brazil,France,BRA,FRA
-1986,0,0,Germany FR,Mexico,DEU,MEX
-1986,1,1,Spain,Belgium,ESP,BEL
-1986,2,1,Argentina,England,ARG,ENG
-1986,0,2,France,Germany FR,FRA,DEU
-1986,2,0,Argentina,Belgium,ARG,BEL
-1986,4,2,France,Belgium,FRA,BEL
-1986,3,2,Argentina,Germany FR,ARG,DEU
-1990,0,1,Argentina,Cameroon,ARG,CMR
-1990,0,2,Soviet Union,Romania,SUN,ROU
-1990,0,2,"rn"">United Arab Emirates",Colombia,ARE,COL
-1990,1,0,Italy,Austria,ITA,AUT
-1990,1,5,USA,Czechoslovakia,USA,CZE
-1990,2,1,Brazil,Sweden,BRA,SWE
-1990,4,1,Germany FR,Yugoslavia,DEU,YUG
-1990,1,0,Costa Rica,Scotland,CRI,SCT
-1990,1,1,England,"rn"">Republic of Ireland",ENG,IRL
-1990,2,0,Belgium,Korea Republic,BEL,KOR
-1990,1,1,Netherlands,Egypt,NLD,EGY
-1990,0,0,Uruguay,Spain,URY,ESP
-1990,2,0,Argentina,Soviet Union,ARG,SUN
-1990,2,1,Cameroon,Romania,CMR,ROU
-1990,1,0,Yugoslavia,Colombia,YUG,COL
-1990,1,0,Italy,USA,ITA,USA
-1990,0,1,Austria,Czechoslovakia,AUT,CZE
-1990,5,1,Germany FR,"rn"">United Arab Emirates",DEU,ARE
-1990,1,0,Brazil,Costa Rica,BRA,CRI
-1990,1,2,Sweden,Scotland,SWE,SCT
-1990,0,0,England,Netherlands,ENG,NLD
-1990,0,0,"rn"">Republic of Ireland",Egypt,IRL,EGY
-1990,1,3,Korea Republic,Spain,KOR,ESP
-1990,3,1,Belgium,Uruguay,BEL,URY
-1990,1,1,Argentina,Romania,ARG,ROU
-1990,0,4,Cameroon,Soviet Union,CMR,SUN
-1990,1,1,Germany FR,Colombia,DEU,COL
-1990,4,1,Yugoslavia,"rn"">United Arab Emirates",YUG,ARE
-1990,2,0,Italy,Czechoslovakia,ITA,CZE
-1990,2,1,Austria,USA,AUT,USA
-1990,1,0,Brazil,Scotland,BRA,SCT
-1990,1,2,Sweden,Costa Rica,SWE,CRI
-1990,0,1,Korea Republic,Uruguay,KOR,URY
-1990,1,2,Belgium,Spain,BEL,ESP
-1990,1,1,"rn"">Republic of Ireland",Netherlands,IRL,NLD
-1990,1,0,England,Egypt,ENG,EGY
-1990,2,1,Cameroon,Colombia,CMR,COL
-1990,4,1,Czechoslovakia,Costa Rica,CZE,CRI
-1990,0,1,Brazil,Argentina,BRA,ARG
-1990,2,1,Germany FR,Netherlands,DEU,NLD
-1990,0,0,"rn"">Republic of Ireland",Romania,IRL,ROU
-1990,2,0,Italy,Uruguay,ITA,URY
-1990,1,2,Spain,Yugoslavia,ESP,YUG
-1990,1,0,England,Belgium,ENG,BEL
-1990,0,0,Yugoslavia,Argentina,YUG,ARG
-1990,1,0,Italy,"rn"">Republic of Ireland",ITA,IRL
-1990,1,0,Germany FR,Czechoslovakia,DEU,CZE
-1990,3,2,England,Cameroon,ENG,CMR
-1990,1,1,Italy,Argentina,ITA,ARG
-1990,1,1,Germany FR,England,DEU,ENG
-1990,2,1,Italy,England,ITA,ENG
-1990,1,0,Germany FR,Argentina,DEU,ARG
-1994,2,2,Spain,Korea Republic,ESP,KOR
-1994,1,0,Germany,Bolivia,DEU,BOL
-1994,1,1,USA,Switzerland,USA,CHE
-1994,0,1,Italy,"rn"">Republic of Ireland",ITA,IRL
-1994,1,3,Colombia,Romania,COL,ROU
-1994,1,0,Belgium,Morocco,BEL,MAR
-1994,1,0,Norway,Mexico,NOR,MEX
-1994,2,2,Cameroon,Sweden,CMR,SWE
-1994,2,1,Netherlands,Saudi Arabia,NLD,SAU
-1994,2,0,Brazil,Russia,BRA,RUS
-1994,4,0,Argentina,Greece,ARG,GRC
-1994,3,0,Nigeria,Bulgaria,NGA,BGR
-1994,1,1,Germany,Spain,DEU,ESP
-1994,1,4,Romania,Switzerland,ROU,CHE
-1994,2,1,USA,Colombia,USA,COL
-1994,1,0,Italy,Norway,ITA,NOR
-1994,0,0,Korea Republic,Bolivia,KOR,BOL
-1994,2,1,Mexico,"rn"">Republic of Ireland",MEX,IRL
-1994,3,1,Sweden,Russia,SWE,RUS
-1994,3,0,Brazil,Cameroon,BRA,CMR
-1994,1,0,Belgium,Netherlands,BEL,NLD
-1994,2,1,Saudi Arabia,Morocco,SAU,MAR
-1994,2,1,Argentina,Nigeria,ARG,NGA
-1994,4,0,Bulgaria,Greece,BGR,GRC
-1994,0,1,USA,Romania,USA,ROU
-1994,0,2,Switzerland,Colombia,CHE,COL
-1994,3,2,Germany,Korea Republic,DEU,KOR
-1994,1,3,Bolivia,Spain,BOL,ESP
-1994,0,0,"rn"">Republic of Ireland",Norway,IRL,NOR
-1994,1,1,Brazil,Sweden,BRA,SWE
-1994,1,1,Italy,Mexico,ITA,MEX
-1994,6,1,Russia,Cameroon,RUS,CMR
-1994,1,2,Morocco,Netherlands,MAR,NLD
-1994,0,1,Belgium,Saudi Arabia,BEL,SAU
-1994,0,2,Greece,Nigeria,GRC,NGA
-1994,0,2,Argentina,Bulgaria,ARG,BGR
-1994,3,2,Germany,Belgium,DEU,BEL
-1994,3,0,Spain,Switzerland,ESP,CHE
-1994,1,3,Saudi Arabia,Sweden,SAU,SWE
-1994,3,2,Romania,Argentina,ROU,ARG
-1994,2,0,Netherlands,"rn"">Republic of Ireland",NLD,IRL
-1994,1,0,Brazil,USA,BRA,USA
-1994,1,2,Nigeria,Italy,NGA,ITA
-1994,1,1,Mexico,Bulgaria,MEX,BGR
-1994,2,1,Italy,Spain,ITA,ESP
-1994,2,3,Netherlands,Brazil,NLD,BRA
-1994,2,1,Bulgaria,Germany,BGR,DEU
-1994,2,2,Romania,Sweden,ROU,SWE
-1994,1,2,Bulgaria,Italy,BGR,ITA
-1994,0,1,Sweden,Brazil,SWE,BRA
-1994,4,0,Sweden,Bulgaria,SWE,BGR
-1994,0,0,Brazil,Italy,BRA,ITA
-1998,2,1,Brazil,Scotland,BRA,SCT
-1998,2,2,Morocco,Norway,MAR,NOR
-1998,2,2,Italy,Chile,ITA,CHL
-1998,1,1,Cameroon,Austria,CMR,AUT
-1998,0,0,Paraguay,Bulgaria,PRY,BGR
-1998,0,1,Saudi Arabia,Denmark,SAU,DNK
-1998,3,0,France,South Africa,FRA,ZAF
-1998,2,3,Spain,Nigeria,ESP,NGA
-1998,1,3,Korea Republic,Mexico,KOR,MEX
-1998,0,0,Netherlands,Belgium,NLD,BEL
-1998,1,0,Argentina,Japan,ARG,JPN
-1998,1,0,Yugoslavia,Iran,YUG,IRN
-1998,1,3,Jamaica,Croatia,JAM,HRV
-1998,2,0,England,Tunisia,ENG,TUN
-1998,1,0,Romania,Colombia,ROU,COL
-1998,2,0,Germany,USA,DEU,USA
-1998,1,1,Scotland,Norway,SCT,NOR
-1998,3,0,Brazil,Morocco,BRA,MAR
-1998,1,1,Chile,Austria,CHL,AUT
-1998,3,0,Italy,Cameroon,ITA,CMR
-1998,1,1,South Africa,Denmark,ZAF,DNK
-1998,4,0,France,Saudi Arabia,FRA,SAU
-1998,1,0,Nigeria,Bulgaria,NGA,BGR
-1998,0,0,Spain,Paraguay,ESP,PRY
-1998,0,1,Japan,Croatia,JPN,HRV
-1998,2,2,Belgium,Mexico,BEL,MEX
-1998,5,0,Netherlands,Korea Republic,NLD,KOR
-1998,2,2,Germany,Yugoslavia,DEU,YUG
-1998,5,0,Argentina,Jamaica,ARG,JAM
-1998,1,2,USA,Iran,USA,IRN
-1998,1,0,Colombia,Tunisia,COL,TUN
-1998,2,1,Romania,England,ROU,ENG
-1998,2,1,Italy,Austria,ITA,AUT
-1998,1,1,Chile,Cameroon,CHL,CMR
-1998,0,3,Scotland,Morocco,SCT,MAR
-1998,1,2,Brazil,Norway,BRA,NOR
-1998,2,1,France,Denmark,FRA,DNK
-1998,2,2,South Africa,Saudi Arabia,ZAF,SAU
-1998,6,1,Spain,Bulgaria,ESP,BGR
-1998,1,3,Nigeria,Paraguay,NGA,PRY
-1998,1,1,Belgium,Korea Republic,BEL,KOR
-1998,2,2,Netherlands,Mexico,NLD,MEX
-1998,2,0,Germany,Iran,DEU,IRN
-1998,0,1,USA,Yugoslavia,USA,YUG
-1998,1,2,Japan,Jamaica,JPN,JAM
-1998,1,0,Argentina,Croatia,ARG,HRV
-1998,1,1,Romania,Tunisia,ROU,TUN
-1998,0,2,Colombia,England,COL,ENG
-1998,1,0,Italy,Norway,ITA,NOR
-1998,4,1,Brazil,Chile,BRA,CHL
-1998,1,0,France,Paraguay,FRA,PRY
-1998,1,4,Nigeria,Denmark,NGA,DNK
-1998,2,1,Germany,Mexico,DEU,MEX
-1998,2,1,Netherlands,Yugoslavia,NLD,YUG
-1998,0,1,Romania,Croatia,ROU,HRV
-1998,2,2,Argentina,England,ARG,ENG
-1998,0,0,Italy,France,ITA,FRA
-1998,3,2,Brazil,Denmark,BRA,DNK
-1998,2,1,Netherlands,Argentina,NLD,ARG
-1998,0,3,Germany,Croatia,DEU,HRV
-1998,1,1,Brazil,Netherlands,BRA,NLD
-1998,2,1,France,Croatia,FRA,HRV
-1998,1,2,Netherlands,Croatia,NLD,HRV
-1998,0,3,Brazil,France,BRA,FRA
-2002,0,1,France,Senegal,FRA,SEN
-2002,1,2,Uruguay,Denmark,URY,DNK
-2002,1,1,"rn"">Republic of Ireland",Cameroon,IRL,CMR
-2002,8,0,Germany,Saudi Arabia,DEU,SAU
-2002,1,0,Argentina,Nigeria,ARG,NGA
-2002,2,2,Paraguay,South Africa,PRY,ZAF
-2002,1,1,England,Sweden,ENG,SWE
-2002,3,1,Spain,Slovenia,ESP,SVN
-2002,2,1,Brazil,Turkey,BRA,TUR
-2002,2,0,Italy,Ecuador,ITA,ECU
-2002,0,1,Croatia,Mexico,HRV,MEX
-2002,0,2,China PR,Costa Rica,CHN,CRI
-2002,2,2,Japan,Belgium,JPN,BEL
-2002,2,0,Korea Republic,Poland,KOR,POL
-2002,2,0,Russia,Tunisia,RUS,TUN
-2002,3,2,USA,Portugal,USA,PRT
-2002,1,1,Germany,"rn"">Republic of Ireland",DEU,IRL
-2002,1,1,Denmark,Senegal,DNK,SEN
-2002,1,0,Cameroon,Saudi Arabia,CMR,SAU
-2002,0,0,France,Uruguay,FRA,URY
-2002,2,1,Sweden,Nigeria,SWE,NGA
-2002,0,1,Argentina,England,ARG,ENG
-2002,3,1,Spain,Paraguay,ESP,PRY
-2002,1,0,South Africa,Slovenia,ZAF,SVN
-2002,4,0,Brazil,China PR,BRA,CHN
-2002,1,2,Italy,Croatia,ITA,HRV
-2002,1,1,Costa Rica,Turkey,CRI,TUR
-2002,1,0,Japan,Russia,JPN,RUS
-2002,2,1,Mexico,Ecuador,MEX,ECU
-2002,1,1,Korea Republic,USA,KOR,USA
-2002,4,0,Portugal,Poland,PRT,POL
-2002,1,1,Tunisia,Belgium,TUN,BEL
-2002,2,0,Denmark,France,DNK,FRA
-2002,3,3,Senegal,Uruguay,SEN,URY
-2002,0,3,Saudi Arabia,"rn"">Republic of Ireland",SAU,IRL
-2002,0,2,Cameroon,Germany,CMR,DEU
-2002,1,1,Sweden,Argentina,SWE,ARG
-2002,0,0,Nigeria,England,NGA,ENG
-2002,1,3,Slovenia,Paraguay,SVN,PRY
-2002,2,3,South Africa,Spain,ZAF,ESP
-2002,2,5,Costa Rica,Brazil,CRI,BRA
-2002,3,0,Turkey,China PR,TUR,CHN
-2002,1,0,Ecuador,Croatia,ECU,HRV
-2002,1,1,Mexico,Italy,MEX,ITA
-2002,0,2,Tunisia,Japan,TUN,JPN
-2002,0,1,Portugal,Korea Republic,PRT,KOR
-2002,3,1,Poland,USA,POL,USA
-2002,3,2,Belgium,Russia,BEL,RUS
-2002,0,3,Denmark,England,DNK,ENG
-2002,1,0,Germany,Paraguay,DEU,PRY
-2002,1,1,Spain,"rn"">Republic of Ireland",ESP,IRL
-2002,1,2,Sweden,Senegal,SWE,SEN
-2002,2,0,Brazil,Belgium,BRA,BEL
-2002,0,2,Mexico,USA,MEX,USA
-2002,0,1,Japan,Turkey,JPN,TUR
-2002,2,1,Korea Republic,Italy,KOR,ITA
-2002,1,2,England,Brazil,ENG,BRA
-2002,1,0,Germany,USA,DEU,USA
-2002,0,1,Senegal,Turkey,SEN,TUR
-2002,0,0,Spain,Korea Republic,ESP,KOR
-2002,1,0,Germany,Korea Republic,DEU,KOR
-2002,1,0,Brazil,Turkey,BRA,TUR
-2002,2,3,Korea Republic,Turkey,KOR,TUR
-2002,0,2,Germany,Brazil,DEU,BRA
-2006,4,2,Germany,Costa Rica,DEU,CRI
-2006,0,2,Poland,Ecuador,POL,ECU
-2006,1,0,England,Paraguay,ENG,PRY
-2006,0,0,"rn"">Trinidad and Tobago",Sweden,TTO,SWE
-2006,2,1,Argentina,C�te d'Ivoire,ARG,CIV
-2006,0,1,"rn"">Serbia and Montenegro",Netherlands,SCG,NLD
-2006,3,1,Mexico,Iran,MEX,IRN
-2006,0,1,Angola,Portugal,AGO,PRT
-2006,3,1,Australia,Japan,AUS,JPN
-2006,0,3,USA,Czech Republic,USA,CZE
-2006,2,0,Italy,Ghana,ITA,GHA
-2006,2,1,Korea Republic,Togo,KOR,TGO
-2006,0,0,France,Switzerland,FRA,CHE
-2006,1,0,Brazil,Croatia,BRA,HRV
-2006,4,0,Spain,Ukraine,ESP,UKR
-2006,2,2,Tunisia,Saudi Arabia,TUN,SAU
-2006,1,0,Germany,Poland,DEU,POL
-2006,3,0,Ecuador,Costa Rica,ECU,CRI
-2006,2,0,England,"rn"">Trinidad and Tobago",ENG,TTO
-2006,1,0,Sweden,Paraguay,SWE,PRY
-2006,6,0,Argentina,"rn"">Serbia and Montenegro",ARG,SCG
-2006,2,1,Netherlands,C�te d'Ivoire,NLD,CIV
-2006,0,0,Mexico,Angola,MEX,AGO
-2006,2,0,Portugal,IR Iran,PRT,IRN
-2006,0,2,Czech Republic,Ghana,CZE,GHA
-2006,1,1,Italy,USA,ITA,USA
-2006,0,0,Japan,Croatia,JPN,HRV
-2006,2,0,Brazil,Australia,BRA,AUS
-2006,1,1,France,Korea Republic,FRA,KOR
-2006,0,2,Togo,Switzerland,TGO,CHE
-2006,0,4,Saudi Arabia,Ukraine,SAU,UKR
-2006,3,1,Spain,Tunisia,ESP,TUN
-2006,0,3,Ecuador,Germany,ECU,DEU
-2006,1,2,Costa Rica,Poland,CRI,POL
-2006,2,2,Sweden,England,SWE,ENG
-2006,2,0,Paraguay,"rn"">Trinidad and Tobago",PRY,TTO
-2006,1,1,Iran,Angola,IRN,AGO
-2006,2,1,Portugal,Mexico,PRT,MEX
-2006,0,0,Netherlands,Argentina,NLD,ARG
-2006,3,2,C�te d'Ivoire,"rn"">Serbia and Montenegro",CIV,SCG
-2006,0,2,Czech Republic,Italy,CZE,ITA
-2006,2,1,Ghana,USA,GHA,USA
-2006,1,4,Japan,Brazil,JPN,BRA
-2006,2,2,Croatia,Australia,HRV,AUS
-2006,1,0,Ukraine,Tunisia,UKR,TUN
-2006,0,1,Saudi Arabia,Spain,SAU,ESP
-2006,0,2,Togo,France,TGO,FRA
-2006,2,0,Switzerland,Korea Republic,CHE,KOR
-2006,2,0,Germany,Sweden,DEU,SWE
-2006,2,1,Argentina,Mexico,ARG,MEX
-2006,1,0,England,Ecuador,ENG,ECU
-2006,1,0,Portugal,Netherlands,PRT,NLD
-2006,1,0,Italy,Australia,ITA,AUS
-2006,0,0,Switzerland,Ukraine,CHE,UKR
-2006,3,0,Brazil,Ghana,BRA,GHA
-2006,1,3,Spain,France,ESP,FRA
-2006,1,1,Germany,Argentina,DEU,ARG
-2006,3,0,Italy,Ukraine,ITA,UKR
-2006,0,0,England,Portugal,ENG,PRT
-2006,0,1,Brazil,France,BRA,FRA
-2006,0,2,Germany,Italy,DEU,ITA
-2006,0,1,Portugal,France,PRT,FRA
-2006,3,1,Germany,Portugal,DEU,PRT
-2006,1,1,Italy,France,ITA,FRA
-2010,1,1,South Africa,Mexico,ZAF,MEX
-2010,0,0,Uruguay,France,URY,FRA
-2010,2,0,Korea Republic,Greece,KOR,GRC
-2010,1,0,Argentina,Nigeria,ARG,NGA
-2010,1,1,England,USA,ENG,USA
-2010,0,1,Algeria,Slovenia,DZA,SVN
-2010,0,1,Serbia,Ghana,SRB,GHA
-2010,4,0,Germany,Australia,DEU,AUS
-2010,2,0,Netherlands,Denmark,NLD,DNK
-2010,1,0,Japan,Cameroon,JPN,CMR
-2010,1,1,Italy,Paraguay,ITA,PRY
-2010,1,1,New Zealand,Slovakia,NZL,SVK
-2010,0,0,C�te d'Ivoire,Portugal,CIV,PRT
-2010,2,1,Brazil,Korea DPR,BRA,PRK
-2010,0,1,Honduras,Chile,HND,CHL
-2010,0,1,Spain,Switzerland,ESP,CHE
-2010,0,3,South Africa,Uruguay,ZAF,URY
-2010,4,1,Argentina,Korea Republic,ARG,KOR
-2010,2,1,Greece,Nigeria,GRC,NGA
-2010,0,2,France,Mexico,FRA,MEX
-2010,0,1,Germany,Serbia,DEU,SRB
-2010,2,2,Slovenia,USA,SVN,USA
-2010,0,0,England,Algeria,ENG,DZA
-2010,1,0,Netherlands,Japan,NLD,JPN
-2010,1,1,Ghana,Australia,GHA,AUS
-2010,1,2,Cameroon,Denmark,CMR,DNK
-2010,0,2,Slovakia,Paraguay,SVK,PRY
-2010,1,1,Italy,New Zealand,ITA,NZL
-2010,3,1,Brazil,C�te d'Ivoire,BRA,CIV
-2010,7,0,Portugal,Korea DPR,PRT,PRK
-2010,1,0,Chile,Switzerland,CHL,CHE
-2010,2,0,Spain,Honduras,ESP,HND
-2010,0,1,Mexico,Uruguay,MEX,URY
-2010,1,2,France,South Africa,FRA,ZAF
-2010,2,2,Nigeria,Korea Republic,NGA,KOR
-2010,0,2,Greece,Argentina,GRC,ARG
-2010,0,1,Slovenia,England,SVN,ENG
-2010,1,0,USA,Algeria,USA,DZA
-2010,0,1,Ghana,Germany,GHA,DEU
-2010,2,1,Australia,Serbia,AUS,SRB
-2010,3,2,Slovakia,Italy,SVK,ITA
-2010,0,0,Paraguay,New Zealand,PRY,NZL
-2010,1,3,Denmark,Japan,DNK,JPN
-2010,1,2,Cameroon,Netherlands,CMR,NLD
-2010,0,0,Portugal,Brazil,PRT,BRA
-2010,0,3,Korea DPR,C�te d'Ivoire,PRK,CIV
-2010,1,2,Chile,Spain,CHL,ESP
-2010,0,0,Switzerland,Honduras,CHE,HND
-2010,2,1,Uruguay,Korea Republic,URY,KOR
-2010,1,2,USA,Ghana,USA,GHA
-2010,4,1,Germany,England,DEU,ENG
-2010,3,1,Argentina,Mexico,ARG,MEX
-2010,2,1,Netherlands,Slovakia,NLD,SVK
-2010,3,0,Brazil,Chile,BRA,CHL
-2010,0,0,Paraguay,Japan,PRY,JPN
-2010,1,0,Spain,Portugal,ESP,PRT
-2010,2,1,Netherlands,Brazil,NLD,BRA
-2010,1,1,Uruguay,Ghana,URY,GHA
-2010,0,4,Argentina,Germany,ARG,DEU
-2010,0,1,Paraguay,Spain,PRY,ESP
-2010,2,3,Uruguay,Netherlands,URY,NLD
-2010,0,1,Germany,Spain,DEU,ESP
-2010,2,3,Uruguay,Germany,URY,DEU
-2010,0,1,Netherlands,Spain,NLD,ESP
-2014,3,1,Brazil,Croatia,BRA,HRV
-2014,1,0,Mexico,Cameroon,MEX,CMR
-2014,1,5,Spain,Netherlands,ESP,NLD
-2014,3,1,Chile,Australia,CHL,AUS
-2014,3,0,Colombia,Greece,COL,GRC
-2014,1,3,Uruguay,Costa Rica,URY,CRI
-2014,1,2,England,Italy,ENG,ITA
-2014,2,1,C�te d'Ivoire,Japan,CIV,JPN
-2014,2,1,Switzerland,Ecuador,CHE,ECU
-2014,3,0,France,Honduras,FRA,HND
-2014,2,1,Argentina,"rn"">Bosnia and Herzegovina",ARG,BIH
-2014,4,0,Germany,Portugal,DEU,PRT
-2014,0,0,IR Iran,Nigeria,IRN,NGA
-2014,1,2,Ghana,USA,GHA,USA
-2014,2,1,Belgium,Algeria,BEL,DZA
-2014,0,0,Brazil,Mexico,BRA,MEX
-2014,1,1,Russia,Korea Republic,RUS,KOR
-2014,2,3,Australia,Netherlands,AUS,NLD
-2014,0,2,Spain,Chile,ESP,CHL
-2014,0,4,Cameroon,Croatia,CMR,HRV
-2014,2,1,Colombia,C�te d'Ivoire,COL,CIV
-2014,2,1,Uruguay,England,URY,ENG
-2014,0,0,Japan,Greece,JPN,GRC
-2014,0,1,Italy,Costa Rica,ITA,CRI
-2014,2,5,Switzerland,France,CHE,FRA
-2014,1,2,Honduras,Ecuador,HND,ECU
-2014,1,0,Argentina,IR Iran,ARG,IRN
-2014,2,2,Germany,Ghana,DEU,GHA
-2014,1,0,Nigeria,"rn"">Bosnia and Herzegovina",NGA,BIH
-2014,1,0,Belgium,Russia,BEL,RUS
-2014,2,4,Korea Republic,Algeria,KOR,DZA
-2014,2,2,USA,Portugal,USA,PRT
-2014,0,3,Australia,Spain,AUS,ESP
-2014,2,0,Netherlands,Chile,NLD,CHL
-2014,1,4,Cameroon,Brazil,CMR,BRA
-2014,1,3,Croatia,Mexico,HRV,MEX
-2014,0,1,Italy,Uruguay,ITA,URY
-2014,0,0,Costa Rica,England,CRI,ENG
-2014,1,4,Japan,Colombia,JPN,COL
-2014,2,1,Greece,C�te d'Ivoire,GRC,CIV
-2014,2,3,Nigeria,Argentina,NGA,ARG
-2014,3,1,"rn"">Bosnia and Herzegovina",IR Iran,BIH,IRN
-2014,0,3,Honduras,Switzerland,HND,CHE
-2014,0,0,Ecuador,France,ECU,FRA
-2014,0,1,USA,Germany,USA,DEU
-2014,2,1,Portugal,Ghana,PRT,GHA
-2014,0,1,Korea Republic,Belgium,KOR,BEL
-2014,1,1,Algeria,Russia,DZA,RUS
-2014,1,1,Brazil,Chile,BRA,CHL
-2014,2,0,Colombia,Uruguay,COL,URY
-2014,2,0,France,Nigeria,FRA,NGA
-2014,2,1,Germany,Algeria,DEU,DZA
-2014,2,1,Brazil,Colombia,BRA,COL
-2014,0,1,France,Germany,FRA,DEU
-2014,1,7,Brazil,Germany,BRA,DEU
-2014,0,3,Brazil,Netherlands,BRA,NLD
-2014,1,0,Germany,Argentina,DEU,ARG
-2014,0,0,Netherlands,Argentina,NLD,ARG
-2014,0,0,Netherlands,Costa Rica,NLD,CRI
-2014,1,0,Argentina,Belgium,ARG,BEL
-2014,2,1,Netherlands,Mexico,NLD,MEX
-2014,1,1,Costa Rica,Greece,CRI,GRC
-2014,1,0,Argentina,Switzerland,ARG,CHE
-2014,2,1,Belgium,USA,BEL,USA
-2014,1,1,Brazil,Chile,BRA,CHL
-2014,2,0,Colombia,Uruguay,COL,URY
-2014,2,1,Netherlands,Mexico,NLD,MEX
-2014,1,1,Costa Rica,Greece,CRI,GRC
-2014,2,0,France,Nigeria,FRA,NGA
-2014,2,1,Germany,Algeria,DEU,DZA
-2014,1,0,Argentina,Switzerland,ARG,CHE
-2014,2,1,Belgium,USA,BEL,USA
-2014,0,1,France,Germany,FRA,DEU
-2014,2,1,Brazil,Colombia,BRA,COL
-2014,1,0,Argentina,Belgium,ARG,BEL
-2014,0,0,Netherlands,Costa Rica,NLD,CRI
-2014,1,7,Brazil,Germany,BRA,DEU
-2014,0,0,Netherlands,Argentina,NLD,ARG
-2014,0,3,Brazil,Netherlands,BRA,NLD
-2014,1,0,Germany,Argentina,DEU,ARG
-2018,5,0,Russia,Saudi Arabia,RUS,SAU
-2018,0,1,Egypt,Uruguay,EGY,URY
-2018,0,1,Morocco,Iran,MAR,IRN
-2018,3,3,Portugal,Spain,PRT,ESP
-2018,2,1,France,Australia,FRA,AUS
-2018,1,1,Argentina,Iceland,ARG,ISL
-2018,0,1,Peru,Denmark,PER,DNK
-2018,2,0,Croatia,Nigeria,HRV,NGA
-2018,0,1,Costa Rica,Serbia,CRI,SRB
-2018,0,1,Germany,Mexico,DEU,MEX
-2018,1,1,Brazil,Switzerland,BRA,CHE
-2018,1,0,Sweden,South Korea,SWE,KOR
-2018,3,0,Belgium,Panama,BEL,PAN
-2018,1,2,Tunisia,England,TUN,ENG
-2018,1,2,Colombia,Japan,COL,JPN
-2018,1,2,Poland,Senegal,POL,SEN
-2018,3,1,Russia,Egypt,RUS,EGY
-2018,1,0,Portugal,Morocco,PRT,MAR
-2018,1,0,Uruguay,Saudi Arabia,URY,SAU
-2018,0,1,Iran,Spain,IRN,ESP
-2018,1,1,Denmark,Australia,DNK,AUS
-2018,1,0,France,Peru,FRA,PER
-2018,0,3,Argentina,Croatia,ARG,HRV
-2018,2,0,Brazil,Costa Rica,BRA,CRI
-2018,2,0,Nigeria,Iceland,NGA,ISL
-2018,1,2,Serbia,Switzerland,SRB,CHE
-2018,5,2,Belgium,Tunisia,BEL,TUN
-2018,1,2,South Korea,Mexico,KOR,MEX
-2018,2,1,Germany,Sweden,DEU,SWE
-2018,6,1,England,Panama,ENG,PAN
-2018,2,2,Japan,Senegal,JPN,SEN
-2018,0,3,Poland,Colombia,POL,COL
-2018,2,1,Saudi Arabia,Egypt,SAU,EGY
-2018,3,0,Uruguay,Russia,URY,RUS
-2018,1,1,Iran,Portugal,IRN,PRT
-2018,2,2,Spain,Morocco,ESP,MAR
-2018,0,2,Australia,Peru,AUS,PER
-2018,0,0,Denmark,France,DNK,FRA
-2018,1,2,Nigeria,Argentina,NGA,ARG
-2018,1,2,Iceland,Croatia,ISL,HRV
-2018,0,3,Mexico,Sweden,MEX,SWE
-2018,2,0,South Korea,Germany,KOR,DEU
-2018,2,2,Switzerland,Costa Rica,CHE,CRI
-2018,0,2,Serbia,Brazil,SRB,BRA
-2018,0,1,Senegal,Colombia,SEN,COL
-2018,0,1,Japan,Poland,JPN,POL
-2018,0,1,England,Belgium,ENG,BEL
-2018,1,2,Panama,Tunisia,PAN,TUN
-2018,4,3,France,Argentina,FRA,ARG
-2018,2,1,Uruguay,Portugal,URY,PRT
-2018,1,1,Spain,Russia,ESP,RUS
-2018,1,1,Croatia,Denmark,HRV,DNK
-2018,2,0,Brazil,Mexico,BRA,MEX
-2018,3,2,Belgium,Japan,BEL,JPN
-2018,1,0,Sweden,Switzerland,SWE,CHE
-2018,1,1,Colombia,England,COL,ENG
-2018,0,2,Uruguay,France,URY,FRA
-2018,1,2,Brazil,Belgium,BRA,BEL
-2018,0,2,Sweden,England,SWE,ENG
-2018,2,2,Russia,Croatia,RUS,HRV
-2018,1,0,France,Belgium,FRA,BEL
-2018,2,1,Croatia,England,HRV,ENG
-2018,2,0,Belgium,England,BEL,ENG
-2018,4,2,Croatia,France,HRV,FRA
-2022,0,2,QATAR,ECUADOR,QAT,ECU
-2022,6,2,ENGLAND,IRAN,ENG,IRN
-2022,0,2,SENEGAL,NETHERLANDS,SEN,NLD
-2022,1,1,UNITED STATES,WALES,USA,WLS
-2022,1,2,ARGENTINA,SAUDI ARABIA,ARG,SAU
-2022,0,0,DENMARK,TUNISIA,DNK,TUN
-2022,0,0,MEXICO,POLAND,MEX,POL
-2022,4,1,FRANCE,AUSTRALIA,FRA,AUS
-2022,0,0,MOROCCO,CROATIA,MAR,HRV
-2022,1,2,GERMANY,JAPAN,DEU,JPN
-2022,7,0,SPAIN,COSTA RICA,ESP,CRI
-2022,1,0,BELGIUM,CANADA,BEL,CAN
-2022,1,0,SWITZERLAND,CAMEROON,CHE,CMR
-2022,0,0,URUGUAY,KOREA REPUBLIC,URY,KOR
-2022,3,2,PORTUGAL,GHANA,PRT,GHA
-2022,2,0,BRAZIL,SERBIA,BRA,SRB
-2022,0,2,WALES,IRAN,WLS,IRN
-2022,1,3,QATAR,SENEGAL,QAT,SEN
-2022,1,1,NETHERLANDS,ECUADOR,NLD,ECU
-2022,0,0,ENGLAND,UNITED STATES,ENG,USA
-2022,0,1,TUNISIA,AUSTRALIA,TUN,AUS
-2022,2,0,POLAND,SAUDI ARABIA,POL,SAU
-2022,2,1,FRANCE,DENMARK,FRA,DNK
-2022,2,0,ARGENTINA,MEXICO,ARG,MEX
-2022,0,1,JAPAN,COSTA RICA,JPN,CRI
-2022,0,2,BELGIUM,MOROCCO,BEL,MAR
-2022,4,1,CROATIA,CANADA,HRV,CAN
-2022,1,1,SPAIN,GERMANY,ESP,DEU
-2022,3,3,CAMEROON,SERBIA,CMR,SRB
-2022,2,3,KOREA REPUBLIC,GHANA,KOR,GHA
-2022,1,0,BRAZIL,SWITZERLAND,BRA,CHE
-2022,2,0,PORTUGAL,URUGUAY,PRT,URY
-2022,2,0,NETHERLANDS,QATAR,NLD,QAT
-2022,1,2,ECUADOR,SENEGAL,ECU,SEN
-2022,0,3,WALES,ENGLAND,WLS,ENG
-2022,0,1,IRAN,UNITED STATES,IRN,USA
-2022,1,0,AUSTRALIA,DENMARK,AUS,DNK
-2022,1,0,TUNISIA,FRANCE,TUN,FRA
-2022,0,2,POLAND,ARGENTINA,POL,ARG
-2022,1,2,SAUDI ARABIA,MEXICO,SAU,MEX
-2022,0,0,CROATIA,BELGIUM,HRV,BEL
-2022,1,2,CANADA,MOROCCO,CAN,MAR
-2022,2,1,JAPAN,SPAIN,JPN,ESP
-2022,2,4,COSTA RICA,GERMANY,CRI,DEU
-2022,0,2,GHANA,URUGUAY,GHA,URY
-2022,2,1,KOREA REPUBLIC,PORTUGAL,KOR,PRT
-2022,2,3,SERBIA,SWITZERLAND,SRB,CHE
-2022,1,0,CAMEROON,BRAZIL,CMR,BRA
-2022,3,1,NETHERLANDS,UNITED STATES,NLD,USA
-2022,2,1,ARGENTINA,AUSTRALIA,ARG,AUS
-2022,3,1,FRANCE,POLAND,FRA,POL
-2022,3,0,ENGLAND,SENEGAL,ENG,SEN
-2022,1,1,JAPAN,CROATIA,JPN,HRV
-2022,4,1,BRAZIL,KOREA REPUBLIC,BRA,KOR
-2022,0,0,MOROCCO,SPAIN,MAR,ESP
-2022,6,1,PORTUGAL,SWITZERLAND,PRT,CHE
-2022,1,1,CROATIA,BRAZIL,HRV,BRA
-2022,2,2,NETHERLANDS,ARGENTINA,NLD,ARG
-2022,1,0,MOROCCO,PORTUGAL,MAR,PRT
-2022,1,2,ENGLAND,FRANCE,ENG,FRA
-2022,3,0,ARGENTINA,CROATIA,ARG,HRV
-2022,2,0,FRANCE,MOROCCO,FRA,MAR
-2022,2,1,CROATIA,MOROCCO,HRV,MAR
-2022,3,3,ARGENTINA,FRANCE,ARG,FRA
+1930,4,1,france,mexico,FRA,MEX
+1930,3,0,usa,belgium,USA,BEL
+1930,2,1,yugoslavia,brazil,YUG,BRA
+1930,3,1,romania,peru,ROU,PER
+1930,1,0,argentina,france,ARG,FRA
+1930,3,0,chile,mexico,CHL,MEX
+1930,4,0,yugoslavia,bolivia,YUG,BOL
+1930,3,0,usa,paraguay,USA,PRY
+1930,1,0,uruguay,peru,URY,PER
+1930,1,0,chile,france,CHL,FRA
+1930,6,3,argentina,mexico,ARG,MEX
+1930,4,0,brazil,bolivia,BRA,BOL
+1930,1,0,paraguay,belgium,PRY,BEL
+1930,4,0,uruguay,romania,URY,ROU
+1930,3,1,argentina,chile,ARG,CHL
+1930,6,1,argentina,usa,ARG,USA
+1930,6,1,uruguay,yugoslavia,URY,YUG
+1930,4,2,uruguay,argentina,URY,ARG
+1934,3,2,austria,france,AUT,FRA
+1934,4,2,hungary,egypt,HUN,EGY
+1934,3,2,switzerland,netherlands,CHE,NLD
+1934,3,2,sweden,argentina,SWE,ARG
+1934,5,2,germany,belgium,DEU,BEL
+1934,3,1,spain,brazil,ESP,BRA
+1934,7,1,italy,usa,ITA,USA
+1934,2,1,czechoslovakia,romania,CZE,ROU
+1934,3,2,czechoslovakia,switzerland,CZE,CHE
+1934,2,1,germany,sweden,DEU,SWE
+1934,1,1,italy,spain,ITA,ESP
+1934,2,1,austria,hungary,AUT,HUN
+1934,1,0,italy,spain,ITA,ESP
+1934,1,0,italy,austria,ITA,AUT
+1934,3,1,czechoslovakia,germany,CZE,DEU
+1934,3,2,germany,austria,DEU,AUT
+1934,2,1,italy,czechoslovakia,ITA,CZE
+1938,1,1,switzerland,germany,CHE,DEU
+1938,6,0,hungary,dutch east indies,HUN,INH
+1938,3,1,france,belgium,FRA,BEL
+1938,3,3,cuba,romania,CUB,ROU
+1938,2,1,italy,norway,ITA,NOR
+1938,6,5,brazil,poland,BRA,POL
+1938,3,0,czechoslovakia,netherlands,CZE,NLD
+1938,2,1,cuba,romania,CUB,ROU
+1938,4,2,switzerland,germany,CHE,DEU
+1938,1,1,brazil,czechoslovakia,BRA,CZE
+1938,2,0,hungary,switzerland,HUN,CHE
+1938,8,0,sweden,cuba,SWE,CUB
+1938,3,1,italy,france,ITA,FRA
+1938,2,1,brazil,czechoslovakia,BRA,CZE
+1938,5,1,hungary,sweden,HUN,SWE
+1938,2,1,italy,brazil,ITA,BRA
+1938,4,2,brazil,sweden,BRA,SWE
+1938,4,2,italy,hungary,ITA,HUN
+1950,4,0,brazil,mexico,BRA,MEX
+1950,2,0,england,chile,ENG,CHL
+1950,3,1,spain,usa,ESP,USA
+1950,3,2,sweden,italy,SWE,ITA
+1950,3,0,yugoslavia,switzerland,YUG,CHE
+1950,2,2,brazil,switzerland,BRA,CHE
+1950,4,1,yugoslavia,mexico,YUG,MEX
+1950,2,0,spain,chile,ESP,CHL
+1950,2,2,sweden,paraguay,SWE,PRY
+1950,1,0,usa,england,USA,ENG
+1950,2,0,brazil,yugoslavia,BRA,YUG
+1950,1,0,spain,england,ESP,ENG
+1950,2,0,italy,paraguay,ITA,PRY
+1950,8,0,uruguay,bolivia,URY,BOL
+1950,2,1,switzerland,mexico,CHE,MEX
+1950,5,2,chile,usa,CHL,USA
+1950,2,2,uruguay,spain,URY,ESP
+1950,7,1,brazil,sweden,BRA,SWE
+1950,6,1,brazil,spain,BRA,ESP
+1950,3,2,uruguay,sweden,URY,SWE
+1950,3,1,sweden,spain,SWE,ESP
+1950,2,1,uruguay,brazil,URY,BRA
+1954,2,0,uruguay,czechoslovakia,URY,CZE
+1954,1,0,austria,scotland,AUT,SCT
+1954,5,0,brazil,mexico,BRA,MEX
+1954,1,0,yugoslavia,france,YUG,FRA
+1954,4,1,germany fr,turkey,DEU,TUR
+1954,9,0,hungary,korea republic,HUN,KOR
+1954,4,4,england,belgium,ENG,BEL
+1954,2,1,switzerland,italy,CHE,ITA
+1954,7,0,uruguay,scotland,URY,SCT
+1954,5,0,austria,czechoslovakia,AUT,CZE
+1954,3,2,france,mexico,FRA,MEX
+1954,1,1,brazil,yugoslavia,BRA,YUG
+1954,8,3,hungary,germany fr,HUN,DEU
+1954,7,0,turkey,korea republic,TUR,KOR
+1954,2,0,england,switzerland,ENG,CHE
+1954,4,1,italy,belgium,ITA,BEL
+1954,7,2,germany fr,turkey,DEU,TUR
+1954,4,1,switzerland,italy,CHE,ITA
+1954,4,2,uruguay,england,URY,ENG
+1954,7,5,austria,switzerland,AUT,CHE
+1954,2,0,germany fr,yugoslavia,DEU,YUG
+1954,4,2,hungary,brazil,HUN,BRA
+1954,6,1,germany fr,austria,DEU,AUT
+1954,4,2,hungary,uruguay,HUN,URY
+1954,3,1,austria,uruguay,AUT,URY
+1954,3,2,germany fr,hungary,DEU,HUN
+1958,3,0,sweden,mexico,SWE,MEX
+1958,2,2,soviet union,england,SUN,ENG
+1958,1,3,argentina,germany fr,ARG,DEU
+1958,1,1,hungary,wales,HUN,WLS
+1958,7,3,france,paraguay,FRA,PRY
+1958,1,1,yugoslavia,scotland,YUG,SCT
+1958,3,0,brazil,austria,BRA,AUT
+1958,1,0,northern ireland,czechoslovakia,NIL,CZE
+1958,0,0,brazil,england,BRA,ENG
+1958,1,1,mexico,wales,MEX,WLS
+1958,3,2,paraguay,scotland,PRY,SCT
+1958,3,2,yugoslavia,france,YUG,FRA
+1958,2,0,soviet union,austria,SUN,AUT
+1958,2,2,germany fr,czechoslovakia,DEU,CZE
+1958,3,1,argentina,northern ireland,ARG,NIL
+1958,2,1,sweden,hungary,SWE,HUN
+1958,0,0,sweden,wales,SWE,WLS
+1958,2,0,brazil,soviet union,BRA,SUN
+1958,2,2,germany fr,northern ireland,DEU,NIL
+1958,4,0,hungary,mexico,HUN,MEX
+1958,3,3,paraguay,yugoslavia,PRY,YUG
+1958,2,1,france,scotland,FRA,SCT
+1958,2,2,england,austria,ENG,AUT
+1958,6,1,czechoslovakia,argentina,CZE,ARG
+1958,1,0,soviet union,england,SUN,ENG
+1958,2,1,northern ireland,czechoslovakia,NIL,CZE
+1958,2,1,wales,hungary,WLS,HUN
+1958,1,0,brazil,wales,BRA,WLS
+1958,1,0,germany fr,yugoslavia,DEU,YUG
+1958,2,0,sweden,soviet union,SWE,SUN
+1958,4,0,france,northern ireland,FRA,NIL
+1958,3,1,sweden,germany fr,SWE,DEU
+1958,5,2,brazil,france,BRA,FRA
+1958,6,3,france,germany fr,FRA,DEU
+1958,5,2,brazil,sweden,BRA,SWE
+1962,2,1,uruguay,colombia,URY,COL
+1962,2,0,brazil,mexico,BRA,MEX
+1962,1,0,argentina,bulgaria,ARG,BGR
+1962,3,1,chile,switzerland,CHL,CHE
+1962,2,0,soviet union,yugoslavia,SUN,YUG
+1962,1,0,czechoslovakia,spain,CZE,ESP
+1962,2,1,hungary,england,HUN,ENG
+1962,0,0,germany fr,italy,DEU,ITA
+1962,3,1,yugoslavia,uruguay,YUG,URY
+1962,0,0,brazil,czechoslovakia,BRA,CZE
+1962,3,1,england,argentina,ENG,ARG
+1962,2,0,chile,italy,CHL,ITA
+1962,4,4,soviet union,colombia,SUN,COL
+1962,1,0,spain,mexico,ESP,MEX
+1962,6,1,hungary,bulgaria,HUN,BGR
+1962,2,1,germany fr,switzerland,DEU,CHE
+1962,2,1,soviet union,uruguay,SUN,URY
+1962,2,1,brazil,spain,BRA,ESP
+1962,0,0,hungary,argentina,HUN,ARG
+1962,2,0,germany fr,chile,DEU,CHL
+1962,5,0,yugoslavia,colombia,YUG,COL
+1962,3,1,mexico,czechoslovakia,MEX,CZE
+1962,0,0,england,bulgaria,ENG,BGR
+1962,3,0,italy,switzerland,ITA,CHE
+1962,2,1,chile,soviet union,CHL,SUN
+1962,3,1,brazil,england,BRA,ENG
+1962,1,0,czechoslovakia,hungary,CZE,HUN
+1962,1,0,yugoslavia,germany fr,YUG,DEU
+1962,3,1,czechoslovakia,yugoslavia,CZE,YUG
+1962,4,2,brazil,chile,BRA,CHL
+1962,1,0,chile,yugoslavia,CHL,YUG
+1962,3,1,brazil,czechoslovakia,BRA,CZE
+1966,0,0,england,uruguay,ENG,URY
+1966,5,0,germany fr,switzerland,DEU,CHE
+1966,2,0,brazil,bulgaria,BRA,BGR
+1966,3,0,soviet union,korea dpr,SUN,PRK
+1966,1,1,france,mexico,FRA,MEX
+1966,3,1,portugal,hungary,PRT,HUN
+1966,2,1,argentina,spain,ARG,ESP
+1966,2,0,italy,chile,ITA,CHL
+1966,2,1,uruguay,france,URY,FRA
+1966,2,1,spain,switzerland,ESP,CHE
+1966,3,1,hungary,brazil,HUN,BRA
+1966,1,1,korea dpr,chile,PRK,CHL
+1966,3,0,portugal,bulgaria,PRT,BGR
+1966,0,0,germany fr,argentina,DEU,ARG
+1966,1,0,soviet union,italy,SUN,ITA
+1966,2,0,england,mexico,ENG,MEX
+1966,0,0,uruguay,mexico,URY,MEX
+1966,2,0,argentina,switzerland,ARG,CHE
+1966,3,1,portugal,brazil,PRT,BRA
+1966,1,0,korea dpr,italy,PRK,ITA
+1966,2,0,england,france,ENG,FRA
+1966,3,1,hungary,bulgaria,HUN,BGR
+1966,2,1,germany fr,spain,DEU,ESP
+1966,2,1,soviet union,chile,SUN,CHL
+1966,1,0,england,argentina,ENG,ARG
+1966,4,0,germany fr,uruguay,DEU,URY
+1966,2,1,soviet union,hungary,SUN,HUN
+1966,5,3,portugal,korea dpr,PRT,PRK
+1966,2,1,germany fr,soviet union,DEU,SUN
+1966,2,1,england,portugal,ENG,PRT
+1966,2,1,portugal,soviet union,PRT,SUN
+1966,4,2,england,germany fr,ENG,DEU
+1970,0,0,mexico,soviet union,MEX,SUN
+1970,2,0,uruguay,israel,URY,ISR
+1970,3,2,peru,bulgaria,PER,BGR
+1970,1,0,england,romania,ENG,ROU
+1970,1,0,italy,sweden,ITA,SWE
+1970,2,1,germany fr,morocco,DEU,MAR
+1970,4,1,brazil,czechoslovakia,BRA,CZE
+1970,3,0,belgium,el salvador,BEL,SLV
+1970,0,0,uruguay,italy,URY,ITA
+1970,3,0,peru,morocco,PER,MAR
+1970,2,1,romania,czechoslovakia,ROU,CZE
+1970,4,1,soviet union,belgium,SUN,BEL
+1970,1,1,sweden,israel,SWE,ISR
+1970,5,2,germany fr,bulgaria,DEU,BGR
+1970,1,0,brazil,england,BRA,ENG
+1970,4,0,mexico,el salvador,MEX,SLV
+1970,1,0,sweden,uruguay,SWE,URY
+1970,3,1,germany fr,peru,DEU,PER
+1970,3,2,brazil,romania,BRA,ROU
+1970,2,0,soviet union,el salvador,SUN,SLV
+1970,0,0,italy,israel,ITA,ISR
+1970,1,1,bulgaria,morocco,BGR,MAR
+1970,1,0,england,czechoslovakia,ENG,CZE
+1970,1,0,mexico,belgium,MEX,BEL
+1970,4,1,italy,mexico,ITA,MEX
+1970,3,2,germany fr,england,DEU,ENG
+1970,4,2,brazil,peru,BRA,PER
+1970,1,0,uruguay,soviet union,URY,SUN
+1970,3,1,brazil,uruguay,BRA,URY
+1970,4,3,italy,germany fr,ITA,DEU
+1970,1,0,germany fr,uruguay,DEU,URY
+1970,4,1,brazil,italy,BRA,ITA
+1974,0,0,brazil,yugoslavia,BRA,YUG
+1974,1,0,germany fr,chile,DEU,CHL
+1974,2,0,german dr,australia,DEU,AUS
+1974,0,2,zaire,scotland,COD,SCT
+1974,0,2,uruguay,netherlands,URY,NLD
+1974,0,0,sweden,bulgaria,SWE,BGR
+1974,3,1,italy,haiti,ITA,HTI
+1974,3,2,poland,argentina,POL,ARG
+1974,0,3,australia,germany fr,AUS,DEU
+1974,0,0,scotland,brazil,SCT,BRA
+1974,1,1,chile,german dr,CHL,DEU
+1974,9,0,yugoslavia,zaire,YUG,COD
+1974,0,0,netherlands,sweden,NLD,SWE
+1974,1,1,bulgaria,uruguay,BGR,URY
+1974,0,7,haiti,poland,HTI,POL
+1974,1,1,argentina,italy,ARG,ITA
+1974,1,1,scotland,yugoslavia,SCT,YUG
+1974,0,0,australia,chile,AUS,CHL
+1974,0,3,zaire,brazil,COD,BRA
+1974,1,0,german dr,germany fr,DEU,DEU
+1974,1,4,bulgaria,netherlands,BGR,NLD
+1974,4,1,argentina,haiti,ARG,HTI
+1974,3,0,sweden,uruguay,SWE,URY
+1974,2,1,poland,italy,POL,ITA
+1974,0,2,yugoslavia,germany fr,YUG,DEU
+1974,1,0,brazil,german dr,BRA,DEU
+1974,4,0,netherlands,argentina,NLD,ARG
+1974,0,1,sweden,poland,SWE,POL
+1974,1,2,argentina,brazil,ARG,BRA
+1974,2,1,poland,yugoslavia,POL,YUG
+1974,0,2,german dr,netherlands,DEU,NLD
+1974,4,2,germany fr,sweden,DEU,SWE
+1974,0,1,poland,germany fr,POL,DEU
+1974,2,0,netherlands,brazil,NLD,BRA
+1974,1,1,argentina,german dr,ARG,DEU
+1974,2,1,sweden,yugoslavia,SWE,YUG
+1974,0,1,brazil,poland,BRA,POL
+1974,1,2,netherlands,germany fr,NLD,DEU
+1978,0,0,germany fr,poland,DEU,POL
+1978,2,1,italy,france,ITA,FRA
+1978,3,1,tunisia,mexico,TUN,MEX
+1978,2,1,argentina,hungary,ARG,HUN
+1978,1,1,sweden,brazil,SWE,BRA
+1978,2,1,austria,spain,AUT,ESP
+1978,3,1,peru,scotland,PER,SCT
+1978,3,0,netherlands,ir iran,NLD,IRN
+1978,3,1,italy,hungary,ITA,HUN
+1978,1,0,poland,tunisia,POL,TUN
+1978,6,0,germany fr,mexico,DEU,MEX
+1978,2,1,argentina,france,ARG,FRA
+1978,0,0,brazil,spain,BRA,ESP
+1978,1,0,austria,sweden,AUT,SWE
+1978,1,1,scotland,ir iran,SCT,IRN
+1978,0,0,netherlands,peru,NLD,PER
+1978,3,1,france,hungary,FRA,HUN
+1978,3,1,poland,mexico,POL,MEX
+1978,0,0,germany fr,tunisia,DEU,TUN
+1978,1,0,italy,argentina,ITA,ARG
+1978,1,0,brazil,austria,BRA,AUT
+1978,1,0,spain,sweden,ESP,SWE
+1978,4,1,peru,iran,PER,IRN
+1978,3,2,scotland,netherlands,SCT,NLD
+1978,0,0,germany fr,italy,DEU,ITA
+1978,5,1,netherlands,austria,NLD,AUT
+1978,3,0,brazil,peru,BRA,PER
+1978,2,0,argentina,poland,ARG,POL
+1978,1,0,poland,peru,POL,PER
+1978,1,0,italy,austria,ITA,AUT
+1978,2,2,germany fr,netherlands,DEU,NLD
+1978,0,0,argentina,brazil,ARG,BRA
+1978,2,1,netherlands,italy,NLD,ITA
+1978,3,2,austria,germany fr,AUT,DEU
+1978,3,1,brazil,poland,BRA,POL
+1978,6,0,argentina,peru,ARG,PER
+1978,2,1,brazil,italy,BRA,ITA
+1978,3,1,argentina,netherlands,ARG,NLD
+1982,0,1,argentina,belgium,ARG,BEL
+1982,0,0,italy,poland,ITA,POL
+1982,2,1,brazil,soviet union,BRA,SUN
+1982,0,0,peru,cameroon,PER,CMR
+1982,10,1,hungary,el salvador,HUN,SLV
+1982,5,2,scotland,new zealand,SCT,NZL
+1982,1,2,germany fr,algeria,DEU,DZA
+1982,3,1,england,france,ENG,FRA
+1982,1,1,spain,honduras,ESP,HND
+1982,0,1,chile,austria,CHL,AUT
+1982,1,1,czechoslovakia,kuwait,CZE,KWT
+1982,0,0,yugoslavia,northern ireland,YUG,NIL
+1982,1,1,italy,peru,ITA,PER
+1982,4,1,argentina,hungary,ARG,HUN
+1982,4,1,brazil,scotland,BRA,SCT
+1982,0,0,poland,cameroon,POL,CMR
+1982,1,0,belgium,el salvador,BEL,SLV
+1982,3,0,soviet union,new zealand,SUN,NZL
+1982,4,1,germany fr,chile,DEU,CHL
+1982,2,0,england,czechoslovakia,ENG,CZE
+1982,2,1,spain,yugoslavia,ESP,YUG
+1982,0,2,algeria,austria,DZA,AUT
+1982,4,1,france,kuwait,FRA,KWT
+1982,1,1,honduras,northern ireland,HND,NIL
+1982,5,1,poland,peru,POL,PER
+1982,1,1,belgium,hungary,BEL,HUN
+1982,2,2,soviet union,scotland,SUN,SCT
+1982,1,1,italy,cameroon,ITA,CMR
+1982,2,0,argentina,el salvador,ARG,SLV
+1982,4,0,brazil,new zealand,BRA,NZL
+1982,3,2,algeria,chile,DZA,CHL
+1982,1,1,france,czechoslovakia,FRA,CZE
+1982,0,1,honduras,yugoslavia,HND,YUG
+1982,1,0,germany fr,austria,DEU,AUT
+1982,1,0,england,kuwait,ENG,KWT
+1982,1,0,northern ireland,spain,NIL,ESP
+1982,0,1,austria,france,AUT,FRA
+1982,3,0,poland,belgium,POL,BEL
+1982,2,1,italy,argentina,ITA,ARG
+1982,0,0,germany fr,england,DEU,ENG
+1982,2,2,austria,northern ireland,AUT,NIL
+1982,0,1,belgium,soviet union,BEL,SUN
+1982,1,3,argentina,brazil,ARG,BRA
+1982,2,1,germany fr,spain,DEU,ESP
+1982,4,1,france,northern ireland,FRA,NIL
+1982,0,0,poland,soviet union,POL,SUN
+1982,3,2,italy,brazil,ITA,BRA
+1982,0,0,spain,england,ESP,ENG
+1982,0,2,poland,italy,POL,ITA
+1982,3,3,germany fr,france,DEU,FRA
+1982,3,2,poland,france,POL,FRA
+1982,3,1,italy,germany fr,ITA,DEU
+1986,1,1,bulgaria,italy,BGR,ITA
+1986,0,1,canada,france,CAN,FRA
+1986,0,1,spain,brazil,ESP,BRA
+1986,6,0,soviet union,hungary,SUN,HUN
+1986,3,1,argentina,korea republic,ARG,KOR
+1986,0,0,morocco,poland,MAR,POL
+1986,1,1,algeria,northern ireland,DZA,NIL
+1986,1,2,belgium,mexico,BEL,MEX
+1986,1,0,portugal,england,PRT,ENG
+1986,1,0,paraguay,iraq,PRY,IRQ
+1986,0,1,scotland,denmark,SCT,DNK
+1986,1,1,uruguay,germany fr,URY,DEU
+1986,1,1,italy,argentina,ITA,ARG
+1986,1,1,france,soviet union,FRA,SUN
+1986,1,1,korea republic,bulgaria,KOR,BGR
+1986,2,0,hungary,canada,HUN,CAN
+1986,1,0,brazil,algeria,BRA,DZA
+1986,0,0,england,morocco,ENG,MAR
+1986,1,2,northern ireland,spain,NIL,ESP
+1986,1,1,mexico,paraguay,MEX,PRY
+1986,1,0,poland,portugal,POL,PRT
+1986,1,2,iraq,belgium,IRQ,BEL
+1986,6,1,denmark,uruguay,DNK,URY
+1986,2,1,germany fr,scotland,DEU,SCT
+1986,0,3,hungary,france,HUN,FRA
+1986,2,0,soviet union,canada,SUN,CAN
+1986,2,3,korea republic,italy,KOR,ITA
+1986,2,0,argentina,bulgaria,ARG,BGR
+1986,2,2,paraguay,belgium,PRY,BEL
+1986,0,1,iraq,mexico,IRQ,MEX
+1986,1,3,portugal,morocco,PRT,MAR
+1986,3,0,england,poland,ENG,POL
+1986,0,3,northern ireland,brazil,NIL,BRA
+1986,0,3,algeria,spain,DZA,ESP
+1986,0,0,scotland,uruguay,SCT,URY
+1986,2,0,denmark,germany fr,DNK,DEU
+1986,3,4,soviet union,belgium,SUN,BEL
+1986,2,0,mexico,bulgaria,MEX,BGR
+1986,1,0,argentina,uruguay,ARG,URY
+1986,4,0,brazil,poland,BRA,POL
+1986,0,2,italy,france,ITA,FRA
+1986,0,1,morocco,germany fr,MAR,DEU
+1986,3,0,england,paraguay,ENG,PRY
+1986,1,5,denmark,spain,DNK,ESP
+1986,1,1,brazil,france,BRA,FRA
+1986,0,0,germany fr,mexico,DEU,MEX
+1986,1,1,spain,belgium,ESP,BEL
+1986,2,1,argentina,england,ARG,ENG
+1986,0,2,france,germany fr,FRA,DEU
+1986,2,0,argentina,belgium,ARG,BEL
+1986,4,2,france,belgium,FRA,BEL
+1986,3,2,argentina,germany fr,ARG,DEU
+1990,0,1,argentina,cameroon,ARG,CMR
+1990,0,2,soviet union,romania,SUN,ROU
+1990,0,2,"rn"">united arab emirates",colombia,ARE,COL
+1990,1,0,italy,austria,ITA,AUT
+1990,1,5,usa,czechoslovakia,USA,CZE
+1990,2,1,brazil,sweden,BRA,SWE
+1990,4,1,germany fr,yugoslavia,DEU,YUG
+1990,1,0,costa rica,scotland,CRI,SCT
+1990,1,1,england,"rn"">republic of ireland",ENG,IRL
+1990,2,0,belgium,korea republic,BEL,KOR
+1990,1,1,netherlands,egypt,NLD,EGY
+1990,0,0,uruguay,spain,URY,ESP
+1990,2,0,argentina,soviet union,ARG,SUN
+1990,2,1,cameroon,romania,CMR,ROU
+1990,1,0,yugoslavia,colombia,YUG,COL
+1990,1,0,italy,usa,ITA,USA
+1990,0,1,austria,czechoslovakia,AUT,CZE
+1990,5,1,germany fr,"rn"">united arab emirates",DEU,ARE
+1990,1,0,brazil,costa rica,BRA,CRI
+1990,1,2,sweden,scotland,SWE,SCT
+1990,0,0,england,netherlands,ENG,NLD
+1990,0,0,"rn"">republic of ireland",egypt,IRL,EGY
+1990,1,3,korea republic,spain,KOR,ESP
+1990,3,1,belgium,uruguay,BEL,URY
+1990,1,1,argentina,romania,ARG,ROU
+1990,0,4,cameroon,soviet union,CMR,SUN
+1990,1,1,germany fr,colombia,DEU,COL
+1990,4,1,yugoslavia,"rn"">united arab emirates",YUG,ARE
+1990,2,0,italy,czechoslovakia,ITA,CZE
+1990,2,1,austria,usa,AUT,USA
+1990,1,0,brazil,scotland,BRA,SCT
+1990,1,2,sweden,costa rica,SWE,CRI
+1990,0,1,korea republic,uruguay,KOR,URY
+1990,1,2,belgium,spain,BEL,ESP
+1990,1,1,"rn"">republic of ireland",netherlands,IRL,NLD
+1990,1,0,england,egypt,ENG,EGY
+1990,2,1,cameroon,colombia,CMR,COL
+1990,4,1,czechoslovakia,costa rica,CZE,CRI
+1990,0,1,brazil,argentina,BRA,ARG
+1990,2,1,germany fr,netherlands,DEU,NLD
+1990,0,0,"rn"">republic of ireland",romania,IRL,ROU
+1990,2,0,italy,uruguay,ITA,URY
+1990,1,2,spain,yugoslavia,ESP,YUG
+1990,1,0,england,belgium,ENG,BEL
+1990,0,0,yugoslavia,argentina,YUG,ARG
+1990,1,0,italy,"rn"">republic of ireland",ITA,IRL
+1990,1,0,germany fr,czechoslovakia,DEU,CZE
+1990,3,2,england,cameroon,ENG,CMR
+1990,1,1,italy,argentina,ITA,ARG
+1990,1,1,germany fr,england,DEU,ENG
+1990,2,1,italy,england,ITA,ENG
+1990,1,0,germany fr,argentina,DEU,ARG
+1994,2,2,spain,korea republic,ESP,KOR
+1994,1,0,germany,bolivia,DEU,BOL
+1994,1,1,usa,switzerland,USA,CHE
+1994,0,1,italy,"rn"">republic of ireland",ITA,IRL
+1994,1,3,colombia,romania,COL,ROU
+1994,1,0,belgium,morocco,BEL,MAR
+1994,1,0,norway,mexico,NOR,MEX
+1994,2,2,cameroon,sweden,CMR,SWE
+1994,2,1,netherlands,saudi arabia,NLD,SAU
+1994,2,0,brazil,russia,BRA,RUS
+1994,4,0,argentina,greece,ARG,GRC
+1994,3,0,nigeria,bulgaria,NGA,BGR
+1994,1,1,germany,spain,DEU,ESP
+1994,1,4,romania,switzerland,ROU,CHE
+1994,2,1,usa,colombia,USA,COL
+1994,1,0,italy,norway,ITA,NOR
+1994,0,0,korea republic,bolivia,KOR,BOL
+1994,2,1,mexico,"rn"">republic of ireland",MEX,IRL
+1994,3,1,sweden,russia,SWE,RUS
+1994,3,0,brazil,cameroon,BRA,CMR
+1994,1,0,belgium,netherlands,BEL,NLD
+1994,2,1,saudi arabia,morocco,SAU,MAR
+1994,2,1,argentina,nigeria,ARG,NGA
+1994,4,0,bulgaria,greece,BGR,GRC
+1994,0,1,usa,romania,USA,ROU
+1994,0,2,switzerland,colombia,CHE,COL
+1994,3,2,germany,korea republic,DEU,KOR
+1994,1,3,bolivia,spain,BOL,ESP
+1994,0,0,"rn"">republic of ireland",norway,IRL,NOR
+1994,1,1,brazil,sweden,BRA,SWE
+1994,1,1,italy,mexico,ITA,MEX
+1994,6,1,russia,cameroon,RUS,CMR
+1994,1,2,morocco,netherlands,MAR,NLD
+1994,0,1,belgium,saudi arabia,BEL,SAU
+1994,0,2,greece,nigeria,GRC,NGA
+1994,0,2,argentina,bulgaria,ARG,BGR
+1994,3,2,germany,belgium,DEU,BEL
+1994,3,0,spain,switzerland,ESP,CHE
+1994,1,3,saudi arabia,sweden,SAU,SWE
+1994,3,2,romania,argentina,ROU,ARG
+1994,2,0,netherlands,"rn"">republic of ireland",NLD,IRL
+1994,1,0,brazil,usa,BRA,USA
+1994,1,2,nigeria,italy,NGA,ITA
+1994,1,1,mexico,bulgaria,MEX,BGR
+1994,2,1,italy,spain,ITA,ESP
+1994,2,3,netherlands,brazil,NLD,BRA
+1994,2,1,bulgaria,germany,BGR,DEU
+1994,2,2,romania,sweden,ROU,SWE
+1994,1,2,bulgaria,italy,BGR,ITA
+1994,0,1,sweden,brazil,SWE,BRA
+1994,4,0,sweden,bulgaria,SWE,BGR
+1994,0,0,brazil,italy,BRA,ITA
+1998,2,1,brazil,scotland,BRA,SCT
+1998,2,2,morocco,norway,MAR,NOR
+1998,2,2,italy,chile,ITA,CHL
+1998,1,1,cameroon,austria,CMR,AUT
+1998,0,0,paraguay,bulgaria,PRY,BGR
+1998,0,1,saudi arabia,denmark,SAU,DNK
+1998,3,0,france,south africa,FRA,ZAF
+1998,2,3,spain,nigeria,ESP,NGA
+1998,1,3,korea republic,mexico,KOR,MEX
+1998,0,0,netherlands,belgium,NLD,BEL
+1998,1,0,argentina,japan,ARG,JPN
+1998,1,0,yugoslavia,iran,YUG,IRN
+1998,1,3,jamaica,croatia,JAM,HRV
+1998,2,0,england,tunisia,ENG,TUN
+1998,1,0,romania,colombia,ROU,COL
+1998,2,0,germany,usa,DEU,USA
+1998,1,1,scotland,norway,SCT,NOR
+1998,3,0,brazil,morocco,BRA,MAR
+1998,1,1,chile,austria,CHL,AUT
+1998,3,0,italy,cameroon,ITA,CMR
+1998,1,1,south africa,denmark,ZAF,DNK
+1998,4,0,france,saudi arabia,FRA,SAU
+1998,1,0,nigeria,bulgaria,NGA,BGR
+1998,0,0,spain,paraguay,ESP,PRY
+1998,0,1,japan,croatia,JPN,HRV
+1998,2,2,belgium,mexico,BEL,MEX
+1998,5,0,netherlands,korea republic,NLD,KOR
+1998,2,2,germany,yugoslavia,DEU,YUG
+1998,5,0,argentina,jamaica,ARG,JAM
+1998,1,2,usa,iran,USA,IRN
+1998,1,0,colombia,tunisia,COL,TUN
+1998,2,1,romania,england,ROU,ENG
+1998,2,1,italy,austria,ITA,AUT
+1998,1,1,chile,cameroon,CHL,CMR
+1998,0,3,scotland,morocco,SCT,MAR
+1998,1,2,brazil,norway,BRA,NOR
+1998,2,1,france,denmark,FRA,DNK
+1998,2,2,south africa,saudi arabia,ZAF,SAU
+1998,6,1,spain,bulgaria,ESP,BGR
+1998,1,3,nigeria,paraguay,NGA,PRY
+1998,1,1,belgium,korea republic,BEL,KOR
+1998,2,2,netherlands,mexico,NLD,MEX
+1998,2,0,germany,iran,DEU,IRN
+1998,0,1,usa,yugoslavia,USA,YUG
+1998,1,2,japan,jamaica,JPN,JAM
+1998,1,0,argentina,croatia,ARG,HRV
+1998,1,1,romania,tunisia,ROU,TUN
+1998,0,2,colombia,england,COL,ENG
+1998,1,0,italy,norway,ITA,NOR
+1998,4,1,brazil,chile,BRA,CHL
+1998,1,0,france,paraguay,FRA,PRY
+1998,1,4,nigeria,denmark,NGA,DNK
+1998,2,1,germany,mexico,DEU,MEX
+1998,2,1,netherlands,yugoslavia,NLD,YUG
+1998,0,1,romania,croatia,ROU,HRV
+1998,2,2,argentina,england,ARG,ENG
+1998,0,0,italy,france,ITA,FRA
+1998,3,2,brazil,denmark,BRA,DNK
+1998,2,1,netherlands,argentina,NLD,ARG
+1998,0,3,germany,croatia,DEU,HRV
+1998,1,1,brazil,netherlands,BRA,NLD
+1998,2,1,france,croatia,FRA,HRV
+1998,1,2,netherlands,croatia,NLD,HRV
+1998,0,3,brazil,france,BRA,FRA
+2002,0,1,france,senegal,FRA,SEN
+2002,1,2,uruguay,denmark,URY,DNK
+2002,1,1,"rn"">republic of ireland",cameroon,IRL,CMR
+2002,8,0,germany,saudi arabia,DEU,SAU
+2002,1,0,argentina,nigeria,ARG,NGA
+2002,2,2,paraguay,south africa,PRY,ZAF
+2002,1,1,england,sweden,ENG,SWE
+2002,3,1,spain,slovenia,ESP,SVN
+2002,2,1,brazil,turkey,BRA,TUR
+2002,2,0,italy,ecuador,ITA,ECU
+2002,0,1,croatia,mexico,HRV,MEX
+2002,0,2,china pr,costa rica,CHN,CRI
+2002,2,2,japan,belgium,JPN,BEL
+2002,2,0,korea republic,poland,KOR,POL
+2002,2,0,russia,tunisia,RUS,TUN
+2002,3,2,usa,portugal,USA,PRT
+2002,1,1,germany,"rn"">republic of ireland",DEU,IRL
+2002,1,1,denmark,senegal,DNK,SEN
+2002,1,0,cameroon,saudi arabia,CMR,SAU
+2002,0,0,france,uruguay,FRA,URY
+2002,2,1,sweden,nigeria,SWE,NGA
+2002,0,1,argentina,england,ARG,ENG
+2002,3,1,spain,paraguay,ESP,PRY
+2002,1,0,south africa,slovenia,ZAF,SVN
+2002,4,0,brazil,china pr,BRA,CHN
+2002,1,2,italy,croatia,ITA,HRV
+2002,1,1,costa rica,turkey,CRI,TUR
+2002,1,0,japan,russia,JPN,RUS
+2002,2,1,mexico,ecuador,MEX,ECU
+2002,1,1,korea republic,usa,KOR,USA
+2002,4,0,portugal,poland,PRT,POL
+2002,1,1,tunisia,belgium,TUN,BEL
+2002,2,0,denmark,france,DNK,FRA
+2002,3,3,senegal,uruguay,SEN,URY
+2002,0,3,saudi arabia,"rn"">republic of ireland",SAU,IRL
+2002,0,2,cameroon,germany,CMR,DEU
+2002,1,1,sweden,argentina,SWE,ARG
+2002,0,0,nigeria,england,NGA,ENG
+2002,1,3,slovenia,paraguay,SVN,PRY
+2002,2,3,south africa,spain,ZAF,ESP
+2002,2,5,costa rica,brazil,CRI,BRA
+2002,3,0,turkey,china pr,TUR,CHN
+2002,1,0,ecuador,croatia,ECU,HRV
+2002,1,1,mexico,italy,MEX,ITA
+2002,0,2,tunisia,japan,TUN,JPN
+2002,0,1,portugal,korea republic,PRT,KOR
+2002,3,1,poland,usa,POL,USA
+2002,3,2,belgium,russia,BEL,RUS
+2002,0,3,denmark,england,DNK,ENG
+2002,1,0,germany,paraguay,DEU,PRY
+2002,1,1,spain,"rn"">republic of ireland",ESP,IRL
+2002,1,2,sweden,senegal,SWE,SEN
+2002,2,0,brazil,belgium,BRA,BEL
+2002,0,2,mexico,usa,MEX,USA
+2002,0,1,japan,turkey,JPN,TUR
+2002,2,1,korea republic,italy,KOR,ITA
+2002,1,2,england,brazil,ENG,BRA
+2002,1,0,germany,usa,DEU,USA
+2002,0,1,senegal,turkey,SEN,TUR
+2002,0,0,spain,korea republic,ESP,KOR
+2002,1,0,germany,korea republic,DEU,KOR
+2002,1,0,brazil,turkey,BRA,TUR
+2002,2,3,korea republic,turkey,KOR,TUR
+2002,0,2,germany,brazil,DEU,BRA
+2006,4,2,germany,costa rica,DEU,CRI
+2006,0,2,poland,ecuador,POL,ECU
+2006,1,0,england,paraguay,ENG,PRY
+2006,0,0,"rn"">trinidad and tobago",sweden,TTO,SWE
+2006,2,1,argentina,c�te d'ivoire,ARG,CIV
+2006,0,1,"rn"">serbia and montenegro",netherlands,SCG,NLD
+2006,3,1,mexico,iran,MEX,IRN
+2006,0,1,angola,portugal,AGO,PRT
+2006,3,1,australia,japan,AUS,JPN
+2006,0,3,usa,czech republic,USA,CZE
+2006,2,0,italy,ghana,ITA,GHA
+2006,2,1,korea republic,togo,KOR,TGO
+2006,0,0,france,switzerland,FRA,CHE
+2006,1,0,brazil,croatia,BRA,HRV
+2006,4,0,spain,ukraine,ESP,UKR
+2006,2,2,tunisia,saudi arabia,TUN,SAU
+2006,1,0,germany,poland,DEU,POL
+2006,3,0,ecuador,costa rica,ECU,CRI
+2006,2,0,england,"rn"">trinidad and tobago",ENG,TTO
+2006,1,0,sweden,paraguay,SWE,PRY
+2006,6,0,argentina,"rn"">serbia and montenegro",ARG,SCG
+2006,2,1,netherlands,c�te d'ivoire,NLD,CIV
+2006,0,0,mexico,angola,MEX,AGO
+2006,2,0,portugal,ir iran,PRT,IRN
+2006,0,2,czech republic,ghana,CZE,GHA
+2006,1,1,italy,usa,ITA,USA
+2006,0,0,japan,croatia,JPN,HRV
+2006,2,0,brazil,australia,BRA,AUS
+2006,1,1,france,korea republic,FRA,KOR
+2006,0,2,togo,switzerland,TGO,CHE
+2006,0,4,saudi arabia,ukraine,SAU,UKR
+2006,3,1,spain,tunisia,ESP,TUN
+2006,0,3,ecuador,germany,ECU,DEU
+2006,1,2,costa rica,poland,CRI,POL
+2006,2,2,sweden,england,SWE,ENG
+2006,2,0,paraguay,"rn"">trinidad and tobago",PRY,TTO
+2006,1,1,iran,angola,IRN,AGO
+2006,2,1,portugal,mexico,PRT,MEX
+2006,0,0,netherlands,argentina,NLD,ARG
+2006,3,2,c�te d'ivoire,"rn"">serbia and montenegro",CIV,SCG
+2006,0,2,czech republic,italy,CZE,ITA
+2006,2,1,ghana,usa,GHA,USA
+2006,1,4,japan,brazil,JPN,BRA
+2006,2,2,croatia,australia,HRV,AUS
+2006,1,0,ukraine,tunisia,UKR,TUN
+2006,0,1,saudi arabia,spain,SAU,ESP
+2006,0,2,togo,france,TGO,FRA
+2006,2,0,switzerland,korea republic,CHE,KOR
+2006,2,0,germany,sweden,DEU,SWE
+2006,2,1,argentina,mexico,ARG,MEX
+2006,1,0,england,ecuador,ENG,ECU
+2006,1,0,portugal,netherlands,PRT,NLD
+2006,1,0,italy,australia,ITA,AUS
+2006,0,0,switzerland,ukraine,CHE,UKR
+2006,3,0,brazil,ghana,BRA,GHA
+2006,1,3,spain,france,ESP,FRA
+2006,1,1,germany,argentina,DEU,ARG
+2006,3,0,italy,ukraine,ITA,UKR
+2006,0,0,england,portugal,ENG,PRT
+2006,0,1,brazil,france,BRA,FRA
+2006,0,2,germany,italy,DEU,ITA
+2006,0,1,portugal,france,PRT,FRA
+2006,3,1,germany,portugal,DEU,PRT
+2006,1,1,italy,france,ITA,FRA
+2010,1,1,south africa,mexico,ZAF,MEX
+2010,0,0,uruguay,france,URY,FRA
+2010,2,0,korea republic,greece,KOR,GRC
+2010,1,0,argentina,nigeria,ARG,NGA
+2010,1,1,england,usa,ENG,USA
+2010,0,1,algeria,slovenia,DZA,SVN
+2010,0,1,serbia,ghana,SRB,GHA
+2010,4,0,germany,australia,DEU,AUS
+2010,2,0,netherlands,denmark,NLD,DNK
+2010,1,0,japan,cameroon,JPN,CMR
+2010,1,1,italy,paraguay,ITA,PRY
+2010,1,1,new zealand,slovakia,NZL,SVK
+2010,0,0,c�te d'ivoire,portugal,CIV,PRT
+2010,2,1,brazil,korea dpr,BRA,PRK
+2010,0,1,honduras,chile,HND,CHL
+2010,0,1,spain,switzerland,ESP,CHE
+2010,0,3,south africa,uruguay,ZAF,URY
+2010,4,1,argentina,korea republic,ARG,KOR
+2010,2,1,greece,nigeria,GRC,NGA
+2010,0,2,france,mexico,FRA,MEX
+2010,0,1,germany,serbia,DEU,SRB
+2010,2,2,slovenia,usa,SVN,USA
+2010,0,0,england,algeria,ENG,DZA
+2010,1,0,netherlands,japan,NLD,JPN
+2010,1,1,ghana,australia,GHA,AUS
+2010,1,2,cameroon,denmark,CMR,DNK
+2010,0,2,slovakia,paraguay,SVK,PRY
+2010,1,1,italy,new zealand,ITA,NZL
+2010,3,1,brazil,c�te d'ivoire,BRA,CIV
+2010,7,0,portugal,korea dpr,PRT,PRK
+2010,1,0,chile,switzerland,CHL,CHE
+2010,2,0,spain,honduras,ESP,HND
+2010,0,1,mexico,uruguay,MEX,URY
+2010,1,2,france,south africa,FRA,ZAF
+2010,2,2,nigeria,korea republic,NGA,KOR
+2010,0,2,greece,argentina,GRC,ARG
+2010,0,1,slovenia,england,SVN,ENG
+2010,1,0,usa,algeria,USA,DZA
+2010,0,1,ghana,germany,GHA,DEU
+2010,2,1,australia,serbia,AUS,SRB
+2010,3,2,slovakia,italy,SVK,ITA
+2010,0,0,paraguay,new zealand,PRY,NZL
+2010,1,3,denmark,japan,DNK,JPN
+2010,1,2,cameroon,netherlands,CMR,NLD
+2010,0,0,portugal,brazil,PRT,BRA
+2010,0,3,korea dpr,c�te d'ivoire,PRK,CIV
+2010,1,2,chile,spain,CHL,ESP
+2010,0,0,switzerland,honduras,CHE,HND
+2010,2,1,uruguay,korea republic,URY,KOR
+2010,1,2,usa,ghana,USA,GHA
+2010,4,1,germany,england,DEU,ENG
+2010,3,1,argentina,mexico,ARG,MEX
+2010,2,1,netherlands,slovakia,NLD,SVK
+2010,3,0,brazil,chile,BRA,CHL
+2010,0,0,paraguay,japan,PRY,JPN
+2010,1,0,spain,portugal,ESP,PRT
+2010,2,1,netherlands,brazil,NLD,BRA
+2010,1,1,uruguay,ghana,URY,GHA
+2010,0,4,argentina,germany,ARG,DEU
+2010,0,1,paraguay,spain,PRY,ESP
+2010,2,3,uruguay,netherlands,URY,NLD
+2010,0,1,germany,spain,DEU,ESP
+2010,2,3,uruguay,germany,URY,DEU
+2010,0,1,netherlands,spain,NLD,ESP
+2014,3,1,brazil,croatia,BRA,HRV
+2014,1,0,mexico,cameroon,MEX,CMR
+2014,1,5,spain,netherlands,ESP,NLD
+2014,3,1,chile,australia,CHL,AUS
+2014,3,0,colombia,greece,COL,GRC
+2014,1,3,uruguay,costa rica,URY,CRI
+2014,1,2,england,italy,ENG,ITA
+2014,2,1,c�te d'ivoire,japan,CIV,JPN
+2014,2,1,switzerland,ecuador,CHE,ECU
+2014,3,0,france,honduras,FRA,HND
+2014,2,1,argentina,"rn"">bosnia and herzegovina",ARG,BIH
+2014,4,0,germany,portugal,DEU,PRT
+2014,0,0,ir iran,nigeria,IRN,NGA
+2014,1,2,ghana,usa,GHA,USA
+2014,2,1,belgium,algeria,BEL,DZA
+2014,0,0,brazil,mexico,BRA,MEX
+2014,1,1,russia,korea republic,RUS,KOR
+2014,2,3,australia,netherlands,AUS,NLD
+2014,0,2,spain,chile,ESP,CHL
+2014,0,4,cameroon,croatia,CMR,HRV
+2014,2,1,colombia,c�te d'ivoire,COL,CIV
+2014,2,1,uruguay,england,URY,ENG
+2014,0,0,japan,greece,JPN,GRC
+2014,0,1,italy,costa rica,ITA,CRI
+2014,2,5,switzerland,france,CHE,FRA
+2014,1,2,honduras,ecuador,HND,ECU
+2014,1,0,argentina,ir iran,ARG,IRN
+2014,2,2,germany,ghana,DEU,GHA
+2014,1,0,nigeria,"rn"">bosnia and herzegovina",NGA,BIH
+2014,1,0,belgium,russia,BEL,RUS
+2014,2,4,korea republic,algeria,KOR,DZA
+2014,2,2,usa,portugal,USA,PRT
+2014,0,3,australia,spain,AUS,ESP
+2014,2,0,netherlands,chile,NLD,CHL
+2014,1,4,cameroon,brazil,CMR,BRA
+2014,1,3,croatia,mexico,HRV,MEX
+2014,0,1,italy,uruguay,ITA,URY
+2014,0,0,costa rica,england,CRI,ENG
+2014,1,4,japan,colombia,JPN,COL
+2014,2,1,greece,c�te d'ivoire,GRC,CIV
+2014,2,3,nigeria,argentina,NGA,ARG
+2014,3,1,"rn"">bosnia and herzegovina",ir iran,BIH,IRN
+2014,0,3,honduras,switzerland,HND,CHE
+2014,0,0,ecuador,france,ECU,FRA
+2014,0,1,usa,germany,USA,DEU
+2014,2,1,portugal,ghana,PRT,GHA
+2014,0,1,korea republic,belgium,KOR,BEL
+2014,1,1,algeria,russia,DZA,RUS
+2014,1,1,brazil,chile,BRA,CHL
+2014,2,0,colombia,uruguay,COL,URY
+2014,2,0,france,nigeria,FRA,NGA
+2014,2,1,germany,algeria,DEU,DZA
+2014,2,1,brazil,colombia,BRA,COL
+2014,0,1,france,germany,FRA,DEU
+2014,1,7,brazil,germany,BRA,DEU
+2014,0,3,brazil,netherlands,BRA,NLD
+2014,1,0,germany,argentina,DEU,ARG
+2014,0,0,netherlands,argentina,NLD,ARG
+2014,0,0,netherlands,costa rica,NLD,CRI
+2014,1,0,argentina,belgium,ARG,BEL
+2014,2,1,netherlands,mexico,NLD,MEX
+2014,1,1,costa rica,greece,CRI,GRC
+2014,1,0,argentina,switzerland,ARG,CHE
+2014,2,1,belgium,usa,BEL,USA
+2014,1,1,brazil,chile,BRA,CHL
+2014,2,0,colombia,uruguay,COL,URY
+2014,2,1,netherlands,mexico,NLD,MEX
+2014,1,1,costa rica,greece,CRI,GRC
+2014,2,0,france,nigeria,FRA,NGA
+2014,2,1,germany,algeria,DEU,DZA
+2014,1,0,argentina,switzerland,ARG,CHE
+2014,2,1,belgium,usa,BEL,USA
+2014,0,1,france,germany,FRA,DEU
+2014,2,1,brazil,colombia,BRA,COL
+2014,1,0,argentina,belgium,ARG,BEL
+2014,0,0,netherlands,costa rica,NLD,CRI
+2014,1,7,brazil,germany,BRA,DEU
+2014,0,0,netherlands,argentina,NLD,ARG
+2014,0,3,brazil,netherlands,BRA,NLD
+2014,1,0,germany,argentina,DEU,ARG
+2018,5,0,russia,saudi arabia,RUS,SAU
+2018,0,1,egypt,uruguay,EGY,URY
+2018,0,1,morocco,iran,MAR,IRN
+2018,3,3,portugal,spain,PRT,ESP
+2018,2,1,france,australia,FRA,AUS
+2018,1,1,argentina,iceland,ARG,ISL
+2018,0,1,peru,denmark,PER,DNK
+2018,2,0,croatia,nigeria,HRV,NGA
+2018,0,1,costa rica,serbia,CRI,SRB
+2018,0,1,germany,mexico,DEU,MEX
+2018,1,1,brazil,switzerland,BRA,CHE
+2018,1,0,sweden,south korea,SWE,KOR
+2018,3,0,belgium,panama,BEL,PAN
+2018,1,2,tunisia,england,TUN,ENG
+2018,1,2,colombia,japan,COL,JPN
+2018,1,2,poland,senegal,POL,SEN
+2018,3,1,russia,egypt,RUS,EGY
+2018,1,0,portugal,morocco,PRT,MAR
+2018,1,0,uruguay,saudi arabia,URY,SAU
+2018,0,1,iran,spain,IRN,ESP
+2018,1,1,denmark,australia,DNK,AUS
+2018,1,0,france,peru,FRA,PER
+2018,0,3,argentina,croatia,ARG,HRV
+2018,2,0,brazil,costa rica,BRA,CRI
+2018,2,0,nigeria,iceland,NGA,ISL
+2018,1,2,serbia,switzerland,SRB,CHE
+2018,5,2,belgium,tunisia,BEL,TUN
+2018,1,2,south korea,mexico,KOR,MEX
+2018,2,1,germany,sweden,DEU,SWE
+2018,6,1,england,panama,ENG,PAN
+2018,2,2,japan,senegal,JPN,SEN
+2018,0,3,poland,colombia,POL,COL
+2018,2,1,saudi arabia,egypt,SAU,EGY
+2018,3,0,uruguay,russia,URY,RUS
+2018,1,1,iran,portugal,IRN,PRT
+2018,2,2,spain,morocco,ESP,MAR
+2018,0,2,australia,peru,AUS,PER
+2018,0,0,denmark,france,DNK,FRA
+2018,1,2,nigeria,argentina,NGA,ARG
+2018,1,2,iceland,croatia,ISL,HRV
+2018,0,3,mexico,sweden,MEX,SWE
+2018,2,0,south korea,germany,KOR,DEU
+2018,2,2,switzerland,costa rica,CHE,CRI
+2018,0,2,serbia,brazil,SRB,BRA
+2018,0,1,senegal,colombia,SEN,COL
+2018,0,1,japan,poland,JPN,POL
+2018,0,1,england,belgium,ENG,BEL
+2018,1,2,panama,tunisia,PAN,TUN
+2018,4,3,france,argentina,FRA,ARG
+2018,2,1,uruguay,portugal,URY,PRT
+2018,1,1,spain,russia,ESP,RUS
+2018,1,1,croatia,denmark,HRV,DNK
+2018,2,0,brazil,mexico,BRA,MEX
+2018,3,2,belgium,japan,BEL,JPN
+2018,1,0,sweden,switzerland,SWE,CHE
+2018,1,1,colombia,england,COL,ENG
+2018,0,2,uruguay,france,URY,FRA
+2018,1,2,brazil,belgium,BRA,BEL
+2018,0,2,sweden,england,SWE,ENG
+2018,2,2,russia,croatia,RUS,HRV
+2018,1,0,france,belgium,FRA,BEL
+2018,2,1,croatia,england,HRV,ENG
+2018,2,0,belgium,england,BEL,ENG
+2018,4,2,croatia,france,HRV,FRA
+2022,0,2,qatar,ecuador,QAT,ECU
+2022,6,2,england,iran,ENG,IRN
+2022,0,2,senegal,netherlands,SEN,NLD
+2022,1,1,united states,wales,USA,WLS
+2022,1,2,argentina,saudi arabia,ARG,SAU
+2022,0,0,denmark,tunisia,DNK,TUN
+2022,0,0,mexico,poland,MEX,POL
+2022,4,1,france,australia,FRA,AUS
+2022,0,0,morocco,croatia,MAR,HRV
+2022,1,2,germany,japan,DEU,JPN
+2022,7,0,spain,costa rica,ESP,CRI
+2022,1,0,belgium,canada,BEL,CAN
+2022,1,0,switzerland,cameroon,CHE,CMR
+2022,0,0,uruguay,korea republic,URY,KOR
+2022,3,2,portugal,ghana,PRT,GHA
+2022,2,0,brazil,serbia,BRA,SRB
+2022,0,2,wales,iran,WLS,IRN
+2022,1,3,qatar,senegal,QAT,SEN
+2022,1,1,netherlands,ecuador,NLD,ECU
+2022,0,0,england,united states,ENG,USA
+2022,0,1,tunisia,australia,TUN,AUS
+2022,2,0,poland,saudi arabia,POL,SAU
+2022,2,1,france,denmark,FRA,DNK
+2022,2,0,argentina,mexico,ARG,MEX
+2022,0,1,japan,costa rica,JPN,CRI
+2022,0,2,belgium,morocco,BEL,MAR
+2022,4,1,croatia,canada,HRV,CAN
+2022,1,1,spain,germany,ESP,DEU
+2022,3,3,cameroon,serbia,CMR,SRB
+2022,2,3,korea republic,ghana,KOR,GHA
+2022,1,0,brazil,switzerland,BRA,CHE
+2022,2,0,portugal,uruguay,PRT,URY
+2022,2,0,netherlands,qatar,NLD,QAT
+2022,1,2,ecuador,senegal,ECU,SEN
+2022,0,3,wales,england,WLS,ENG
+2022,0,1,iran,united states,IRN,USA
+2022,1,0,australia,denmark,AUS,DNK
+2022,1,0,tunisia,france,TUN,FRA
+2022,0,2,poland,argentina,POL,ARG
+2022,1,2,saudi arabia,mexico,SAU,MEX
+2022,0,0,croatia,belgium,HRV,BEL
+2022,1,2,canada,morocco,CAN,MAR
+2022,2,1,japan,spain,JPN,ESP
+2022,2,4,costa rica,germany,CRI,DEU
+2022,0,2,ghana,uruguay,GHA,URY
+2022,2,1,korea republic,portugal,KOR,PRT
+2022,2,3,serbia,switzerland,SRB,CHE
+2022,1,0,cameroon,brazil,CMR,BRA
+2022,3,1,netherlands,united states,NLD,USA
+2022,2,1,argentina,australia,ARG,AUS
+2022,3,1,france,poland,FRA,POL
+2022,3,0,england,senegal,ENG,SEN
+2022,1,1,japan,croatia,JPN,HRV
+2022,4,1,brazil,korea republic,BRA,KOR
+2022,0,0,morocco,spain,MAR,ESP
+2022,6,1,portugal,switzerland,PRT,CHE
+2022,1,1,croatia,brazil,HRV,BRA
+2022,2,2,netherlands,argentina,NLD,ARG
+2022,1,0,morocco,portugal,MAR,PRT
+2022,1,2,england,france,ENG,FRA
+2022,3,0,argentina,croatia,ARG,HRV
+2022,2,0,france,morocco,FRA,MAR
+2022,2,1,croatia,morocco,HRV,MAR
+2022,3,3,argentina,france,ARG,FRA
