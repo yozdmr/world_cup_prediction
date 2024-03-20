@@ -1,489 +1,489 @@
 ,Year,Team,Wins,Losses,Draws,TeamsBeat,TeamsDraw,TeamsLoss
-0,1930,FRA,2,4,0,"['MEX', 'MEX']",[],"['ARG', 'CHL', 'ARG', 'CHL']"
-1,1930,MEX,0,6,0,[],[],"['FRA', 'CHL', 'ARG', 'FRA', 'CHL', 'ARG']"
-2,1930,USA,4,2,0,"['BEL', 'PRY', 'BEL', 'PRY']",[],"['ARG', 'ARG']"
-3,1930,BEL,0,4,0,[],[],"['USA', 'PRY', 'USA', 'PRY']"
-4,1930,YUG,4,2,0,"['BRA', 'BOL', 'BRA', 'BOL']",[],"['URY', 'URY']"
-5,1930,BRA,2,2,0,"['BOL', 'BOL']",[],"['YUG', 'YUG']"
-6,1930,ROU,2,2,0,"['PER', 'PER']",[],"['URY', 'URY']"
-7,1930,PER,0,4,0,[],[],"['ROU', 'URY', 'ROU', 'URY']"
-8,1930,ARG,8,2,0,"['FRA', 'MEX', 'CHL', 'USA', 'FRA', 'MEX', 'CHL', 'USA']",[],"['URY', 'URY']"
-9,1930,CHL,4,2,0,"['MEX', 'FRA', 'MEX', 'FRA']",[],"['ARG', 'ARG']"
-10,1930,BOL,0,4,0,[],[],"['YUG', 'BRA', 'YUG', 'BRA']"
-11,1930,PRY,2,2,0,"['BEL', 'BEL']",[],"['USA', 'USA']"
-12,1930,URY,8,0,0,"['PER', 'ROU', 'YUG', 'ARG', 'PER', 'ROU', 'YUG', 'ARG']",[],[]
-13,1934,AUT,4,4,0,"['FRA', 'HUN', 'FRA', 'HUN']",[],"['ITA', 'DEU', 'ITA', 'DEU']"
-14,1934,FRA,0,2,0,[],[],"['AUT', 'AUT']"
-15,1934,HUN,2,2,0,"['EGY', 'EGY']",[],"['AUT', 'AUT']"
-16,1934,EGY,0,2,0,[],[],"['HUN', 'HUN']"
-17,1934,CHE,2,2,0,"['NLD', 'NLD']",[],"['CZE', 'CZE']"
-18,1934,NLD,0,2,0,[],[],"['CHE', 'CHE']"
-19,1934,SWE,2,2,0,"['ARG', 'ARG']",[],"['DEU', 'DEU']"
-20,1934,ARG,0,2,0,[],[],"['SWE', 'SWE']"
-21,1934,DEU,6,2,0,"['BEL', 'SWE', 'AUT', 'BEL', 'SWE', 'AUT']",[],"['CZE', 'CZE']"
-22,1934,BEL,0,2,0,[],[],"['DEU', 'DEU']"
-23,1934,ESP,2,2,2,"['BRA', 'BRA']","['ITA', 'ITA']","['ITA', 'ITA']"
-24,1934,BRA,0,2,0,[],[],"['ESP', 'ESP']"
-25,1934,ITA,8,0,2,"['USA', 'ESP', 'AUT', 'CZE', 'USA', 'ESP', 'AUT', 'CZE']","['ESP', 'ESP']",[]
-26,1934,USA,0,2,0,[],[],"['ITA', 'ITA']"
-27,1934,CZE,6,2,0,"['ROU', 'CHE', 'DEU', 'ROU', 'CHE', 'DEU']",[],"['ITA', 'ITA']"
-28,1934,ROU,0,2,0,[],[],"['CZE', 'CZE']"
-29,1938,CHE,2,2,2,"['DEU', 'DEU']","['DEU', 'DEU']","['HUN', 'HUN']"
-30,1938,DEU,0,2,2,[],"['CHE', 'CHE']","['CHE', 'CHE']"
-31,1938,HUN,6,2,0,"['INH', 'CHE', 'SWE', 'INH', 'CHE', 'SWE']",[],"['ITA', 'ITA']"
-32,1938,INH,0,2,0,[],[],"['HUN', 'HUN']"
-33,1938,FRA,2,2,0,"['BEL', 'BEL']",[],"['ITA', 'ITA']"
-34,1938,BEL,0,2,0,[],[],"['FRA', 'FRA']"
-35,1938,CUB,2,2,2,"['ROU', 'ROU']","['ROU', 'ROU']","['SWE', 'SWE']"
-36,1938,ROU,0,2,2,[],"['CUB', 'CUB']","['CUB', 'CUB']"
-37,1938,ITA,8,0,0,"['NOR', 'FRA', 'BRA', 'HUN', 'NOR', 'FRA', 'BRA', 'HUN']",[],[]
-38,1938,NOR,0,2,0,[],[],"['ITA', 'ITA']"
-39,1938,BRA,6,2,2,"['POL', 'CZE', 'SWE', 'POL', 'CZE', 'SWE']","['CZE', 'CZE']","['ITA', 'ITA']"
-40,1938,POL,0,2,0,[],[],"['BRA', 'BRA']"
-41,1938,CZE,2,2,2,"['NLD', 'NLD']","['BRA', 'BRA']","['BRA', 'BRA']"
-42,1938,NLD,0,2,0,[],[],"['CZE', 'CZE']"
-43,1938,SWE,2,4,0,"['CUB', 'CUB']",[],"['HUN', 'BRA', 'HUN', 'BRA']"
-44,1950,BRA,8,2,2,"['MEX', 'YUG', 'SWE', 'ESP', 'MEX', 'YUG', 'SWE', 'ESP']","['CHE', 'CHE']","['URY', 'URY']"
-45,1950,MEX,0,6,0,[],[],"['BRA', 'YUG', 'CHE', 'BRA', 'YUG', 'CHE']"
-46,1950,ENG,2,4,0,"['CHL', 'CHL']",[],"['USA', 'ESP', 'USA', 'ESP']"
-47,1950,CHL,2,4,0,"['USA', 'USA']",[],"['ENG', 'ESP', 'ENG', 'ESP']"
-48,1950,ESP,6,4,2,"['USA', 'CHL', 'ENG', 'USA', 'CHL', 'ENG']","['URY', 'URY']","['BRA', 'SWE', 'BRA', 'SWE']"
-49,1950,USA,2,4,0,"['ENG', 'ENG']",[],"['ESP', 'CHL', 'ESP', 'CHL']"
-50,1950,SWE,4,4,2,"['ITA', 'ESP', 'ITA', 'ESP']","['PRY', 'PRY']","['BRA', 'URY', 'BRA', 'URY']"
-51,1950,ITA,2,2,0,"['PRY', 'PRY']",[],"['SWE', 'SWE']"
-52,1950,YUG,4,2,0,"['CHE', 'MEX', 'CHE', 'MEX']",[],"['BRA', 'BRA']"
-53,1950,CHE,2,2,2,"['MEX', 'MEX']","['BRA', 'BRA']","['YUG', 'YUG']"
-54,1950,PRY,0,2,2,[],"['SWE', 'SWE']","['ITA', 'ITA']"
-55,1950,URY,6,0,2,"['BOL', 'SWE', 'BRA', 'BOL', 'SWE', 'BRA']","['ESP', 'ESP']",[]
-56,1950,BOL,0,2,0,[],[],"['URY', 'URY']"
-57,1954,URY,6,4,0,"['CZE', 'SCT', 'ENG', 'CZE', 'SCT', 'ENG']",[],"['HUN', 'AUT', 'HUN', 'AUT']"
-58,1954,CZE,0,4,0,[],[],"['URY', 'AUT', 'URY', 'AUT']"
-59,1954,AUT,8,2,0,"['SCT', 'CZE', 'CHE', 'URY', 'SCT', 'CZE', 'CHE', 'URY']",[],"['DEU', 'DEU']"
-60,1954,SCT,0,4,0,[],[],"['AUT', 'URY', 'AUT', 'URY']"
-61,1954,BRA,2,2,2,"['MEX', 'MEX']","['YUG', 'YUG']","['HUN', 'HUN']"
-62,1954,MEX,0,4,0,[],[],"['BRA', 'FRA', 'BRA', 'FRA']"
-63,1954,YUG,2,2,2,"['FRA', 'FRA']","['BRA', 'BRA']","['DEU', 'DEU']"
-64,1954,FRA,2,2,0,"['MEX', 'MEX']",[],"['YUG', 'YUG']"
-65,1954,DEU,10,2,0,"['TUR', 'TUR', 'YUG', 'AUT', 'HUN', 'TUR', 'TUR', 'YUG', 'AUT', 'HUN']",[],"['HUN', 'HUN']"
-66,1954,TUR,2,4,0,"['KOR', 'KOR']",[],"['DEU', 'DEU', 'DEU', 'DEU']"
-67,1954,HUN,8,2,0,"['KOR', 'DEU', 'BRA', 'URY', 'KOR', 'DEU', 'BRA', 'URY']",[],"['DEU', 'DEU']"
-68,1954,KOR,0,4,0,[],[],"['HUN', 'TUR', 'HUN', 'TUR']"
-69,1954,ENG,2,2,2,"['CHE', 'CHE']","['BEL', 'BEL']","['URY', 'URY']"
-70,1954,BEL,0,2,2,[],"['ENG', 'ENG']","['ITA', 'ITA']"
-71,1954,CHE,4,4,0,"['ITA', 'ITA', 'ITA', 'ITA']",[],"['ENG', 'AUT', 'ENG', 'AUT']"
-72,1954,ITA,2,4,0,"['BEL', 'BEL']",[],"['CHE', 'CHE', 'CHE', 'CHE']"
-73,1958,SWE,8,2,2,"['MEX', 'HUN', 'SUN', 'DEU', 'MEX', 'HUN', 'SUN', 'DEU']","['WLS', 'WLS']","['BRA', 'BRA']"
-74,1958,MEX,0,4,2,[],"['WLS', 'WLS']","['SWE', 'HUN', 'SWE', 'HUN']"
-75,1958,SUN,4,4,2,"['AUT', 'ENG', 'AUT', 'ENG']","['ENG', 'ENG']","['BRA', 'SWE', 'BRA', 'SWE']"
-76,1958,ENG,0,2,6,[],"['SUN', 'BRA', 'AUT', 'SUN', 'BRA', 'AUT']","['SUN', 'SUN']"
-77,1958,ARG,2,4,0,"['NIL', 'NIL']",[],"['DEU', 'CZE', 'DEU', 'CZE']"
-78,1958,DEU,4,4,4,"['ARG', 'YUG', 'ARG', 'YUG']","['CZE', 'NIL', 'CZE', 'NIL']","['SWE', 'FRA', 'SWE', 'FRA']"
-79,1958,HUN,2,4,2,"['MEX', 'MEX']","['WLS', 'WLS']","['SWE', 'WLS', 'SWE', 'WLS']"
-80,1958,WLS,2,2,6,"['HUN', 'HUN']","['HUN', 'MEX', 'SWE', 'HUN', 'MEX', 'SWE']","['BRA', 'BRA']"
-81,1958,FRA,8,4,0,"['PRY', 'SCT', 'NIL', 'DEU', 'PRY', 'SCT', 'NIL', 'DEU']",[],"['YUG', 'BRA', 'YUG', 'BRA']"
-82,1958,PRY,2,2,2,"['SCT', 'SCT']","['YUG', 'YUG']","['FRA', 'FRA']"
-83,1958,YUG,2,2,4,"['FRA', 'FRA']","['SCT', 'PRY', 'SCT', 'PRY']","['DEU', 'DEU']"
-84,1958,SCT,0,4,2,[],"['YUG', 'YUG']","['PRY', 'FRA', 'PRY', 'FRA']"
-85,1958,BRA,10,0,2,"['AUT', 'SUN', 'WLS', 'FRA', 'SWE', 'AUT', 'SUN', 'WLS', 'FRA', 'SWE']","['ENG', 'ENG']",[]
-86,1958,AUT,0,4,2,[],"['ENG', 'ENG']","['BRA', 'SUN', 'BRA', 'SUN']"
-87,1958,NIL,4,4,2,"['CZE', 'CZE', 'CZE', 'CZE']","['DEU', 'DEU']","['ARG', 'FRA', 'ARG', 'FRA']"
-88,1958,CZE,2,4,2,"['ARG', 'ARG']","['DEU', 'DEU']","['NIL', 'NIL', 'NIL', 'NIL']"
-89,1962,URY,2,4,0,"['COL', 'COL']",[],"['YUG', 'SUN', 'YUG', 'SUN']"
-90,1962,COL,0,4,2,[],"['SUN', 'SUN']","['URY', 'YUG', 'URY', 'YUG']"
-91,1962,BRA,10,0,2,"['MEX', 'ESP', 'ENG', 'CHL', 'CZE', 'MEX', 'ESP', 'ENG', 'CHL', 'CZE']","['CZE', 'CZE']",[]
-92,1962,MEX,2,4,0,"['CZE', 'CZE']",[],"['BRA', 'ESP', 'BRA', 'ESP']"
-93,1962,ARG,2,2,2,"['BGR', 'BGR']","['HUN', 'HUN']","['ENG', 'ENG']"
-94,1962,BGR,0,4,2,[],"['ENG', 'ENG']","['ARG', 'HUN', 'ARG', 'HUN']"
-95,1962,CHL,8,4,0,"['CHE', 'ITA', 'SUN', 'YUG', 'CHE', 'ITA', 'SUN', 'YUG']",[],"['DEU', 'BRA', 'DEU', 'BRA']"
-96,1962,CHE,0,6,0,[],[],"['CHL', 'DEU', 'ITA', 'CHL', 'DEU', 'ITA']"
-97,1962,SUN,4,2,2,"['YUG', 'URY', 'YUG', 'URY']","['COL', 'COL']","['CHL', 'CHL']"
-98,1962,YUG,6,6,0,"['URY', 'COL', 'DEU', 'URY', 'COL', 'DEU']",[],"['SUN', 'CZE', 'CHL', 'SUN', 'CZE', 'CHL']"
-99,1962,CZE,6,4,2,"['ESP', 'HUN', 'YUG', 'ESP', 'HUN', 'YUG']","['BRA', 'BRA']","['MEX', 'BRA', 'MEX', 'BRA']"
-100,1962,ESP,2,4,0,"['MEX', 'MEX']",[],"['CZE', 'BRA', 'CZE', 'BRA']"
-101,1962,HUN,4,2,2,"['ENG', 'BGR', 'ENG', 'BGR']","['ARG', 'ARG']","['CZE', 'CZE']"
-102,1962,ENG,2,4,2,"['ARG', 'ARG']","['BGR', 'BGR']","['HUN', 'BRA', 'HUN', 'BRA']"
-103,1962,DEU,4,2,2,"['CHE', 'CHL', 'CHE', 'CHL']","['ITA', 'ITA']","['YUG', 'YUG']"
-104,1962,ITA,2,2,2,"['CHE', 'CHE']","['DEU', 'DEU']","['CHL', 'CHL']"
-105,1966,ENG,10,0,2,"['MEX', 'FRA', 'ARG', 'PRT', 'DEU', 'MEX', 'FRA', 'ARG', 'PRT', 'DEU']","['URY', 'URY']",[]
-106,1966,URY,2,2,4,"['FRA', 'FRA']","['ENG', 'MEX', 'ENG', 'MEX']","['DEU', 'DEU']"
-107,1966,DEU,8,2,2,"['CHE', 'ESP', 'URY', 'SUN', 'CHE', 'ESP', 'URY', 'SUN']","['ARG', 'ARG']","['ENG', 'ENG']"
-108,1966,CHE,0,6,0,[],[],"['DEU', 'ESP', 'ARG', 'DEU', 'ESP', 'ARG']"
-109,1966,BRA,2,4,0,"['BGR', 'BGR']",[],"['HUN', 'PRT', 'HUN', 'PRT']"
-110,1966,BGR,0,6,0,[],[],"['BRA', 'PRT', 'HUN', 'BRA', 'PRT', 'HUN']"
-111,1966,SUN,8,4,0,"['PRK', 'ITA', 'CHL', 'HUN', 'PRK', 'ITA', 'CHL', 'HUN']",[],"['DEU', 'PRT', 'DEU', 'PRT']"
-112,1966,PRK,2,4,2,"['ITA', 'ITA']","['CHL', 'CHL']","['SUN', 'PRT', 'SUN', 'PRT']"
-113,1966,FRA,0,4,2,[],"['MEX', 'MEX']","['URY', 'ENG', 'URY', 'ENG']"
-114,1966,MEX,0,2,4,[],"['FRA', 'URY', 'FRA', 'URY']","['ENG', 'ENG']"
-115,1966,PRT,10,2,0,"['HUN', 'BGR', 'BRA', 'PRK', 'SUN', 'HUN', 'BGR', 'BRA', 'PRK', 'SUN']",[],"['ENG', 'ENG']"
-116,1966,HUN,4,4,0,"['BRA', 'BGR', 'BRA', 'BGR']",[],"['PRT', 'SUN', 'PRT', 'SUN']"
-117,1966,ARG,4,2,2,"['ESP', 'CHE', 'ESP', 'CHE']","['DEU', 'DEU']","['ENG', 'ENG']"
-118,1966,ESP,2,4,0,"['CHE', 'CHE']",[],"['ARG', 'DEU', 'ARG', 'DEU']"
-119,1966,ITA,2,4,0,"['CHL', 'CHL']",[],"['SUN', 'PRK', 'SUN', 'PRK']"
-120,1966,CHL,0,4,2,[],"['PRK', 'PRK']","['ITA', 'SUN', 'ITA', 'SUN']"
-121,1970,MEX,4,2,2,"['SLV', 'BEL', 'SLV', 'BEL']","['SUN', 'SUN']","['ITA', 'ITA']"
-122,1970,SUN,4,2,2,"['BEL', 'SLV', 'BEL', 'SLV']","['MEX', 'MEX']","['URY', 'URY']"
-123,1970,URY,4,6,2,"['ISR', 'SUN', 'ISR', 'SUN']","['ITA', 'ITA']","['SWE', 'BRA', 'DEU', 'SWE', 'BRA', 'DEU']"
-124,1970,ISR,0,2,4,[],"['SWE', 'ITA', 'SWE', 'ITA']","['URY', 'URY']"
-125,1970,PER,4,4,0,"['BGR', 'MAR', 'BGR', 'MAR']",[],"['DEU', 'BRA', 'DEU', 'BRA']"
-126,1970,BGR,0,4,2,[],"['MAR', 'MAR']","['PER', 'DEU', 'PER', 'DEU']"
-127,1970,ENG,4,4,0,"['ROU', 'CZE', 'ROU', 'CZE']",[],"['BRA', 'DEU', 'BRA', 'DEU']"
-128,1970,ROU,2,4,0,"['CZE', 'CZE']",[],"['ENG', 'BRA', 'ENG', 'BRA']"
-129,1970,ITA,6,2,4,"['SWE', 'MEX', 'DEU', 'SWE', 'MEX', 'DEU']","['URY', 'ISR', 'URY', 'ISR']","['BRA', 'BRA']"
-130,1970,SWE,2,2,2,"['URY', 'URY']","['ISR', 'ISR']","['ITA', 'ITA']"
-131,1970,DEU,10,2,0,"['MAR', 'BGR', 'PER', 'ENG', 'URY', 'MAR', 'BGR', 'PER', 'ENG', 'URY']",[],"['ITA', 'ITA']"
-132,1970,MAR,0,4,2,[],"['BGR', 'BGR']","['DEU', 'PER', 'DEU', 'PER']"
-133,1970,BRA,12,0,0,"['CZE', 'ENG', 'ROU', 'PER', 'URY', 'ITA', 'CZE', 'ENG', 'ROU', 'PER', 'URY', 'ITA']",[],[]
-134,1970,CZE,0,6,0,[],[],"['BRA', 'ROU', 'ENG', 'BRA', 'ROU', 'ENG']"
-135,1970,BEL,2,4,0,"['SLV', 'SLV']",[],"['SUN', 'MEX', 'SUN', 'MEX']"
-136,1970,SLV,0,6,0,[],[],"['BEL', 'MEX', 'SUN', 'BEL', 'MEX', 'SUN']"
-137,1974,BRA,6,4,4,"['COD', 'DEU', 'ARG', 'COD', 'DEU', 'ARG']","['YUG', 'SCT', 'YUG', 'SCT']","['NLD', 'POL', 'NLD', 'POL']"
-138,1974,YUG,2,6,4,"['COD', 'COD']","['BRA', 'SCT', 'BRA', 'SCT']","['DEU', 'POL', 'SWE', 'DEU', 'POL', 'SWE']"
-139,1974,DEU,16,6,4,"['CHL', 'AUS', 'AUS', 'DEU', 'YUG', 'SWE', 'POL', 'NLD', 'CHL', 'AUS', 'AUS', 'DEU', 'YUG', 'SWE', 'POL', 'NLD']","['CHL', 'ARG', 'CHL', 'ARG']","['DEU', 'BRA', 'NLD', 'DEU', 'BRA', 'NLD']"
-140,1974,CHL,0,2,4,[],"['DEU', 'AUS', 'DEU', 'AUS']","['DEU', 'DEU']"
-141,1974,AUS,0,4,2,[],"['CHL', 'CHL']","['DEU', 'DEU', 'DEU', 'DEU']"
-142,1974,COD,0,6,0,[],[],"['SCT', 'YUG', 'BRA', 'SCT', 'YUG', 'BRA']"
-143,1974,SCT,2,0,4,"['COD', 'COD']","['BRA', 'YUG', 'BRA', 'YUG']",[]
-144,1974,URY,0,4,2,[],"['BGR', 'BGR']","['NLD', 'SWE', 'NLD', 'SWE']"
-145,1974,NLD,10,2,2,"['URY', 'BGR', 'ARG', 'DEU', 'BRA', 'URY', 'BGR', 'ARG', 'DEU', 'BRA']","['SWE', 'SWE']","['DEU', 'DEU']"
-146,1974,SWE,4,4,4,"['URY', 'YUG', 'URY', 'YUG']","['BGR', 'NLD', 'BGR', 'NLD']","['POL', 'DEU', 'POL', 'DEU']"
-147,1974,BGR,0,2,4,[],"['SWE', 'URY', 'SWE', 'URY']","['NLD', 'NLD']"
-148,1974,ITA,2,2,2,"['HTI', 'HTI']","['ARG', 'ARG']","['POL', 'POL']"
-149,1974,HTI,0,6,0,[],[],"['ITA', 'POL', 'ARG', 'ITA', 'POL', 'ARG']"
-150,1974,POL,12,2,0,"['ARG', 'HTI', 'ITA', 'SWE', 'YUG', 'BRA', 'ARG', 'HTI', 'ITA', 'SWE', 'YUG', 'BRA']",[],"['DEU', 'DEU']"
-151,1974,ARG,2,6,4,"['HTI', 'HTI']","['ITA', 'DEU', 'ITA', 'DEU']","['POL', 'NLD', 'BRA', 'POL', 'NLD', 'BRA']"
-152,1978,DEU,2,2,8,"['MEX', 'MEX']","['POL', 'TUN', 'ITA', 'NLD', 'POL', 'TUN', 'ITA', 'NLD']","['AUT', 'AUT']"
-153,1978,POL,6,4,2,"['TUN', 'MEX', 'PER', 'TUN', 'MEX', 'PER']","['DEU', 'DEU']","['ARG', 'BRA', 'ARG', 'BRA']"
-154,1978,ITA,8,4,2,"['FRA', 'HUN', 'ARG', 'AUT', 'FRA', 'HUN', 'ARG', 'AUT']","['DEU', 'DEU']","['NLD', 'BRA', 'NLD', 'BRA']"
-155,1978,FRA,2,4,0,"['HUN', 'HUN']",[],"['ITA', 'ARG', 'ITA', 'ARG']"
-156,1978,TUN,2,2,2,"['MEX', 'MEX']","['DEU', 'DEU']","['POL', 'POL']"
-157,1978,MEX,0,6,0,[],[],"['TUN', 'DEU', 'POL', 'TUN', 'DEU', 'POL']"
-158,1978,ARG,10,2,2,"['HUN', 'FRA', 'POL', 'PER', 'NLD', 'HUN', 'FRA', 'POL', 'PER', 'NLD']","['BRA', 'BRA']","['ITA', 'ITA']"
-159,1978,HUN,0,6,0,[],[],"['ARG', 'ITA', 'FRA', 'ARG', 'ITA', 'FRA']"
-160,1978,SWE,0,4,2,[],"['BRA', 'BRA']","['AUT', 'ESP', 'AUT', 'ESP']"
-161,1978,BRA,8,0,6,"['AUT', 'PER', 'POL', 'ITA', 'AUT', 'PER', 'POL', 'ITA']","['SWE', 'ESP', 'ARG', 'SWE', 'ESP', 'ARG']",[]
-162,1978,AUT,6,6,0,"['ESP', 'SWE', 'DEU', 'ESP', 'SWE', 'DEU']",[],"['BRA', 'NLD', 'ITA', 'BRA', 'NLD', 'ITA']"
-163,1978,ESP,2,2,2,"['SWE', 'SWE']","['BRA', 'BRA']","['AUT', 'AUT']"
-164,1978,PER,4,6,2,"['SCT', 'IRN', 'SCT', 'IRN']","['NLD', 'NLD']","['BRA', 'POL', 'ARG', 'BRA', 'POL', 'ARG']"
-165,1978,SCT,2,2,2,"['NLD', 'NLD']","['IRN', 'IRN']","['PER', 'PER']"
-166,1978,NLD,6,4,4,"['IRN', 'AUT', 'ITA', 'IRN', 'AUT', 'ITA']","['PER', 'DEU', 'PER', 'DEU']","['SCT', 'ARG', 'SCT', 'ARG']"
-167,1978,IRN,0,4,2,[],"['SCT', 'SCT']","['NLD', 'PER', 'NLD', 'PER']"
-168,1982,ARG,4,6,0,"['HUN', 'SLV', 'HUN', 'SLV']",[],"['BEL', 'ITA', 'BRA', 'BEL', 'ITA', 'BRA']"
-169,1982,BEL,4,4,2,"['ARG', 'SLV', 'ARG', 'SLV']","['HUN', 'HUN']","['POL', 'SUN', 'POL', 'SUN']"
-170,1982,ITA,8,0,6,"['ARG', 'BRA', 'POL', 'DEU', 'ARG', 'BRA', 'POL', 'DEU']","['POL', 'PER', 'CMR', 'POL', 'PER', 'CMR']",[]
-171,1982,POL,6,2,6,"['PER', 'BEL', 'FRA', 'PER', 'BEL', 'FRA']","['ITA', 'CMR', 'SUN', 'ITA', 'CMR', 'SUN']","['ITA', 'ITA']"
-172,1982,BRA,8,2,0,"['SUN', 'SCT', 'NZL', 'ARG', 'SUN', 'SCT', 'NZL', 'ARG']",[],"['ITA', 'ITA']"
-173,1982,SUN,4,2,4,"['NZL', 'BEL', 'NZL', 'BEL']","['SCT', 'POL', 'SCT', 'POL']","['BRA', 'BRA']"
-174,1982,PER,0,2,4,[],"['CMR', 'ITA', 'CMR', 'ITA']","['POL', 'POL']"
-175,1982,CMR,0,0,6,[],"['PER', 'POL', 'ITA', 'PER', 'POL', 'ITA']",[]
-176,1982,HUN,2,2,2,"['SLV', 'SLV']","['BEL', 'BEL']","['ARG', 'ARG']"
-177,1982,SLV,0,6,0,[],[],"['HUN', 'BEL', 'ARG', 'HUN', 'BEL', 'ARG']"
-178,1982,SCT,2,2,2,"['NZL', 'NZL']","['SUN', 'SUN']","['BRA', 'BRA']"
-179,1982,NZL,0,6,0,[],[],"['SCT', 'SUN', 'BRA', 'SCT', 'SUN', 'BRA']"
-180,1982,DEU,6,4,4,"['CHL', 'AUT', 'ESP', 'CHL', 'AUT', 'ESP']","['ENG', 'FRA', 'ENG', 'FRA']","['DZA', 'ITA', 'DZA', 'ITA']"
-181,1982,DZA,4,2,0,"['DEU', 'CHL', 'DEU', 'CHL']",[],"['AUT', 'AUT']"
-182,1982,ENG,6,0,4,"['FRA', 'CZE', 'KWT', 'FRA', 'CZE', 'KWT']","['DEU', 'ESP', 'DEU', 'ESP']",[]
-183,1982,FRA,6,4,4,"['KWT', 'AUT', 'NIL', 'KWT', 'AUT', 'NIL']","['CZE', 'DEU', 'CZE', 'DEU']","['ENG', 'POL', 'ENG', 'POL']"
-184,1982,ESP,2,4,4,"['YUG', 'YUG']","['HND', 'ENG', 'HND', 'ENG']","['NIL', 'DEU', 'NIL', 'DEU']"
-185,1982,HND,0,2,4,[],"['ESP', 'NIL', 'ESP', 'NIL']","['YUG', 'YUG']"
-186,1982,CHL,0,6,0,[],[],"['AUT', 'DEU', 'DZA', 'AUT', 'DEU', 'DZA']"
-187,1982,AUT,4,4,2,"['CHL', 'DZA', 'CHL', 'DZA']","['NIL', 'NIL']","['DEU', 'FRA', 'DEU', 'FRA']"
-188,1982,CZE,0,2,4,[],"['KWT', 'FRA', 'KWT', 'FRA']","['ENG', 'ENG']"
-189,1982,KWT,0,4,2,[],"['CZE', 'CZE']","['FRA', 'ENG', 'FRA', 'ENG']"
-190,1982,YUG,2,2,2,"['HND', 'HND']","['NIL', 'NIL']","['ESP', 'ESP']"
-191,1982,NIL,2,2,6,"['ESP', 'ESP']","['YUG', 'HND', 'AUT', 'YUG', 'HND', 'AUT']","['FRA', 'FRA']"
-192,1986,BGR,0,4,4,[],"['ITA', 'KOR', 'ITA', 'KOR']","['ARG', 'MEX', 'ARG', 'MEX']"
-193,1986,ITA,2,2,4,"['KOR', 'KOR']","['BGR', 'ARG', 'BGR', 'ARG']","['FRA', 'FRA']"
-194,1986,CAN,0,6,0,[],[],"['FRA', 'HUN', 'SUN', 'FRA', 'HUN', 'SUN']"
-195,1986,FRA,8,2,4,"['CAN', 'HUN', 'ITA', 'BEL', 'CAN', 'HUN', 'ITA', 'BEL']","['SUN', 'BRA', 'SUN', 'BRA']","['DEU', 'DEU']"
-196,1986,ESP,6,2,2,"['NIL', 'DZA', 'DNK', 'NIL', 'DZA', 'DNK']","['BEL', 'BEL']","['BRA', 'BRA']"
-197,1986,BRA,8,0,2,"['ESP', 'DZA', 'NIL', 'POL', 'ESP', 'DZA', 'NIL', 'POL']","['FRA', 'FRA']",[]
-198,1986,SUN,4,2,2,"['HUN', 'CAN', 'HUN', 'CAN']","['FRA', 'FRA']","['BEL', 'BEL']"
-199,1986,HUN,2,4,0,"['CAN', 'CAN']",[],"['SUN', 'FRA', 'SUN', 'FRA']"
-200,1986,ARG,12,0,2,"['KOR', 'BGR', 'URY', 'ENG', 'BEL', 'DEU', 'KOR', 'BGR', 'URY', 'ENG', 'BEL', 'DEU']","['ITA', 'ITA']",[]
-201,1986,KOR,0,4,2,[],"['BGR', 'BGR']","['ARG', 'ITA', 'ARG', 'ITA']"
-202,1986,MAR,2,2,4,"['PRT', 'PRT']","['POL', 'ENG', 'POL', 'ENG']","['DEU', 'DEU']"
-203,1986,POL,2,4,2,"['PRT', 'PRT']","['MAR', 'MAR']","['ENG', 'BRA', 'ENG', 'BRA']"
-204,1986,DZA,0,4,2,[],"['NIL', 'NIL']","['BRA', 'ESP', 'BRA', 'ESP']"
-205,1986,NIL,0,4,2,[],"['DZA', 'DZA']","['ESP', 'BRA', 'ESP', 'BRA']"
-206,1986,BEL,4,6,4,"['IRQ', 'SUN', 'IRQ', 'SUN']","['PRY', 'ESP', 'PRY', 'ESP']","['MEX', 'ARG', 'FRA', 'MEX', 'ARG', 'FRA']"
-207,1986,MEX,6,0,4,"['BEL', 'IRQ', 'BGR', 'BEL', 'IRQ', 'BGR']","['PRY', 'DEU', 'PRY', 'DEU']",[]
-208,1986,PRT,2,4,0,"['ENG', 'ENG']",[],"['POL', 'MAR', 'POL', 'MAR']"
-209,1986,ENG,4,4,2,"['POL', 'PRY', 'POL', 'PRY']","['MAR', 'MAR']","['PRT', 'ARG', 'PRT', 'ARG']"
-210,1986,PRY,2,2,4,"['IRQ', 'IRQ']","['MEX', 'BEL', 'MEX', 'BEL']","['ENG', 'ENG']"
-211,1986,IRQ,0,6,0,[],[],"['PRY', 'BEL', 'MEX', 'PRY', 'BEL', 'MEX']"
-212,1986,SCT,0,4,2,[],"['URY', 'URY']","['DNK', 'DEU', 'DNK', 'DEU']"
-213,1986,DNK,6,2,0,"['SCT', 'URY', 'DEU', 'SCT', 'URY', 'DEU']",[],"['ESP', 'ESP']"
-214,1986,URY,0,4,4,[],"['DEU', 'SCT', 'DEU', 'SCT']","['DNK', 'ARG', 'DNK', 'ARG']"
-215,1986,DEU,6,4,4,"['SCT', 'MAR', 'FRA', 'SCT', 'MAR', 'FRA']","['URY', 'MEX', 'URY', 'MEX']","['DNK', 'ARG', 'DNK', 'ARG']"
-216,1990,ARG,4,4,6,"['SUN', 'BRA', 'SUN', 'BRA']","['ROU', 'YUG', 'ITA', 'ROU', 'YUG', 'ITA']","['CMR', 'DEU', 'CMR', 'DEU']"
-217,1990,CMR,6,4,0,"['ARG', 'ROU', 'COL', 'ARG', 'ROU', 'COL']",[],"['SUN', 'ENG', 'SUN', 'ENG']"
-218,1990,SUN,2,4,0,"['CMR', 'CMR']",[],"['ROU', 'ARG', 'ROU', 'ARG']"
-219,1990,ROU,2,2,4,"['SUN', 'SUN']","['ARG', 'IRL', 'ARG', 'IRL']","['CMR', 'CMR']"
-220,1990,ARE,0,6,0,[],[],"['COL', 'DEU', 'YUG', 'COL', 'DEU', 'YUG']"
-221,1990,COL,2,4,2,"['ARE', 'ARE']","['DEU', 'DEU']","['YUG', 'CMR', 'YUG', 'CMR']"
-222,1990,ITA,12,0,2,"['AUT', 'USA', 'CZE', 'URY', 'IRL', 'ENG', 'AUT', 'USA', 'CZE', 'URY', 'IRL', 'ENG']","['ARG', 'ARG']",[]
-223,1990,AUT,2,4,0,"['USA', 'USA']",[],"['ITA', 'CZE', 'ITA', 'CZE']"
-224,1990,USA,0,6,0,[],[],"['CZE', 'ITA', 'AUT', 'CZE', 'ITA', 'AUT']"
-225,1990,CZE,6,4,0,"['USA', 'AUT', 'CRI', 'USA', 'AUT', 'CRI']",[],"['ITA', 'DEU', 'ITA', 'DEU']"
-226,1990,BRA,6,2,0,"['SWE', 'CRI', 'SCT', 'SWE', 'CRI', 'SCT']",[],"['ARG', 'ARG']"
-227,1990,SWE,0,6,0,[],[],"['BRA', 'SCT', 'CRI', 'BRA', 'SCT', 'CRI']"
-228,1990,DEU,10,0,4,"['YUG', 'ARE', 'NLD', 'CZE', 'ARG', 'YUG', 'ARE', 'NLD', 'CZE', 'ARG']","['COL', 'ENG', 'COL', 'ENG']",[]
-229,1990,YUG,6,2,2,"['COL', 'ARE', 'ESP', 'COL', 'ARE', 'ESP']","['ARG', 'ARG']","['DEU', 'DEU']"
-230,1990,CRI,4,4,0,"['SCT', 'SWE', 'SCT', 'SWE']",[],"['BRA', 'CZE', 'BRA', 'CZE']"
-231,1990,SCT,2,4,0,"['SWE', 'SWE']",[],"['CRI', 'BRA', 'CRI', 'BRA']"
-232,1990,ENG,6,2,6,"['EGY', 'BEL', 'CMR', 'EGY', 'BEL', 'CMR']","['IRL', 'NLD', 'DEU', 'IRL', 'NLD', 'DEU']","['ITA', 'ITA']"
-233,1990,IRL,0,2,8,[],"['ENG', 'EGY', 'NLD', 'ROU', 'ENG', 'EGY', 'NLD', 'ROU']","['ITA', 'ITA']"
-234,1990,BEL,4,4,0,"['KOR', 'URY', 'KOR', 'URY']",[],"['ESP', 'ENG', 'ESP', 'ENG']"
-235,1990,KOR,0,6,0,[],[],"['BEL', 'ESP', 'URY', 'BEL', 'ESP', 'URY']"
-236,1990,NLD,0,2,6,[],"['EGY', 'ENG', 'IRL', 'EGY', 'ENG', 'IRL']","['DEU', 'DEU']"
-237,1990,EGY,0,2,4,[],"['NLD', 'IRL', 'NLD', 'IRL']","['ENG', 'ENG']"
-238,1990,URY,2,4,2,"['KOR', 'KOR']","['ESP', 'ESP']","['BEL', 'ITA', 'BEL', 'ITA']"
-239,1990,ESP,4,2,2,"['KOR', 'BEL', 'KOR', 'BEL']","['URY', 'URY']","['YUG', 'YUG']"
-240,1994,ESP,4,2,4,"['BOL', 'CHE', 'BOL', 'CHE']","['KOR', 'DEU', 'KOR', 'DEU']","['ITA', 'ITA']"
-241,1994,KOR,0,2,4,[],"['ESP', 'BOL', 'ESP', 'BOL']","['DEU', 'DEU']"
-242,1994,DEU,6,2,2,"['BOL', 'KOR', 'BEL', 'BOL', 'KOR', 'BEL']","['ESP', 'ESP']","['BGR', 'BGR']"
-243,1994,BOL,0,4,2,[],"['KOR', 'KOR']","['DEU', 'ESP', 'DEU', 'ESP']"
-244,1994,USA,2,4,2,"['COL', 'COL']","['CHE', 'CHE']","['ROU', 'BRA', 'ROU', 'BRA']"
-245,1994,CHE,2,4,2,"['ROU', 'ROU']","['USA', 'USA']","['COL', 'ESP', 'COL', 'ESP']"
-246,1994,ITA,8,2,4,"['NOR', 'NGA', 'ESP', 'BGR', 'NOR', 'NGA', 'ESP', 'BGR']","['MEX', 'BRA', 'MEX', 'BRA']","['IRL', 'IRL']"
-247,1994,IRL,2,4,2,"['ITA', 'ITA']","['NOR', 'NOR']","['MEX', 'NLD', 'MEX', 'NLD']"
-248,1994,COL,2,4,0,"['CHE', 'CHE']",[],"['ROU', 'USA', 'ROU', 'USA']"
-249,1994,ROU,6,2,2,"['COL', 'USA', 'ARG', 'COL', 'USA', 'ARG']","['SWE', 'SWE']","['CHE', 'CHE']"
-250,1994,BEL,4,4,0,"['MAR', 'NLD', 'MAR', 'NLD']",[],"['SAU', 'DEU', 'SAU', 'DEU']"
-251,1994,MAR,0,6,0,[],[],"['BEL', 'SAU', 'NLD', 'BEL', 'SAU', 'NLD']"
-252,1994,NOR,2,2,2,"['MEX', 'MEX']","['IRL', 'IRL']","['ITA', 'ITA']"
-253,1994,MEX,2,2,4,"['IRL', 'IRL']","['ITA', 'BGR', 'ITA', 'BGR']","['NOR', 'NOR']"
-254,1994,CMR,0,4,2,[],"['SWE', 'SWE']","['BRA', 'RUS', 'BRA', 'RUS']"
-255,1994,SWE,6,2,6,"['RUS', 'SAU', 'BGR', 'RUS', 'SAU', 'BGR']","['CMR', 'BRA', 'ROU', 'CMR', 'BRA', 'ROU']","['BRA', 'BRA']"
-256,1994,NLD,6,4,0,"['SAU', 'MAR', 'IRL', 'SAU', 'MAR', 'IRL']",[],"['BEL', 'BRA', 'BEL', 'BRA']"
-257,1994,SAU,4,4,0,"['MAR', 'BEL', 'MAR', 'BEL']",[],"['NLD', 'SWE', 'NLD', 'SWE']"
-258,1994,BRA,10,0,4,"['RUS', 'CMR', 'USA', 'NLD', 'SWE', 'RUS', 'CMR', 'USA', 'NLD', 'SWE']","['SWE', 'ITA', 'SWE', 'ITA']",[]
-259,1994,RUS,2,4,0,"['CMR', 'CMR']",[],"['BRA', 'SWE', 'BRA', 'SWE']"
-260,1994,ARG,4,4,0,"['GRC', 'NGA', 'GRC', 'NGA']",[],"['BGR', 'ROU', 'BGR', 'ROU']"
-261,1994,GRC,0,6,0,[],[],"['ARG', 'BGR', 'NGA', 'ARG', 'BGR', 'NGA']"
-262,1994,NGA,4,4,0,"['BGR', 'GRC', 'BGR', 'GRC']",[],"['ARG', 'ITA', 'ARG', 'ITA']"
-263,1994,BGR,6,6,2,"['GRC', 'ARG', 'DEU', 'GRC', 'ARG', 'DEU']","['MEX', 'MEX']","['NGA', 'ITA', 'SWE', 'NGA', 'ITA', 'SWE']"
-264,1998,BRA,8,4,2,"['SCT', 'MAR', 'CHL', 'DNK', 'SCT', 'MAR', 'CHL', 'DNK']","['NLD', 'NLD']","['NOR', 'FRA', 'NOR', 'FRA']"
-265,1998,SCT,0,4,2,[],"['NOR', 'NOR']","['BRA', 'MAR', 'BRA', 'MAR']"
-266,1998,MAR,2,2,2,"['SCT', 'SCT']","['NOR', 'NOR']","['BRA', 'BRA']"
-267,1998,NOR,2,2,4,"['BRA', 'BRA']","['MAR', 'SCT', 'MAR', 'SCT']","['ITA', 'ITA']"
-268,1998,ITA,6,0,4,"['CMR', 'AUT', 'NOR', 'CMR', 'AUT', 'NOR']","['CHL', 'FRA', 'CHL', 'FRA']",[]
-269,1998,CHL,0,2,6,[],"['ITA', 'AUT', 'CMR', 'ITA', 'AUT', 'CMR']","['BRA', 'BRA']"
-270,1998,CMR,0,2,4,[],"['AUT', 'CHL', 'AUT', 'CHL']","['ITA', 'ITA']"
-271,1998,AUT,0,2,4,[],"['CMR', 'CHL', 'CMR', 'CHL']","['ITA', 'ITA']"
-272,1998,PRY,2,2,4,"['NGA', 'NGA']","['BGR', 'ESP', 'BGR', 'ESP']","['FRA', 'FRA']"
-273,1998,BGR,0,4,2,[],"['PRY', 'PRY']","['NGA', 'ESP', 'NGA', 'ESP']"
-274,1998,SAU,0,4,2,[],"['ZAF', 'ZAF']","['DNK', 'FRA', 'DNK', 'FRA']"
-275,1998,DNK,4,4,2,"['SAU', 'NGA', 'SAU', 'NGA']","['ZAF', 'ZAF']","['FRA', 'BRA', 'FRA', 'BRA']"
-276,1998,FRA,12,0,2,"['ZAF', 'SAU', 'DNK', 'PRY', 'HRV', 'BRA', 'ZAF', 'SAU', 'DNK', 'PRY', 'HRV', 'BRA']","['ITA', 'ITA']",[]
-277,1998,ZAF,0,2,4,[],"['DNK', 'SAU', 'DNK', 'SAU']","['FRA', 'FRA']"
-278,1998,ESP,2,2,2,"['BGR', 'BGR']","['PRY', 'PRY']","['NGA', 'NGA']"
-279,1998,NGA,4,4,0,"['ESP', 'BGR', 'ESP', 'BGR']",[],"['PRY', 'DNK', 'PRY', 'DNK']"
-280,1998,KOR,0,4,2,[],"['BEL', 'BEL']","['MEX', 'NLD', 'MEX', 'NLD']"
-281,1998,MEX,2,2,4,"['KOR', 'KOR']","['BEL', 'NLD', 'BEL', 'NLD']","['DEU', 'DEU']"
-282,1998,NLD,6,2,6,"['KOR', 'YUG', 'ARG', 'KOR', 'YUG', 'ARG']","['BEL', 'MEX', 'BRA', 'BEL', 'MEX', 'BRA']","['HRV', 'HRV']"
-283,1998,BEL,0,0,6,[],"['NLD', 'MEX', 'KOR', 'NLD', 'MEX', 'KOR']",[]
-284,1998,ARG,6,2,2,"['JPN', 'JAM', 'HRV', 'JPN', 'JAM', 'HRV']","['ENG', 'ENG']","['NLD', 'NLD']"
-285,1998,JPN,0,6,0,[],[],"['ARG', 'HRV', 'JAM', 'ARG', 'HRV', 'JAM']"
-286,1998,YUG,4,2,2,"['IRN', 'USA', 'IRN', 'USA']","['DEU', 'DEU']","['NLD', 'NLD']"
-287,1998,IRN,2,4,0,"['USA', 'USA']",[],"['YUG', 'DEU', 'YUG', 'DEU']"
-288,1998,JAM,2,4,0,"['JPN', 'JPN']",[],"['HRV', 'ARG', 'HRV', 'ARG']"
-289,1998,HRV,10,4,0,"['JAM', 'JPN', 'ROU', 'DEU', 'NLD', 'JAM', 'JPN', 'ROU', 'DEU', 'NLD']",[],"['ARG', 'FRA', 'ARG', 'FRA']"
-290,1998,ENG,4,2,2,"['TUN', 'COL', 'TUN', 'COL']","['ARG', 'ARG']","['ROU', 'ROU']"
-291,1998,TUN,0,4,2,[],"['ROU', 'ROU']","['ENG', 'COL', 'ENG', 'COL']"
-292,1998,ROU,4,2,2,"['COL', 'ENG', 'COL', 'ENG']","['TUN', 'TUN']","['HRV', 'HRV']"
-293,1998,COL,2,4,0,"['TUN', 'TUN']",[],"['ROU', 'ENG', 'ROU', 'ENG']"
-294,1998,DEU,6,2,2,"['USA', 'IRN', 'MEX', 'USA', 'IRN', 'MEX']","['YUG', 'YUG']","['HRV', 'HRV']"
-295,1998,USA,0,6,0,[],[],"['DEU', 'IRN', 'YUG', 'DEU', 'IRN', 'YUG']"
-296,2002,FRA,0,4,2,[],"['URY', 'URY']","['SEN', 'DNK', 'SEN', 'DNK']"
-297,2002,SEN,4,2,4,"['FRA', 'SWE', 'FRA', 'SWE']","['DNK', 'URY', 'DNK', 'URY']","['TUR', 'TUR']"
-298,2002,URY,0,2,4,[],"['FRA', 'SEN', 'FRA', 'SEN']","['DNK', 'DNK']"
-299,2002,DNK,4,2,2,"['URY', 'FRA', 'URY', 'FRA']","['SEN', 'SEN']","['ENG', 'ENG']"
-300,2002,IRL,2,0,6,"['SAU', 'SAU']","['CMR', 'DEU', 'ESP', 'CMR', 'DEU', 'ESP']",[]
-301,2002,CMR,2,2,2,"['SAU', 'SAU']","['IRL', 'IRL']","['DEU', 'DEU']"
-302,2002,DEU,10,2,2,"['SAU', 'CMR', 'PRY', 'USA', 'KOR', 'SAU', 'CMR', 'PRY', 'USA', 'KOR']","['IRL', 'IRL']","['BRA', 'BRA']"
-303,2002,SAU,0,6,0,[],[],"['DEU', 'CMR', 'IRL', 'DEU', 'CMR', 'IRL']"
-304,2002,ARG,2,2,2,"['NGA', 'NGA']","['SWE', 'SWE']","['ENG', 'ENG']"
-305,2002,NGA,0,4,2,[],"['ENG', 'ENG']","['ARG', 'SWE', 'ARG', 'SWE']"
-306,2002,PRY,2,4,2,"['SVN', 'SVN']","['ZAF', 'ZAF']","['ESP', 'DEU', 'ESP', 'DEU']"
-307,2002,ZAF,2,2,2,"['SVN', 'SVN']","['PRY', 'PRY']","['ESP', 'ESP']"
-308,2002,ENG,4,2,4,"['ARG', 'DNK', 'ARG', 'DNK']","['SWE', 'NGA', 'SWE', 'NGA']","['BRA', 'BRA']"
-309,2002,SWE,2,2,4,"['NGA', 'NGA']","['ENG', 'ARG', 'ENG', 'ARG']","['SEN', 'SEN']"
-310,2002,ESP,6,0,4,"['SVN', 'PRY', 'ZAF', 'SVN', 'PRY', 'ZAF']","['IRL', 'KOR', 'IRL', 'KOR']",[]
-311,2002,SVN,0,6,0,[],[],"['ESP', 'ZAF', 'PRY', 'ESP', 'ZAF', 'PRY']"
-312,2002,BRA,14,0,0,"['TUR', 'CHN', 'CRI', 'BEL', 'ENG', 'TUR', 'DEU', 'TUR', 'CHN', 'CRI', 'BEL', 'ENG', 'TUR', 'DEU']",[],[]
-313,2002,TUR,8,4,2,"['CHN', 'JPN', 'SEN', 'KOR', 'CHN', 'JPN', 'SEN', 'KOR']","['CRI', 'CRI']","['BRA', 'BRA', 'BRA', 'BRA']"
-314,2002,ITA,2,4,2,"['ECU', 'ECU']","['MEX', 'MEX']","['HRV', 'KOR', 'HRV', 'KOR']"
-315,2002,ECU,2,4,0,"['HRV', 'HRV']",[],"['ITA', 'MEX', 'ITA', 'MEX']"
-316,2002,HRV,2,4,0,"['ITA', 'ITA']",[],"['MEX', 'ECU', 'MEX', 'ECU']"
-317,2002,MEX,4,2,2,"['HRV', 'ECU', 'HRV', 'ECU']","['ITA', 'ITA']","['USA', 'USA']"
-318,2002,CHN,0,6,0,[],[],"['CRI', 'BRA', 'TUR', 'CRI', 'BRA', 'TUR']"
-319,2002,CRI,2,2,2,"['CHN', 'CHN']","['TUR', 'TUR']","['BRA', 'BRA']"
-320,2002,JPN,4,2,2,"['RUS', 'TUN', 'RUS', 'TUN']","['BEL', 'BEL']","['TUR', 'TUR']"
-321,2002,BEL,2,2,4,"['RUS', 'RUS']","['JPN', 'TUN', 'JPN', 'TUN']","['BRA', 'BRA']"
-322,2002,KOR,6,4,4,"['POL', 'PRT', 'ITA', 'POL', 'PRT', 'ITA']","['USA', 'ESP', 'USA', 'ESP']","['DEU', 'TUR', 'DEU', 'TUR']"
-323,2002,POL,2,4,0,"['USA', 'USA']",[],"['KOR', 'PRT', 'KOR', 'PRT']"
-324,2002,RUS,2,4,0,"['TUN', 'TUN']",[],"['JPN', 'BEL', 'JPN', 'BEL']"
-325,2002,TUN,0,4,2,[],"['BEL', 'BEL']","['RUS', 'JPN', 'RUS', 'JPN']"
-326,2002,USA,4,4,2,"['PRT', 'MEX', 'PRT', 'MEX']","['KOR', 'KOR']","['POL', 'DEU', 'POL', 'DEU']"
-327,2002,PRT,2,4,0,"['POL', 'POL']",[],"['USA', 'KOR', 'USA', 'KOR']"
-328,2006,DEU,10,2,2,"['CRI', 'POL', 'ECU', 'SWE', 'PRT', 'CRI', 'POL', 'ECU', 'SWE', 'PRT']","['ARG', 'ARG']","['ITA', 'ITA']"
-329,2006,CRI,0,6,0,[],[],"['DEU', 'ECU', 'POL', 'DEU', 'ECU', 'POL']"
-330,2006,POL,2,4,0,"['CRI', 'CRI']",[],"['ECU', 'DEU', 'ECU', 'DEU']"
-331,2006,ECU,4,4,0,"['POL', 'CRI', 'POL', 'CRI']",[],"['DEU', 'ENG', 'DEU', 'ENG']"
-332,2006,ENG,6,0,4,"['PRY', 'TTO', 'ECU', 'PRY', 'TTO', 'ECU']","['SWE', 'PRT', 'SWE', 'PRT']",[]
-333,2006,PRY,2,4,0,"['TTO', 'TTO']",[],"['ENG', 'SWE', 'ENG', 'SWE']"
-334,2006,TTO,0,4,2,[],"['SWE', 'SWE']","['ENG', 'PRY', 'ENG', 'PRY']"
-335,2006,SWE,2,2,4,"['PRY', 'PRY']","['TTO', 'ENG', 'TTO', 'ENG']","['DEU', 'DEU']"
-336,2006,ARG,6,0,4,"['CIV', 'SCG', 'MEX', 'CIV', 'SCG', 'MEX']","['NLD', 'DEU', 'NLD', 'DEU']",[]
-337,2006,CIV,2,4,0,"['SCG', 'SCG']",[],"['ARG', 'NLD', 'ARG', 'NLD']"
-338,2006,SCG,0,6,0,[],[],"['NLD', 'ARG', 'CIV', 'NLD', 'ARG', 'CIV']"
-339,2006,NLD,4,2,2,"['SCG', 'CIV', 'SCG', 'CIV']","['ARG', 'ARG']","['PRT', 'PRT']"
-340,2006,MEX,2,4,2,"['IRN', 'IRN']","['AGO', 'AGO']","['PRT', 'ARG', 'PRT', 'ARG']"
-341,2006,IRN,0,4,2,[],"['AGO', 'AGO']","['MEX', 'PRT', 'MEX', 'PRT']"
-342,2006,AGO,0,2,4,[],"['MEX', 'IRN', 'MEX', 'IRN']","['PRT', 'PRT']"
-343,2006,PRT,8,4,2,"['AGO', 'IRN', 'MEX', 'NLD', 'AGO', 'IRN', 'MEX', 'NLD']","['ENG', 'ENG']","['FRA', 'DEU', 'FRA', 'DEU']"
-344,2006,AUS,2,4,2,"['JPN', 'JPN']","['HRV', 'HRV']","['BRA', 'ITA', 'BRA', 'ITA']"
-345,2006,JPN,0,4,2,[],"['HRV', 'HRV']","['AUS', 'BRA', 'AUS', 'BRA']"
-346,2006,USA,0,4,2,[],"['ITA', 'ITA']","['CZE', 'GHA', 'CZE', 'GHA']"
-347,2006,CZE,2,4,0,"['USA', 'USA']",[],"['GHA', 'ITA', 'GHA', 'ITA']"
-348,2006,ITA,10,0,4,"['GHA', 'CZE', 'AUS', 'UKR', 'DEU', 'GHA', 'CZE', 'AUS', 'UKR', 'DEU']","['USA', 'FRA', 'USA', 'FRA']",[]
-349,2006,GHA,4,4,0,"['CZE', 'USA', 'CZE', 'USA']",[],"['ITA', 'BRA', 'ITA', 'BRA']"
-350,2006,KOR,2,2,2,"['TGO', 'TGO']","['FRA', 'FRA']","['CHE', 'CHE']"
-351,2006,TGO,0,6,0,[],[],"['KOR', 'CHE', 'FRA', 'KOR', 'CHE', 'FRA']"
-352,2006,FRA,8,0,6,"['TGO', 'ESP', 'BRA', 'PRT', 'TGO', 'ESP', 'BRA', 'PRT']","['CHE', 'KOR', 'ITA', 'CHE', 'KOR', 'ITA']",[]
-353,2006,CHE,4,0,4,"['TGO', 'KOR', 'TGO', 'KOR']","['FRA', 'UKR', 'FRA', 'UKR']",[]
-354,2006,BRA,8,2,0,"['HRV', 'AUS', 'JPN', 'GHA', 'HRV', 'AUS', 'JPN', 'GHA']",[],"['FRA', 'FRA']"
-355,2006,HRV,0,2,4,[],"['JPN', 'AUS', 'JPN', 'AUS']","['BRA', 'BRA']"
-356,2006,ESP,6,2,0,"['UKR', 'TUN', 'SAU', 'UKR', 'TUN', 'SAU']",[],"['FRA', 'FRA']"
-357,2006,UKR,4,4,2,"['SAU', 'TUN', 'SAU', 'TUN']","['CHE', 'CHE']","['ESP', 'ITA', 'ESP', 'ITA']"
-358,2006,TUN,0,4,2,[],"['SAU', 'SAU']","['ESP', 'UKR', 'ESP', 'UKR']"
-359,2006,SAU,0,4,2,[],"['TUN', 'TUN']","['UKR', 'ESP', 'UKR', 'ESP']"
-360,2010,ZAF,2,2,2,"['FRA', 'FRA']","['MEX', 'MEX']","['URY', 'URY']"
-361,2010,MEX,2,4,2,"['FRA', 'FRA']","['ZAF', 'ZAF']","['URY', 'ARG', 'URY', 'ARG']"
-362,2010,URY,6,4,4,"['ZAF', 'MEX', 'KOR', 'ZAF', 'MEX', 'KOR']","['FRA', 'GHA', 'FRA', 'GHA']","['NLD', 'DEU', 'NLD', 'DEU']"
-363,2010,FRA,0,4,2,[],"['URY', 'URY']","['MEX', 'ZAF', 'MEX', 'ZAF']"
-364,2010,KOR,2,4,2,"['GRC', 'GRC']","['NGA', 'NGA']","['ARG', 'URY', 'ARG', 'URY']"
-365,2010,GRC,2,4,0,"['NGA', 'NGA']",[],"['KOR', 'ARG', 'KOR', 'ARG']"
-366,2010,ARG,8,2,0,"['NGA', 'KOR', 'GRC', 'MEX', 'NGA', 'KOR', 'GRC', 'MEX']",[],"['DEU', 'DEU']"
-367,2010,NGA,0,4,2,[],"['KOR', 'KOR']","['ARG', 'GRC', 'ARG', 'GRC']"
-368,2010,ENG,2,2,4,"['SVN', 'SVN']","['USA', 'DZA', 'USA', 'DZA']","['DEU', 'DEU']"
-369,2010,USA,2,2,4,"['DZA', 'DZA']","['ENG', 'SVN', 'ENG', 'SVN']","['GHA', 'GHA']"
-370,2010,DZA,0,4,2,[],"['ENG', 'ENG']","['SVN', 'USA', 'SVN', 'USA']"
-371,2010,SVN,2,2,2,"['DZA', 'DZA']","['USA', 'USA']","['ENG', 'ENG']"
-372,2010,SRB,2,4,0,"['DEU', 'DEU']",[],"['GHA', 'AUS', 'GHA', 'AUS']"
-373,2010,GHA,4,2,4,"['SRB', 'USA', 'SRB', 'USA']","['AUS', 'URY', 'AUS', 'URY']","['DEU', 'DEU']"
-374,2010,DEU,10,4,0,"['AUS', 'GHA', 'ENG', 'ARG', 'URY', 'AUS', 'GHA', 'ENG', 'ARG', 'URY']",[],"['SRB', 'ESP', 'SRB', 'ESP']"
-375,2010,AUS,2,2,2,"['SRB', 'SRB']","['GHA', 'GHA']","['DEU', 'DEU']"
-376,2010,NLD,12,2,0,"['DNK', 'JPN', 'CMR', 'SVK', 'BRA', 'URY', 'DNK', 'JPN', 'CMR', 'SVK', 'BRA', 'URY']",[],"['ESP', 'ESP']"
-377,2010,DNK,2,4,0,"['CMR', 'CMR']",[],"['NLD', 'JPN', 'NLD', 'JPN']"
-378,2010,JPN,4,2,2,"['CMR', 'DNK', 'CMR', 'DNK']","['PRY', 'PRY']","['NLD', 'NLD']"
-379,2010,CMR,0,6,0,[],[],"['JPN', 'DNK', 'NLD', 'JPN', 'DNK', 'NLD']"
-380,2010,ITA,0,2,4,[],"['PRY', 'NZL', 'PRY', 'NZL']","['SVK', 'SVK']"
-381,2010,PRY,2,2,6,"['SVK', 'SVK']","['ITA', 'NZL', 'JPN', 'ITA', 'NZL', 'JPN']","['ESP', 'ESP']"
-382,2010,NZL,0,0,6,[],"['SVK', 'ITA', 'PRY', 'SVK', 'ITA', 'PRY']",[]
-383,2010,SVK,2,4,2,"['ITA', 'ITA']","['NZL', 'NZL']","['PRY', 'NLD', 'PRY', 'NLD']"
-384,2010,CIV,2,2,2,"['PRK', 'PRK']","['PRT', 'PRT']","['BRA', 'BRA']"
-385,2010,PRT,2,2,4,"['PRK', 'PRK']","['CIV', 'BRA', 'CIV', 'BRA']","['ESP', 'ESP']"
-386,2010,BRA,6,2,2,"['PRK', 'CIV', 'CHL', 'PRK', 'CIV', 'CHL']","['PRT', 'PRT']","['NLD', 'NLD']"
-387,2010,PRK,0,6,0,[],[],"['BRA', 'PRT', 'CIV', 'BRA', 'PRT', 'CIV']"
-388,2010,HND,0,4,2,[],"['CHE', 'CHE']","['CHL', 'ESP', 'CHL', 'ESP']"
-389,2010,CHL,4,4,0,"['HND', 'CHE', 'HND', 'CHE']",[],"['ESP', 'BRA', 'ESP', 'BRA']"
-390,2010,ESP,12,2,0,"['HND', 'CHL', 'PRT', 'PRY', 'DEU', 'NLD', 'HND', 'CHL', 'PRT', 'PRY', 'DEU', 'NLD']",[],"['CHE', 'CHE']"
-391,2010,CHE,2,2,2,"['ESP', 'ESP']","['HND', 'HND']","['CHL', 'CHL']"
-392,2014,BRA,8,8,6,"['HRV', 'CMR', 'COL', 'COL', 'HRV', 'CMR', 'COL', 'COL']","['MEX', 'CHL', 'CHL', 'MEX', 'CHL', 'CHL']","['DEU', 'NLD', 'DEU', 'NLD', 'DEU', 'NLD', 'DEU', 'NLD']"
-393,2014,HRV,2,4,0,"['CMR', 'CMR']",[],"['BRA', 'MEX', 'BRA', 'MEX']"
-394,2014,MEX,4,4,2,"['CMR', 'HRV', 'CMR', 'HRV']","['BRA', 'BRA']","['NLD', 'NLD', 'NLD', 'NLD']"
-395,2014,CMR,0,6,0,[],[],"['MEX', 'HRV', 'BRA', 'MEX', 'HRV', 'BRA']"
-396,2014,ESP,2,4,0,"['AUS', 'AUS']",[],"['NLD', 'CHL', 'NLD', 'CHL']"
-397,2014,NLD,14,0,8,"['ESP', 'AUS', 'CHL', 'BRA', 'MEX', 'MEX', 'BRA', 'ESP', 'AUS', 'CHL', 'BRA', 'MEX', 'MEX', 'BRA']","['ARG', 'CRI', 'CRI', 'ARG', 'ARG', 'CRI', 'CRI', 'ARG']",[]
-398,2014,CHL,4,2,4,"['AUS', 'ESP', 'AUS', 'ESP']","['BRA', 'BRA', 'BRA', 'BRA']","['NLD', 'NLD']"
-399,2014,AUS,0,6,0,[],[],"['CHL', 'NLD', 'ESP', 'CHL', 'NLD', 'ESP']"
-400,2014,COL,10,4,0,"['GRC', 'CIV', 'JPN', 'URY', 'URY', 'GRC', 'CIV', 'JPN', 'URY', 'URY']",[],"['BRA', 'BRA', 'BRA', 'BRA']"
-401,2014,GRC,2,2,6,"['CIV', 'CIV']","['JPN', 'CRI', 'CRI', 'JPN', 'CRI', 'CRI']","['COL', 'COL']"
-402,2014,URY,4,6,0,"['ENG', 'ITA', 'ENG', 'ITA']",[],"['CRI', 'COL', 'COL', 'CRI', 'COL', 'COL']"
-403,2014,CRI,4,0,10,"['URY', 'ITA', 'URY', 'ITA']","['ENG', 'NLD', 'GRC', 'GRC', 'NLD', 'ENG', 'NLD', 'GRC', 'GRC', 'NLD']",[]
-404,2014,ENG,0,4,2,[],"['CRI', 'CRI']","['ITA', 'URY', 'ITA', 'URY']"
-405,2014,ITA,2,4,0,"['ENG', 'ENG']",[],"['CRI', 'URY', 'CRI', 'URY']"
-406,2014,CIV,2,4,0,"['JPN', 'JPN']",[],"['COL', 'GRC', 'COL', 'GRC']"
-407,2014,JPN,0,4,2,[],"['GRC', 'GRC']","['CIV', 'COL', 'CIV', 'COL']"
-408,2014,CHE,4,6,0,"['ECU', 'HND', 'ECU', 'HND']",[],"['FRA', 'ARG', 'ARG', 'FRA', 'ARG', 'ARG']"
-409,2014,ECU,2,2,2,"['HND', 'HND']","['FRA', 'FRA']","['CHE', 'CHE']"
-410,2014,FRA,8,4,2,"['HND', 'CHE', 'NGA', 'NGA', 'HND', 'CHE', 'NGA', 'NGA']","['ECU', 'ECU']","['DEU', 'DEU', 'DEU', 'DEU']"
-411,2014,HND,0,6,0,[],[],"['FRA', 'ECU', 'CHE', 'FRA', 'ECU', 'CHE']"
-412,2014,ARG,14,4,4,"['BIH', 'IRN', 'NGA', 'BEL', 'CHE', 'CHE', 'BEL', 'BIH', 'IRN', 'NGA', 'BEL', 'CHE', 'CHE', 'BEL']","['NLD', 'NLD', 'NLD', 'NLD']","['DEU', 'DEU', 'DEU', 'DEU']"
-413,2014,BIH,2,4,0,"['IRN', 'IRN']",[],"['ARG', 'NGA', 'ARG', 'NGA']"
-414,2014,DEU,20,0,2,"['PRT', 'USA', 'DZA', 'FRA', 'BRA', 'ARG', 'DZA', 'FRA', 'BRA', 'ARG', 'PRT', 'USA', 'DZA', 'FRA', 'BRA', 'ARG', 'DZA', 'FRA', 'BRA', 'ARG']","['GHA', 'GHA']",[]
-415,2014,PRT,2,2,2,"['GHA', 'GHA']","['USA', 'USA']","['DEU', 'DEU']"
-416,2014,IRN,0,4,2,[],"['NGA', 'NGA']","['ARG', 'BIH', 'ARG', 'BIH']"
-417,2014,NGA,2,6,2,"['BIH', 'BIH']","['IRN', 'IRN']","['ARG', 'FRA', 'FRA', 'ARG', 'FRA', 'FRA']"
-418,2014,GHA,0,4,2,[],"['DEU', 'DEU']","['USA', 'PRT', 'USA', 'PRT']"
-419,2014,USA,2,6,2,"['GHA', 'GHA']","['PRT', 'PRT']","['DEU', 'BEL', 'BEL', 'DEU', 'BEL', 'BEL']"
-420,2014,BEL,10,4,0,"['DZA', 'RUS', 'KOR', 'USA', 'USA', 'DZA', 'RUS', 'KOR', 'USA', 'USA']",[],"['ARG', 'ARG', 'ARG', 'ARG']"
-421,2014,DZA,2,6,2,"['KOR', 'KOR']","['RUS', 'RUS']","['BEL', 'DEU', 'DEU', 'BEL', 'DEU', 'DEU']"
-422,2014,RUS,0,2,4,[],"['KOR', 'DZA', 'KOR', 'DZA']","['BEL', 'BEL']"
-423,2014,KOR,0,4,2,[],"['RUS', 'RUS']","['DZA', 'BEL', 'DZA', 'BEL']"
-424,2018,RUS,4,2,4,"['SAU', 'EGY', 'SAU', 'EGY']","['ESP', 'HRV', 'ESP', 'HRV']","['URY', 'URY']"
-425,2018,SAU,2,4,0,"['EGY', 'EGY']",[],"['RUS', 'URY', 'RUS', 'URY']"
-426,2018,EGY,0,6,0,[],[],"['URY', 'RUS', 'SAU', 'URY', 'RUS', 'SAU']"
-427,2018,URY,8,2,0,"['EGY', 'SAU', 'RUS', 'PRT', 'EGY', 'SAU', 'RUS', 'PRT']",[],"['FRA', 'FRA']"
-428,2018,MAR,0,4,2,[],"['ESP', 'ESP']","['IRN', 'PRT', 'IRN', 'PRT']"
-429,2018,IRN,2,2,2,"['MAR', 'MAR']","['PRT', 'PRT']","['ESP', 'ESP']"
-430,2018,PRT,2,2,4,"['MAR', 'MAR']","['ESP', 'IRN', 'ESP', 'IRN']","['URY', 'URY']"
-431,2018,ESP,2,0,6,"['IRN', 'IRN']","['PRT', 'MAR', 'RUS', 'PRT', 'MAR', 'RUS']",[]
-432,2018,FRA,10,2,2,"['AUS', 'PER', 'ARG', 'URY', 'BEL', 'AUS', 'PER', 'ARG', 'URY', 'BEL']","['DNK', 'DNK']","['HRV', 'HRV']"
-433,2018,AUS,0,4,2,[],"['DNK', 'DNK']","['FRA', 'PER', 'FRA', 'PER']"
-434,2018,ARG,2,4,2,"['NGA', 'NGA']","['ISL', 'ISL']","['HRV', 'FRA', 'HRV', 'FRA']"
-435,2018,ISL,0,4,2,[],"['ARG', 'ARG']","['NGA', 'HRV', 'NGA', 'HRV']"
-436,2018,PER,2,4,0,"['AUS', 'AUS']",[],"['DNK', 'FRA', 'DNK', 'FRA']"
-437,2018,DNK,2,0,6,"['PER', 'PER']","['AUS', 'FRA', 'HRV', 'AUS', 'FRA', 'HRV']",[]
-438,2018,HRV,10,0,4,"['NGA', 'ARG', 'ISL', 'ENG', 'FRA', 'NGA', 'ARG', 'ISL', 'ENG', 'FRA']","['DNK', 'RUS', 'DNK', 'RUS']",[]
-439,2018,NGA,2,4,0,"['ISL', 'ISL']",[],"['HRV', 'ARG', 'HRV', 'ARG']"
-440,2018,CRI,0,4,2,[],"['CHE', 'CHE']","['SRB', 'BRA', 'SRB', 'BRA']"
-441,2018,SRB,2,4,0,"['CRI', 'CRI']",[],"['CHE', 'BRA', 'CHE', 'BRA']"
-442,2018,DEU,2,4,0,"['SWE', 'SWE']",[],"['MEX', 'KOR', 'MEX', 'KOR']"
-443,2018,MEX,4,4,0,"['DEU', 'KOR', 'DEU', 'KOR']",[],"['SWE', 'BRA', 'SWE', 'BRA']"
-444,2018,BRA,6,2,2,"['CRI', 'SRB', 'MEX', 'CRI', 'SRB', 'MEX']","['CHE', 'CHE']","['BEL', 'BEL']"
-445,2018,CHE,2,2,4,"['SRB', 'SRB']","['BRA', 'CRI', 'BRA', 'CRI']","['SWE', 'SWE']"
-446,2018,SWE,6,4,0,"['KOR', 'MEX', 'CHE', 'KOR', 'MEX', 'CHE']",[],"['DEU', 'ENG', 'DEU', 'ENG']"
-447,2018,KOR,2,4,0,"['DEU', 'DEU']",[],"['SWE', 'MEX', 'SWE', 'MEX']"
-448,2018,BEL,12,2,0,"['PAN', 'TUN', 'ENG', 'JPN', 'BRA', 'ENG', 'PAN', 'TUN', 'ENG', 'JPN', 'BRA', 'ENG']",[],"['FRA', 'FRA']"
-449,2018,PAN,0,6,0,[],[],"['BEL', 'ENG', 'TUN', 'BEL', 'ENG', 'TUN']"
-450,2018,TUN,2,4,0,"['PAN', 'PAN']",[],"['ENG', 'BEL', 'ENG', 'BEL']"
-451,2018,ENG,6,6,2,"['TUN', 'PAN', 'SWE', 'TUN', 'PAN', 'SWE']","['COL', 'COL']","['BEL', 'HRV', 'BEL', 'BEL', 'HRV', 'BEL']"
-452,2018,COL,4,2,2,"['POL', 'SEN', 'POL', 'SEN']","['ENG', 'ENG']","['JPN', 'JPN']"
-453,2018,JPN,2,4,2,"['COL', 'COL']","['SEN', 'SEN']","['POL', 'BEL', 'POL', 'BEL']"
-454,2018,POL,2,4,0,"['JPN', 'JPN']",[],"['SEN', 'COL', 'SEN', 'COL']"
-455,2018,SEN,2,2,2,"['POL', 'POL']","['JPN', 'JPN']","['COL', 'COL']"
-456,2022,QAT,0,6,0,[],[],"['ECU', 'SEN', 'NLD', 'ECU', 'SEN', 'NLD']"
-457,2022,ECU,2,2,2,"['QAT', 'QAT']","['NLD', 'NLD']","['SEN', 'SEN']"
-458,2022,ENG,6,2,2,"['IRN', 'WLS', 'SEN', 'IRN', 'WLS', 'SEN']","['USA', 'USA']","['FRA', 'FRA']"
-459,2022,IRN,2,4,0,"['WLS', 'WLS']",[],"['ENG', 'USA', 'ENG', 'USA']"
-460,2022,SEN,4,4,0,"['QAT', 'ECU', 'QAT', 'ECU']",[],"['NLD', 'ENG', 'NLD', 'ENG']"
-461,2022,NLD,6,0,4,"['SEN', 'QAT', 'USA', 'SEN', 'QAT', 'USA']","['ECU', 'ARG', 'ECU', 'ARG']",[]
-462,2022,USA,2,2,4,"['IRN', 'IRN']","['WLS', 'ENG', 'WLS', 'ENG']","['NLD', 'NLD']"
-463,2022,WLS,0,4,2,[],"['USA', 'USA']","['IRN', 'ENG', 'IRN', 'ENG']"
-464,2022,ARG,8,2,4,"['MEX', 'POL', 'AUS', 'HRV', 'MEX', 'POL', 'AUS', 'HRV']","['NLD', 'FRA', 'NLD', 'FRA']","['SAU', 'SAU']"
-465,2022,SAU,2,4,0,"['ARG', 'ARG']",[],"['POL', 'MEX', 'POL', 'MEX']"
-466,2022,DNK,0,4,2,[],"['TUN', 'TUN']","['FRA', 'AUS', 'FRA', 'AUS']"
-467,2022,TUN,2,2,2,"['FRA', 'FRA']","['DNK', 'DNK']","['AUS', 'AUS']"
-468,2022,MEX,2,2,2,"['SAU', 'SAU']","['POL', 'POL']","['ARG', 'ARG']"
-469,2022,POL,2,4,2,"['SAU', 'SAU']","['MEX', 'MEX']","['ARG', 'FRA', 'ARG', 'FRA']"
-470,2022,FRA,10,2,2,"['AUS', 'DNK', 'POL', 'ENG', 'MAR', 'AUS', 'DNK', 'POL', 'ENG', 'MAR']","['ARG', 'ARG']","['TUN', 'TUN']"
-471,2022,AUS,4,4,0,"['TUN', 'DNK', 'TUN', 'DNK']",[],"['FRA', 'ARG', 'FRA', 'ARG']"
-472,2022,MAR,6,4,4,"['BEL', 'CAN', 'PRT', 'BEL', 'CAN', 'PRT']","['HRV', 'ESP', 'HRV', 'ESP']","['FRA', 'HRV', 'FRA', 'HRV']"
-473,2022,HRV,4,2,8,"['CAN', 'MAR', 'CAN', 'MAR']","['MAR', 'BEL', 'JPN', 'BRA', 'MAR', 'BEL', 'JPN', 'BRA']","['ARG', 'ARG']"
-474,2022,DEU,2,2,2,"['CRI', 'CRI']","['ESP', 'ESP']","['JPN', 'JPN']"
-475,2022,JPN,4,2,2,"['DEU', 'ESP', 'DEU', 'ESP']","['HRV', 'HRV']","['CRI', 'CRI']"
-476,2022,ESP,2,2,4,"['CRI', 'CRI']","['DEU', 'MAR', 'DEU', 'MAR']","['JPN', 'JPN']"
-477,2022,CRI,2,4,0,"['JPN', 'JPN']",[],"['ESP', 'DEU', 'ESP', 'DEU']"
-478,2022,BEL,2,2,2,"['CAN', 'CAN']","['HRV', 'HRV']","['MAR', 'MAR']"
-479,2022,CAN,0,6,0,[],[],"['BEL', 'HRV', 'MAR', 'BEL', 'HRV', 'MAR']"
-480,2022,CHE,4,4,0,"['CMR', 'SRB', 'CMR', 'SRB']",[],"['BRA', 'PRT', 'BRA', 'PRT']"
-481,2022,CMR,2,2,2,"['BRA', 'BRA']","['SRB', 'SRB']","['CHE', 'CHE']"
-482,2022,URY,2,2,2,"['GHA', 'GHA']","['KOR', 'KOR']","['PRT', 'PRT']"
-483,2022,KOR,2,4,2,"['PRT', 'PRT']","['URY', 'URY']","['GHA', 'BRA', 'GHA', 'BRA']"
-484,2022,PRT,6,4,0,"['GHA', 'URY', 'CHE', 'GHA', 'URY', 'CHE']",[],"['KOR', 'MAR', 'KOR', 'MAR']"
-485,2022,GHA,2,4,0,"['KOR', 'KOR']",[],"['PRT', 'URY', 'PRT', 'URY']"
-486,2022,BRA,6,2,2,"['SRB', 'CHE', 'KOR', 'SRB', 'CHE', 'KOR']","['HRV', 'HRV']","['CMR', 'CMR']"
-487,2022,SRB,0,4,2,[],"['CMR', 'CMR']","['BRA', 'CHE', 'BRA', 'CHE']"
+0,1930,FRA,1,2,0,['MEX'],[],"['ARG', 'CHL']"
+1,1930,MEX,0,3,0,[],[],"['FRA', 'CHL', 'ARG']"
+2,1930,USA,2,1,0,"['BEL', 'PRY']",[],['ARG']
+3,1930,BEL,0,2,0,[],[],"['USA', 'PRY']"
+4,1930,YUG,2,1,0,"['BRA', 'BOL']",[],['URY']
+5,1930,BRA,1,1,0,['BOL'],[],['YUG']
+6,1930,ROU,1,1,0,['PER'],[],['URY']
+7,1930,PER,0,2,0,[],[],"['ROU', 'URY']"
+8,1930,ARG,4,1,0,"['FRA', 'MEX', 'CHL', 'USA']",[],['URY']
+9,1930,CHL,2,1,0,"['MEX', 'FRA']",[],['ARG']
+10,1930,BOL,0,2,0,[],[],"['YUG', 'BRA']"
+11,1930,PRY,1,1,0,['BEL'],[],['USA']
+12,1930,URY,4,0,0,"['PER', 'ROU', 'YUG', 'ARG']",[],[]
+13,1934,AUT,2,2,0,"['FRA', 'HUN']",[],"['ITA', 'DEU']"
+14,1934,FRA,0,1,0,[],[],['AUT']
+15,1934,HUN,1,1,0,['EGY'],[],['AUT']
+16,1934,EGY,0,1,0,[],[],['HUN']
+17,1934,CHE,1,1,0,['NLD'],[],['CZE']
+18,1934,NLD,0,1,0,[],[],['CHE']
+19,1934,SWE,1,1,0,['ARG'],[],['DEU']
+20,1934,ARG,0,1,0,[],[],['SWE']
+21,1934,DEU,3,1,0,"['BEL', 'SWE', 'AUT']",[],['CZE']
+22,1934,BEL,0,1,0,[],[],['DEU']
+23,1934,ESP,1,1,1,['BRA'],['ITA'],['ITA']
+24,1934,BRA,0,1,0,[],[],['ESP']
+25,1934,ITA,4,0,1,"['USA', 'ESP', 'AUT', 'CZE']",['ESP'],[]
+26,1934,USA,0,1,0,[],[],['ITA']
+27,1934,CZE,3,1,0,"['ROU', 'CHE', 'DEU']",[],['ITA']
+28,1934,ROU,0,1,0,[],[],['CZE']
+29,1938,CHE,1,1,1,['DEU'],['DEU'],['HUN']
+30,1938,DEU,0,1,1,[],['CHE'],['CHE']
+31,1938,HUN,3,1,0,"['INH', 'CHE', 'SWE']",[],['ITA']
+32,1938,INH,0,1,0,[],[],['HUN']
+33,1938,FRA,1,1,0,['BEL'],[],['ITA']
+34,1938,BEL,0,1,0,[],[],['FRA']
+35,1938,CUB,1,1,1,['ROU'],['ROU'],['SWE']
+36,1938,ROU,0,1,1,[],['CUB'],['CUB']
+37,1938,ITA,4,0,0,"['NOR', 'FRA', 'BRA', 'HUN']",[],[]
+38,1938,NOR,0,1,0,[],[],['ITA']
+39,1938,BRA,3,1,1,"['POL', 'CZE', 'SWE']",['CZE'],['ITA']
+40,1938,POL,0,1,0,[],[],['BRA']
+41,1938,CZE,1,1,1,['NLD'],['BRA'],['BRA']
+42,1938,NLD,0,1,0,[],[],['CZE']
+43,1938,SWE,1,2,0,['CUB'],[],"['HUN', 'BRA']"
+44,1950,BRA,4,1,1,"['MEX', 'YUG', 'SWE', 'ESP']",['CHE'],['URY']
+45,1950,MEX,0,3,0,[],[],"['BRA', 'YUG', 'CHE']"
+46,1950,ENG,1,2,0,['CHL'],[],"['USA', 'ESP']"
+47,1950,CHL,1,2,0,['USA'],[],"['ENG', 'ESP']"
+48,1950,ESP,3,2,1,"['USA', 'CHL', 'ENG']",['URY'],"['BRA', 'SWE']"
+49,1950,USA,1,2,0,['ENG'],[],"['ESP', 'CHL']"
+50,1950,SWE,2,2,1,"['ITA', 'ESP']",['PRY'],"['BRA', 'URY']"
+51,1950,ITA,1,1,0,['PRY'],[],['SWE']
+52,1950,YUG,2,1,0,"['CHE', 'MEX']",[],['BRA']
+53,1950,CHE,1,1,1,['MEX'],['BRA'],['YUG']
+54,1950,PRY,0,1,1,[],['SWE'],['ITA']
+55,1950,URY,3,0,1,"['BOL', 'SWE', 'BRA']",['ESP'],[]
+56,1950,BOL,0,1,0,[],[],['URY']
+57,1954,URY,3,2,0,"['CZE', 'SCT', 'ENG']",[],"['HUN', 'AUT']"
+58,1954,CZE,0,2,0,[],[],"['URY', 'AUT']"
+59,1954,AUT,4,1,0,"['SCT', 'CZE', 'CHE', 'URY']",[],['DEU']
+60,1954,SCT,0,2,0,[],[],"['AUT', 'URY']"
+61,1954,BRA,1,1,1,['MEX'],['YUG'],['HUN']
+62,1954,MEX,0,2,0,[],[],"['BRA', 'FRA']"
+63,1954,YUG,1,1,1,['FRA'],['BRA'],['DEU']
+64,1954,FRA,1,1,0,['MEX'],[],['YUG']
+65,1954,DEU,5,1,0,"['TUR', 'TUR', 'YUG', 'AUT', 'HUN']",[],['HUN']
+66,1954,TUR,1,2,0,['KOR'],[],"['DEU', 'DEU']"
+67,1954,HUN,4,1,0,"['KOR', 'DEU', 'BRA', 'URY']",[],['DEU']
+68,1954,KOR,0,2,0,[],[],"['HUN', 'TUR']"
+69,1954,ENG,1,1,1,['CHE'],['BEL'],['URY']
+70,1954,BEL,0,1,1,[],['ENG'],['ITA']
+71,1954,CHE,2,2,0,"['ITA', 'ITA']",[],"['ENG', 'AUT']"
+72,1954,ITA,1,2,0,['BEL'],[],"['CHE', 'CHE']"
+73,1958,SWE,4,1,1,"['MEX', 'HUN', 'SUN', 'DEU']",['WLS'],['BRA']
+74,1958,MEX,0,2,1,[],['WLS'],"['SWE', 'HUN']"
+75,1958,SUN,2,2,1,"['AUT', 'ENG']",['ENG'],"['BRA', 'SWE']"
+76,1958,ENG,0,1,3,[],"['SUN', 'BRA', 'AUT']",['SUN']
+77,1958,ARG,1,2,0,['NIL'],[],"['DEU', 'CZE']"
+78,1958,DEU,2,2,2,"['ARG', 'YUG']","['CZE', 'NIL']","['SWE', 'FRA']"
+79,1958,HUN,1,2,1,['MEX'],['WLS'],"['SWE', 'WLS']"
+80,1958,WLS,1,1,3,['HUN'],"['HUN', 'MEX', 'SWE']",['BRA']
+81,1958,FRA,4,2,0,"['PRY', 'SCT', 'NIL', 'DEU']",[],"['YUG', 'BRA']"
+82,1958,PRY,1,1,1,['SCT'],['YUG'],['FRA']
+83,1958,YUG,1,1,2,['FRA'],"['SCT', 'PRY']",['DEU']
+84,1958,SCT,0,2,1,[],['YUG'],"['PRY', 'FRA']"
+85,1958,BRA,5,0,1,"['AUT', 'SUN', 'WLS', 'FRA', 'SWE']",['ENG'],[]
+86,1958,AUT,0,2,1,[],['ENG'],"['BRA', 'SUN']"
+87,1958,NIL,2,2,1,"['CZE', 'CZE']",['DEU'],"['ARG', 'FRA']"
+88,1958,CZE,1,2,1,['ARG'],['DEU'],"['NIL', 'NIL']"
+89,1962,URY,1,2,0,['COL'],[],"['YUG', 'SUN']"
+90,1962,COL,0,2,1,[],['SUN'],"['URY', 'YUG']"
+91,1962,BRA,5,0,1,"['MEX', 'ESP', 'ENG', 'CHL', 'CZE']",['CZE'],[]
+92,1962,MEX,1,2,0,['CZE'],[],"['BRA', 'ESP']"
+93,1962,ARG,1,1,1,['BGR'],['HUN'],['ENG']
+94,1962,BGR,0,2,1,[],['ENG'],"['ARG', 'HUN']"
+95,1962,CHL,4,2,0,"['CHE', 'ITA', 'SUN', 'YUG']",[],"['DEU', 'BRA']"
+96,1962,CHE,0,3,0,[],[],"['CHL', 'DEU', 'ITA']"
+97,1962,SUN,2,1,1,"['YUG', 'URY']",['COL'],['CHL']
+98,1962,YUG,3,3,0,"['URY', 'COL', 'DEU']",[],"['SUN', 'CZE', 'CHL']"
+99,1962,CZE,3,2,1,"['ESP', 'HUN', 'YUG']",['BRA'],"['MEX', 'BRA']"
+100,1962,ESP,1,2,0,['MEX'],[],"['CZE', 'BRA']"
+101,1962,HUN,2,1,1,"['ENG', 'BGR']",['ARG'],['CZE']
+102,1962,ENG,1,2,1,['ARG'],['BGR'],"['HUN', 'BRA']"
+103,1962,DEU,2,1,1,"['CHE', 'CHL']",['ITA'],['YUG']
+104,1962,ITA,1,1,1,['CHE'],['DEU'],['CHL']
+105,1966,ENG,5,0,1,"['MEX', 'FRA', 'ARG', 'PRT', 'DEU']",['URY'],[]
+106,1966,URY,1,1,2,['FRA'],"['ENG', 'MEX']",['DEU']
+107,1966,DEU,4,1,1,"['CHE', 'ESP', 'URY', 'SUN']",['ARG'],['ENG']
+108,1966,CHE,0,3,0,[],[],"['DEU', 'ESP', 'ARG']"
+109,1966,BRA,1,2,0,['BGR'],[],"['HUN', 'PRT']"
+110,1966,BGR,0,3,0,[],[],"['BRA', 'PRT', 'HUN']"
+111,1966,SUN,4,2,0,"['PRK', 'ITA', 'CHL', 'HUN']",[],"['DEU', 'PRT']"
+112,1966,PRK,1,2,1,['ITA'],['CHL'],"['SUN', 'PRT']"
+113,1966,FRA,0,2,1,[],['MEX'],"['URY', 'ENG']"
+114,1966,MEX,0,1,2,[],"['FRA', 'URY']",['ENG']
+115,1966,PRT,5,1,0,"['HUN', 'BGR', 'BRA', 'PRK', 'SUN']",[],['ENG']
+116,1966,HUN,2,2,0,"['BRA', 'BGR']",[],"['PRT', 'SUN']"
+117,1966,ARG,2,1,1,"['ESP', 'CHE']",['DEU'],['ENG']
+118,1966,ESP,1,2,0,['CHE'],[],"['ARG', 'DEU']"
+119,1966,ITA,1,2,0,['CHL'],[],"['SUN', 'PRK']"
+120,1966,CHL,0,2,1,[],['PRK'],"['ITA', 'SUN']"
+121,1970,MEX,2,1,1,"['SLV', 'BEL']",['SUN'],['ITA']
+122,1970,SUN,2,1,1,"['BEL', 'SLV']",['MEX'],['URY']
+123,1970,URY,2,3,1,"['ISR', 'SUN']",['ITA'],"['SWE', 'BRA', 'DEU']"
+124,1970,ISR,0,1,2,[],"['SWE', 'ITA']",['URY']
+125,1970,PER,2,2,0,"['BGR', 'MAR']",[],"['DEU', 'BRA']"
+126,1970,BGR,0,2,1,[],['MAR'],"['PER', 'DEU']"
+127,1970,ENG,2,2,0,"['ROU', 'CZE']",[],"['BRA', 'DEU']"
+128,1970,ROU,1,2,0,['CZE'],[],"['ENG', 'BRA']"
+129,1970,ITA,3,1,2,"['SWE', 'MEX', 'DEU']","['URY', 'ISR']",['BRA']
+130,1970,SWE,1,1,1,['URY'],['ISR'],['ITA']
+131,1970,DEU,5,1,0,"['MAR', 'BGR', 'PER', 'ENG', 'URY']",[],['ITA']
+132,1970,MAR,0,2,1,[],['BGR'],"['DEU', 'PER']"
+133,1970,BRA,6,0,0,"['CZE', 'ENG', 'ROU', 'PER', 'URY', 'ITA']",[],[]
+134,1970,CZE,0,3,0,[],[],"['BRA', 'ROU', 'ENG']"
+135,1970,BEL,1,2,0,['SLV'],[],"['SUN', 'MEX']"
+136,1970,SLV,0,3,0,[],[],"['BEL', 'MEX', 'SUN']"
+137,1974,BRA,3,2,2,"['COD', 'DEU', 'ARG']","['YUG', 'SCT']","['NLD', 'POL']"
+138,1974,YUG,1,3,2,['COD'],"['BRA', 'SCT']","['DEU', 'POL', 'SWE']"
+139,1974,DEU,8,3,2,"['CHL', 'AUS', 'AUS', 'DEU', 'YUG', 'SWE', 'POL', 'NLD']","['CHL', 'ARG']","['DEU', 'BRA', 'NLD']"
+140,1974,CHL,0,1,2,[],"['DEU', 'AUS']",['DEU']
+141,1974,AUS,0,2,1,[],['CHL'],"['DEU', 'DEU']"
+142,1974,COD,0,3,0,[],[],"['SCT', 'YUG', 'BRA']"
+143,1974,SCT,1,0,2,['COD'],"['BRA', 'YUG']",[]
+144,1974,URY,0,2,1,[],['BGR'],"['NLD', 'SWE']"
+145,1974,NLD,5,1,1,"['URY', 'BGR', 'ARG', 'DEU', 'BRA']",['SWE'],['DEU']
+146,1974,SWE,2,2,2,"['URY', 'YUG']","['BGR', 'NLD']","['POL', 'DEU']"
+147,1974,BGR,0,1,2,[],"['SWE', 'URY']",['NLD']
+148,1974,ITA,1,1,1,['HTI'],['ARG'],['POL']
+149,1974,HTI,0,3,0,[],[],"['ITA', 'POL', 'ARG']"
+150,1974,POL,6,1,0,"['ARG', 'HTI', 'ITA', 'SWE', 'YUG', 'BRA']",[],['DEU']
+151,1974,ARG,1,3,2,['HTI'],"['ITA', 'DEU']","['POL', 'NLD', 'BRA']"
+152,1978,DEU,1,1,4,['MEX'],"['POL', 'TUN', 'ITA', 'NLD']",['AUT']
+153,1978,POL,3,2,1,"['TUN', 'MEX', 'PER']",['DEU'],"['ARG', 'BRA']"
+154,1978,ITA,4,2,1,"['FRA', 'HUN', 'ARG', 'AUT']",['DEU'],"['NLD', 'BRA']"
+155,1978,FRA,1,2,0,['HUN'],[],"['ITA', 'ARG']"
+156,1978,TUN,1,1,1,['MEX'],['DEU'],['POL']
+157,1978,MEX,0,3,0,[],[],"['TUN', 'DEU', 'POL']"
+158,1978,ARG,5,1,1,"['HUN', 'FRA', 'POL', 'PER', 'NLD']",['BRA'],['ITA']
+159,1978,HUN,0,3,0,[],[],"['ARG', 'ITA', 'FRA']"
+160,1978,SWE,0,2,1,[],['BRA'],"['AUT', 'ESP']"
+161,1978,BRA,4,0,3,"['AUT', 'PER', 'POL', 'ITA']","['SWE', 'ESP', 'ARG']",[]
+162,1978,AUT,3,3,0,"['ESP', 'SWE', 'DEU']",[],"['BRA', 'NLD', 'ITA']"
+163,1978,ESP,1,1,1,['SWE'],['BRA'],['AUT']
+164,1978,PER,2,3,1,"['SCT', 'IRN']",['NLD'],"['BRA', 'POL', 'ARG']"
+165,1978,SCT,1,1,1,['NLD'],['IRN'],['PER']
+166,1978,NLD,3,2,2,"['IRN', 'AUT', 'ITA']","['PER', 'DEU']","['SCT', 'ARG']"
+167,1978,IRN,0,2,1,[],['SCT'],"['NLD', 'PER']"
+168,1982,ARG,2,3,0,"['HUN', 'SLV']",[],"['BEL', 'ITA', 'BRA']"
+169,1982,BEL,2,2,1,"['ARG', 'SLV']",['HUN'],"['POL', 'SUN']"
+170,1982,ITA,4,0,3,"['ARG', 'BRA', 'POL', 'DEU']","['POL', 'PER', 'CMR']",[]
+171,1982,POL,3,1,3,"['PER', 'BEL', 'FRA']","['ITA', 'CMR', 'SUN']",['ITA']
+172,1982,BRA,4,1,0,"['SUN', 'SCT', 'NZL', 'ARG']",[],['ITA']
+173,1982,SUN,2,1,2,"['NZL', 'BEL']","['SCT', 'POL']",['BRA']
+174,1982,PER,0,1,2,[],"['CMR', 'ITA']",['POL']
+175,1982,CMR,0,0,3,[],"['PER', 'POL', 'ITA']",[]
+176,1982,HUN,1,1,1,['SLV'],['BEL'],['ARG']
+177,1982,SLV,0,3,0,[],[],"['HUN', 'BEL', 'ARG']"
+178,1982,SCT,1,1,1,['NZL'],['SUN'],['BRA']
+179,1982,NZL,0,3,0,[],[],"['SCT', 'SUN', 'BRA']"
+180,1982,DEU,3,2,2,"['CHL', 'AUT', 'ESP']","['ENG', 'FRA']","['DZA', 'ITA']"
+181,1982,DZA,2,1,0,"['DEU', 'CHL']",[],['AUT']
+182,1982,ENG,3,0,2,"['FRA', 'CZE', 'KWT']","['DEU', 'ESP']",[]
+183,1982,FRA,3,2,2,"['KWT', 'AUT', 'NIL']","['CZE', 'DEU']","['ENG', 'POL']"
+184,1982,ESP,1,2,2,['YUG'],"['HND', 'ENG']","['NIL', 'DEU']"
+185,1982,HND,0,1,2,[],"['ESP', 'NIL']",['YUG']
+186,1982,CHL,0,3,0,[],[],"['AUT', 'DEU', 'DZA']"
+187,1982,AUT,2,2,1,"['CHL', 'DZA']",['NIL'],"['DEU', 'FRA']"
+188,1982,CZE,0,1,2,[],"['KWT', 'FRA']",['ENG']
+189,1982,KWT,0,2,1,[],['CZE'],"['FRA', 'ENG']"
+190,1982,YUG,1,1,1,['HND'],['NIL'],['ESP']
+191,1982,NIL,1,1,3,['ESP'],"['YUG', 'HND', 'AUT']",['FRA']
+192,1986,BGR,0,2,2,[],"['ITA', 'KOR']","['ARG', 'MEX']"
+193,1986,ITA,1,1,2,['KOR'],"['BGR', 'ARG']",['FRA']
+194,1986,CAN,0,3,0,[],[],"['FRA', 'HUN', 'SUN']"
+195,1986,FRA,4,1,2,"['CAN', 'HUN', 'ITA', 'BEL']","['SUN', 'BRA']",['DEU']
+196,1986,ESP,3,1,1,"['NIL', 'DZA', 'DNK']",['BEL'],['BRA']
+197,1986,BRA,4,0,1,"['ESP', 'DZA', 'NIL', 'POL']",['FRA'],[]
+198,1986,SUN,2,1,1,"['HUN', 'CAN']",['FRA'],['BEL']
+199,1986,HUN,1,2,0,['CAN'],[],"['SUN', 'FRA']"
+200,1986,ARG,6,0,1,"['KOR', 'BGR', 'URY', 'ENG', 'BEL', 'DEU']",['ITA'],[]
+201,1986,KOR,0,2,1,[],['BGR'],"['ARG', 'ITA']"
+202,1986,MAR,1,1,2,['PRT'],"['POL', 'ENG']",['DEU']
+203,1986,POL,1,2,1,['PRT'],['MAR'],"['ENG', 'BRA']"
+204,1986,DZA,0,2,1,[],['NIL'],"['BRA', 'ESP']"
+205,1986,NIL,0,2,1,[],['DZA'],"['ESP', 'BRA']"
+206,1986,BEL,2,3,2,"['IRQ', 'SUN']","['PRY', 'ESP']","['MEX', 'ARG', 'FRA']"
+207,1986,MEX,3,0,2,"['BEL', 'IRQ', 'BGR']","['PRY', 'DEU']",[]
+208,1986,PRT,1,2,0,['ENG'],[],"['POL', 'MAR']"
+209,1986,ENG,2,2,1,"['POL', 'PRY']",['MAR'],"['PRT', 'ARG']"
+210,1986,PRY,1,1,2,['IRQ'],"['MEX', 'BEL']",['ENG']
+211,1986,IRQ,0,3,0,[],[],"['PRY', 'BEL', 'MEX']"
+212,1986,SCT,0,2,1,[],['URY'],"['DNK', 'DEU']"
+213,1986,DNK,3,1,0,"['SCT', 'URY', 'DEU']",[],['ESP']
+214,1986,URY,0,2,2,[],"['DEU', 'SCT']","['DNK', 'ARG']"
+215,1986,DEU,3,2,2,"['SCT', 'MAR', 'FRA']","['URY', 'MEX']","['DNK', 'ARG']"
+216,1990,ARG,2,2,3,"['SUN', 'BRA']","['ROU', 'YUG', 'ITA']","['CMR', 'DEU']"
+217,1990,CMR,3,2,0,"['ARG', 'ROU', 'COL']",[],"['SUN', 'ENG']"
+218,1990,SUN,1,2,0,['CMR'],[],"['ROU', 'ARG']"
+219,1990,ROU,1,1,2,['SUN'],"['ARG', 'IRL']",['CMR']
+220,1990,ARE,0,3,0,[],[],"['COL', 'DEU', 'YUG']"
+221,1990,COL,1,2,1,['ARE'],['DEU'],"['YUG', 'CMR']"
+222,1990,ITA,6,0,1,"['AUT', 'USA', 'CZE', 'URY', 'IRL', 'ENG']",['ARG'],[]
+223,1990,AUT,1,2,0,['USA'],[],"['ITA', 'CZE']"
+224,1990,USA,0,3,0,[],[],"['CZE', 'ITA', 'AUT']"
+225,1990,CZE,3,2,0,"['USA', 'AUT', 'CRI']",[],"['ITA', 'DEU']"
+226,1990,BRA,3,1,0,"['SWE', 'CRI', 'SCT']",[],['ARG']
+227,1990,SWE,0,3,0,[],[],"['BRA', 'SCT', 'CRI']"
+228,1990,DEU,5,0,2,"['YUG', 'ARE', 'NLD', 'CZE', 'ARG']","['COL', 'ENG']",[]
+229,1990,YUG,3,1,1,"['COL', 'ARE', 'ESP']",['ARG'],['DEU']
+230,1990,CRI,2,2,0,"['SCT', 'SWE']",[],"['BRA', 'CZE']"
+231,1990,SCT,1,2,0,['SWE'],[],"['CRI', 'BRA']"
+232,1990,ENG,3,1,3,"['EGY', 'BEL', 'CMR']","['IRL', 'NLD', 'DEU']",['ITA']
+233,1990,IRL,0,1,4,[],"['ENG', 'EGY', 'NLD', 'ROU']",['ITA']
+234,1990,BEL,2,2,0,"['KOR', 'URY']",[],"['ESP', 'ENG']"
+235,1990,KOR,0,3,0,[],[],"['BEL', 'ESP', 'URY']"
+236,1990,NLD,0,1,3,[],"['EGY', 'ENG', 'IRL']",['DEU']
+237,1990,EGY,0,1,2,[],"['NLD', 'IRL']",['ENG']
+238,1990,URY,1,2,1,['KOR'],['ESP'],"['BEL', 'ITA']"
+239,1990,ESP,2,1,1,"['KOR', 'BEL']",['URY'],['YUG']
+240,1994,ESP,2,1,2,"['BOL', 'CHE']","['KOR', 'DEU']",['ITA']
+241,1994,KOR,0,1,2,[],"['ESP', 'BOL']",['DEU']
+242,1994,DEU,3,1,1,"['BOL', 'KOR', 'BEL']",['ESP'],['BGR']
+243,1994,BOL,0,2,1,[],['KOR'],"['DEU', 'ESP']"
+244,1994,USA,1,2,1,['COL'],['CHE'],"['ROU', 'BRA']"
+245,1994,CHE,1,2,1,['ROU'],['USA'],"['COL', 'ESP']"
+246,1994,ITA,4,1,2,"['NOR', 'NGA', 'ESP', 'BGR']","['MEX', 'BRA']",['IRL']
+247,1994,IRL,1,2,1,['ITA'],['NOR'],"['MEX', 'NLD']"
+248,1994,COL,1,2,0,['CHE'],[],"['ROU', 'USA']"
+249,1994,ROU,3,1,1,"['COL', 'USA', 'ARG']",['SWE'],['CHE']
+250,1994,BEL,2,2,0,"['MAR', 'NLD']",[],"['SAU', 'DEU']"
+251,1994,MAR,0,3,0,[],[],"['BEL', 'SAU', 'NLD']"
+252,1994,NOR,1,1,1,['MEX'],['IRL'],['ITA']
+253,1994,MEX,1,1,2,['IRL'],"['ITA', 'BGR']",['NOR']
+254,1994,CMR,0,2,1,[],['SWE'],"['BRA', 'RUS']"
+255,1994,SWE,3,1,3,"['RUS', 'SAU', 'BGR']","['CMR', 'BRA', 'ROU']",['BRA']
+256,1994,NLD,3,2,0,"['SAU', 'MAR', 'IRL']",[],"['BEL', 'BRA']"
+257,1994,SAU,2,2,0,"['MAR', 'BEL']",[],"['NLD', 'SWE']"
+258,1994,BRA,5,0,2,"['RUS', 'CMR', 'USA', 'NLD', 'SWE']","['SWE', 'ITA']",[]
+259,1994,RUS,1,2,0,['CMR'],[],"['BRA', 'SWE']"
+260,1994,ARG,2,2,0,"['GRC', 'NGA']",[],"['BGR', 'ROU']"
+261,1994,GRC,0,3,0,[],[],"['ARG', 'BGR', 'NGA']"
+262,1994,NGA,2,2,0,"['BGR', 'GRC']",[],"['ARG', 'ITA']"
+263,1994,BGR,3,3,1,"['GRC', 'ARG', 'DEU']",['MEX'],"['NGA', 'ITA', 'SWE']"
+264,1998,BRA,4,2,1,"['SCT', 'MAR', 'CHL', 'DNK']",['NLD'],"['NOR', 'FRA']"
+265,1998,SCT,0,2,1,[],['NOR'],"['BRA', 'MAR']"
+266,1998,MAR,1,1,1,['SCT'],['NOR'],['BRA']
+267,1998,NOR,1,1,2,['BRA'],"['MAR', 'SCT']",['ITA']
+268,1998,ITA,3,0,2,"['CMR', 'AUT', 'NOR']","['CHL', 'FRA']",[]
+269,1998,CHL,0,1,3,[],"['ITA', 'AUT', 'CMR']",['BRA']
+270,1998,CMR,0,1,2,[],"['AUT', 'CHL']",['ITA']
+271,1998,AUT,0,1,2,[],"['CMR', 'CHL']",['ITA']
+272,1998,PRY,1,1,2,['NGA'],"['BGR', 'ESP']",['FRA']
+273,1998,BGR,0,2,1,[],['PRY'],"['NGA', 'ESP']"
+274,1998,SAU,0,2,1,[],['ZAF'],"['DNK', 'FRA']"
+275,1998,DNK,2,2,1,"['SAU', 'NGA']",['ZAF'],"['FRA', 'BRA']"
+276,1998,FRA,6,0,1,"['ZAF', 'SAU', 'DNK', 'PRY', 'HRV', 'BRA']",['ITA'],[]
+277,1998,ZAF,0,1,2,[],"['DNK', 'SAU']",['FRA']
+278,1998,ESP,1,1,1,['BGR'],['PRY'],['NGA']
+279,1998,NGA,2,2,0,"['ESP', 'BGR']",[],"['PRY', 'DNK']"
+280,1998,KOR,0,2,1,[],['BEL'],"['MEX', 'NLD']"
+281,1998,MEX,1,1,2,['KOR'],"['BEL', 'NLD']",['DEU']
+282,1998,NLD,3,1,3,"['KOR', 'YUG', 'ARG']","['BEL', 'MEX', 'BRA']",['HRV']
+283,1998,BEL,0,0,3,[],"['NLD', 'MEX', 'KOR']",[]
+284,1998,ARG,3,1,1,"['JPN', 'JAM', 'HRV']",['ENG'],['NLD']
+285,1998,JPN,0,3,0,[],[],"['ARG', 'HRV', 'JAM']"
+286,1998,YUG,2,1,1,"['IRN', 'USA']",['DEU'],['NLD']
+287,1998,IRN,1,2,0,['USA'],[],"['YUG', 'DEU']"
+288,1998,JAM,1,2,0,['JPN'],[],"['HRV', 'ARG']"
+289,1998,HRV,5,2,0,"['JAM', 'JPN', 'ROU', 'DEU', 'NLD']",[],"['ARG', 'FRA']"
+290,1998,ENG,2,1,1,"['TUN', 'COL']",['ARG'],['ROU']
+291,1998,TUN,0,2,1,[],['ROU'],"['ENG', 'COL']"
+292,1998,ROU,2,1,1,"['COL', 'ENG']",['TUN'],['HRV']
+293,1998,COL,1,2,0,['TUN'],[],"['ROU', 'ENG']"
+294,1998,DEU,3,1,1,"['USA', 'IRN', 'MEX']",['YUG'],['HRV']
+295,1998,USA,0,3,0,[],[],"['DEU', 'IRN', 'YUG']"
+296,2002,FRA,0,2,1,[],['URY'],"['SEN', 'DNK']"
+297,2002,SEN,2,1,2,"['FRA', 'SWE']","['DNK', 'URY']",['TUR']
+298,2002,URY,0,1,2,[],"['FRA', 'SEN']",['DNK']
+299,2002,DNK,2,1,1,"['URY', 'FRA']",['SEN'],['ENG']
+300,2002,IRL,1,0,3,['SAU'],"['CMR', 'DEU', 'ESP']",[]
+301,2002,CMR,1,1,1,['SAU'],['IRL'],['DEU']
+302,2002,DEU,5,1,1,"['SAU', 'CMR', 'PRY', 'USA', 'KOR']",['IRL'],['BRA']
+303,2002,SAU,0,3,0,[],[],"['DEU', 'CMR', 'IRL']"
+304,2002,ARG,1,1,1,['NGA'],['SWE'],['ENG']
+305,2002,NGA,0,2,1,[],['ENG'],"['ARG', 'SWE']"
+306,2002,PRY,1,2,1,['SVN'],['ZAF'],"['ESP', 'DEU']"
+307,2002,ZAF,1,1,1,['SVN'],['PRY'],['ESP']
+308,2002,ENG,2,1,2,"['ARG', 'DNK']","['SWE', 'NGA']",['BRA']
+309,2002,SWE,1,1,2,['NGA'],"['ENG', 'ARG']",['SEN']
+310,2002,ESP,3,0,2,"['SVN', 'PRY', 'ZAF']","['IRL', 'KOR']",[]
+311,2002,SVN,0,3,0,[],[],"['ESP', 'ZAF', 'PRY']"
+312,2002,BRA,7,0,0,"['TUR', 'CHN', 'CRI', 'BEL', 'ENG', 'TUR', 'DEU']",[],[]
+313,2002,TUR,4,2,1,"['CHN', 'JPN', 'SEN', 'KOR']",['CRI'],"['BRA', 'BRA']"
+314,2002,ITA,1,2,1,['ECU'],['MEX'],"['HRV', 'KOR']"
+315,2002,ECU,1,2,0,['HRV'],[],"['ITA', 'MEX']"
+316,2002,HRV,1,2,0,['ITA'],[],"['MEX', 'ECU']"
+317,2002,MEX,2,1,1,"['HRV', 'ECU']",['ITA'],['USA']
+318,2002,CHN,0,3,0,[],[],"['CRI', 'BRA', 'TUR']"
+319,2002,CRI,1,1,1,['CHN'],['TUR'],['BRA']
+320,2002,JPN,2,1,1,"['RUS', 'TUN']",['BEL'],['TUR']
+321,2002,BEL,1,1,2,['RUS'],"['JPN', 'TUN']",['BRA']
+322,2002,KOR,3,2,2,"['POL', 'PRT', 'ITA']","['USA', 'ESP']","['DEU', 'TUR']"
+323,2002,POL,1,2,0,['USA'],[],"['KOR', 'PRT']"
+324,2002,RUS,1,2,0,['TUN'],[],"['JPN', 'BEL']"
+325,2002,TUN,0,2,1,[],['BEL'],"['RUS', 'JPN']"
+326,2002,USA,2,2,1,"['PRT', 'MEX']",['KOR'],"['POL', 'DEU']"
+327,2002,PRT,1,2,0,['POL'],[],"['USA', 'KOR']"
+328,2006,DEU,5,1,1,"['CRI', 'POL', 'ECU', 'SWE', 'PRT']",['ARG'],['ITA']
+329,2006,CRI,0,3,0,[],[],"['DEU', 'ECU', 'POL']"
+330,2006,POL,1,2,0,['CRI'],[],"['ECU', 'DEU']"
+331,2006,ECU,2,2,0,"['POL', 'CRI']",[],"['DEU', 'ENG']"
+332,2006,ENG,3,0,2,"['PRY', 'TTO', 'ECU']","['SWE', 'PRT']",[]
+333,2006,PRY,1,2,0,['TTO'],[],"['ENG', 'SWE']"
+334,2006,TTO,0,2,1,[],['SWE'],"['ENG', 'PRY']"
+335,2006,SWE,1,1,2,['PRY'],"['TTO', 'ENG']",['DEU']
+336,2006,ARG,3,0,2,"['CIV', 'SCG', 'MEX']","['NLD', 'DEU']",[]
+337,2006,CIV,1,2,0,['SCG'],[],"['ARG', 'NLD']"
+338,2006,SCG,0,3,0,[],[],"['NLD', 'ARG', 'CIV']"
+339,2006,NLD,2,1,1,"['SCG', 'CIV']",['ARG'],['PRT']
+340,2006,MEX,1,2,1,['IRN'],['AGO'],"['PRT', 'ARG']"
+341,2006,IRN,0,2,1,[],['AGO'],"['MEX', 'PRT']"
+342,2006,AGO,0,1,2,[],"['MEX', 'IRN']",['PRT']
+343,2006,PRT,4,2,1,"['AGO', 'IRN', 'MEX', 'NLD']",['ENG'],"['FRA', 'DEU']"
+344,2006,AUS,1,2,1,['JPN'],['HRV'],"['BRA', 'ITA']"
+345,2006,JPN,0,2,1,[],['HRV'],"['AUS', 'BRA']"
+346,2006,USA,0,2,1,[],['ITA'],"['CZE', 'GHA']"
+347,2006,CZE,1,2,0,['USA'],[],"['GHA', 'ITA']"
+348,2006,ITA,5,0,2,"['GHA', 'CZE', 'AUS', 'UKR', 'DEU']","['USA', 'FRA']",[]
+349,2006,GHA,2,2,0,"['CZE', 'USA']",[],"['ITA', 'BRA']"
+350,2006,KOR,1,1,1,['TGO'],['FRA'],['CHE']
+351,2006,TGO,0,3,0,[],[],"['KOR', 'CHE', 'FRA']"
+352,2006,FRA,4,0,3,"['TGO', 'ESP', 'BRA', 'PRT']","['CHE', 'KOR', 'ITA']",[]
+353,2006,CHE,2,0,2,"['TGO', 'KOR']","['FRA', 'UKR']",[]
+354,2006,BRA,4,1,0,"['HRV', 'AUS', 'JPN', 'GHA']",[],['FRA']
+355,2006,HRV,0,1,2,[],"['JPN', 'AUS']",['BRA']
+356,2006,ESP,3,1,0,"['UKR', 'TUN', 'SAU']",[],['FRA']
+357,2006,UKR,2,2,1,"['SAU', 'TUN']",['CHE'],"['ESP', 'ITA']"
+358,2006,TUN,0,2,1,[],['SAU'],"['ESP', 'UKR']"
+359,2006,SAU,0,2,1,[],['TUN'],"['UKR', 'ESP']"
+360,2010,ZAF,1,1,1,['FRA'],['MEX'],['URY']
+361,2010,MEX,1,2,1,['FRA'],['ZAF'],"['URY', 'ARG']"
+362,2010,URY,3,2,2,"['ZAF', 'MEX', 'KOR']","['FRA', 'GHA']","['NLD', 'DEU']"
+363,2010,FRA,0,2,1,[],['URY'],"['MEX', 'ZAF']"
+364,2010,KOR,1,2,1,['GRC'],['NGA'],"['ARG', 'URY']"
+365,2010,GRC,1,2,0,['NGA'],[],"['KOR', 'ARG']"
+366,2010,ARG,4,1,0,"['NGA', 'KOR', 'GRC', 'MEX']",[],['DEU']
+367,2010,NGA,0,2,1,[],['KOR'],"['ARG', 'GRC']"
+368,2010,ENG,1,1,2,['SVN'],"['USA', 'DZA']",['DEU']
+369,2010,USA,1,1,2,['DZA'],"['ENG', 'SVN']",['GHA']
+370,2010,DZA,0,2,1,[],['ENG'],"['SVN', 'USA']"
+371,2010,SVN,1,1,1,['DZA'],['USA'],['ENG']
+372,2010,SRB,1,2,0,['DEU'],[],"['GHA', 'AUS']"
+373,2010,GHA,2,1,2,"['SRB', 'USA']","['AUS', 'URY']",['DEU']
+374,2010,DEU,5,2,0,"['AUS', 'GHA', 'ENG', 'ARG', 'URY']",[],"['SRB', 'ESP']"
+375,2010,AUS,1,1,1,['SRB'],['GHA'],['DEU']
+376,2010,NLD,6,1,0,"['DNK', 'JPN', 'CMR', 'SVK', 'BRA', 'URY']",[],['ESP']
+377,2010,DNK,1,2,0,['CMR'],[],"['NLD', 'JPN']"
+378,2010,JPN,2,1,1,"['CMR', 'DNK']",['PRY'],['NLD']
+379,2010,CMR,0,3,0,[],[],"['JPN', 'DNK', 'NLD']"
+380,2010,ITA,0,1,2,[],"['PRY', 'NZL']",['SVK']
+381,2010,PRY,1,1,3,['SVK'],"['ITA', 'NZL', 'JPN']",['ESP']
+382,2010,NZL,0,0,3,[],"['SVK', 'ITA', 'PRY']",[]
+383,2010,SVK,1,2,1,['ITA'],['NZL'],"['PRY', 'NLD']"
+384,2010,CIV,1,1,1,['PRK'],['PRT'],['BRA']
+385,2010,PRT,1,1,2,['PRK'],"['CIV', 'BRA']",['ESP']
+386,2010,BRA,3,1,1,"['PRK', 'CIV', 'CHL']",['PRT'],['NLD']
+387,2010,PRK,0,3,0,[],[],"['BRA', 'PRT', 'CIV']"
+388,2010,HND,0,2,1,[],['CHE'],"['CHL', 'ESP']"
+389,2010,CHL,2,2,0,"['HND', 'CHE']",[],"['ESP', 'BRA']"
+390,2010,ESP,6,1,0,"['HND', 'CHL', 'PRT', 'PRY', 'DEU', 'NLD']",[],['CHE']
+391,2010,CHE,1,1,1,['ESP'],['HND'],['CHL']
+392,2014,BRA,4,4,3,"['HRV', 'CMR', 'COL', 'COL']","['MEX', 'CHL', 'CHL']","['DEU', 'NLD', 'DEU', 'NLD']"
+393,2014,HRV,1,2,0,['CMR'],[],"['BRA', 'MEX']"
+394,2014,MEX,2,2,1,"['CMR', 'HRV']",['BRA'],"['NLD', 'NLD']"
+395,2014,CMR,0,3,0,[],[],"['MEX', 'HRV', 'BRA']"
+396,2014,ESP,1,2,0,['AUS'],[],"['NLD', 'CHL']"
+397,2014,NLD,7,0,4,"['ESP', 'AUS', 'CHL', 'BRA', 'MEX', 'MEX', 'BRA']","['ARG', 'CRI', 'CRI', 'ARG']",[]
+398,2014,CHL,2,1,2,"['AUS', 'ESP']","['BRA', 'BRA']",['NLD']
+399,2014,AUS,0,3,0,[],[],"['CHL', 'NLD', 'ESP']"
+400,2014,COL,5,2,0,"['GRC', 'CIV', 'JPN', 'URY', 'URY']",[],"['BRA', 'BRA']"
+401,2014,GRC,1,1,3,['CIV'],"['JPN', 'CRI', 'CRI']",['COL']
+402,2014,URY,2,3,0,"['ENG', 'ITA']",[],"['CRI', 'COL', 'COL']"
+403,2014,CRI,2,0,5,"['URY', 'ITA']","['ENG', 'NLD', 'GRC', 'GRC', 'NLD']",[]
+404,2014,ENG,0,2,1,[],['CRI'],"['ITA', 'URY']"
+405,2014,ITA,1,2,0,['ENG'],[],"['CRI', 'URY']"
+406,2014,CIV,1,2,0,['JPN'],[],"['COL', 'GRC']"
+407,2014,JPN,0,2,1,[],['GRC'],"['CIV', 'COL']"
+408,2014,CHE,2,3,0,"['ECU', 'HND']",[],"['FRA', 'ARG', 'ARG']"
+409,2014,ECU,1,1,1,['HND'],['FRA'],['CHE']
+410,2014,FRA,4,2,1,"['HND', 'CHE', 'NGA', 'NGA']",['ECU'],"['DEU', 'DEU']"
+411,2014,HND,0,3,0,[],[],"['FRA', 'ECU', 'CHE']"
+412,2014,ARG,7,2,2,"['BIH', 'IRN', 'NGA', 'BEL', 'CHE', 'CHE', 'BEL']","['NLD', 'NLD']","['DEU', 'DEU']"
+413,2014,BIH,1,2,0,['IRN'],[],"['ARG', 'NGA']"
+414,2014,DEU,10,0,1,"['PRT', 'USA', 'DZA', 'FRA', 'BRA', 'ARG', 'DZA', 'FRA', 'BRA', 'ARG']",['GHA'],[]
+415,2014,PRT,1,1,1,['GHA'],['USA'],['DEU']
+416,2014,IRN,0,2,1,[],['NGA'],"['ARG', 'BIH']"
+417,2014,NGA,1,3,1,['BIH'],['IRN'],"['ARG', 'FRA', 'FRA']"
+418,2014,GHA,0,2,1,[],['DEU'],"['USA', 'PRT']"
+419,2014,USA,1,3,1,['GHA'],['PRT'],"['DEU', 'BEL', 'BEL']"
+420,2014,BEL,5,2,0,"['DZA', 'RUS', 'KOR', 'USA', 'USA']",[],"['ARG', 'ARG']"
+421,2014,DZA,1,3,1,['KOR'],['RUS'],"['BEL', 'DEU', 'DEU']"
+422,2014,RUS,0,1,2,[],"['KOR', 'DZA']",['BEL']
+423,2014,KOR,0,2,1,[],['RUS'],"['DZA', 'BEL']"
+424,2018,RUS,2,1,2,"['SAU', 'EGY']","['ESP', 'HRV']",['URY']
+425,2018,SAU,1,2,0,['EGY'],[],"['RUS', 'URY']"
+426,2018,EGY,0,3,0,[],[],"['URY', 'RUS', 'SAU']"
+427,2018,URY,4,1,0,"['EGY', 'SAU', 'RUS', 'PRT']",[],['FRA']
+428,2018,MAR,0,2,1,[],['ESP'],"['IRN', 'PRT']"
+429,2018,IRN,1,1,1,['MAR'],['PRT'],['ESP']
+430,2018,PRT,1,1,2,['MAR'],"['ESP', 'IRN']",['URY']
+431,2018,ESP,1,0,3,['IRN'],"['PRT', 'MAR', 'RUS']",[]
+432,2018,FRA,5,1,1,"['AUS', 'PER', 'ARG', 'URY', 'BEL']",['DNK'],['HRV']
+433,2018,AUS,0,2,1,[],['DNK'],"['FRA', 'PER']"
+434,2018,ARG,1,2,1,['NGA'],['ISL'],"['HRV', 'FRA']"
+435,2018,ISL,0,2,1,[],['ARG'],"['NGA', 'HRV']"
+436,2018,PER,1,2,0,['AUS'],[],"['DNK', 'FRA']"
+437,2018,DNK,1,0,3,['PER'],"['AUS', 'FRA', 'HRV']",[]
+438,2018,HRV,5,0,2,"['NGA', 'ARG', 'ISL', 'ENG', 'FRA']","['DNK', 'RUS']",[]
+439,2018,NGA,1,2,0,['ISL'],[],"['HRV', 'ARG']"
+440,2018,CRI,0,2,1,[],['CHE'],"['SRB', 'BRA']"
+441,2018,SRB,1,2,0,['CRI'],[],"['CHE', 'BRA']"
+442,2018,DEU,1,2,0,['SWE'],[],"['MEX', 'KOR']"
+443,2018,MEX,2,2,0,"['DEU', 'KOR']",[],"['SWE', 'BRA']"
+444,2018,BRA,3,1,1,"['CRI', 'SRB', 'MEX']",['CHE'],['BEL']
+445,2018,CHE,1,1,2,['SRB'],"['BRA', 'CRI']",['SWE']
+446,2018,SWE,3,2,0,"['KOR', 'MEX', 'CHE']",[],"['DEU', 'ENG']"
+447,2018,KOR,1,2,0,['DEU'],[],"['SWE', 'MEX']"
+448,2018,BEL,6,1,0,"['PAN', 'TUN', 'ENG', 'JPN', 'BRA', 'ENG']",[],['FRA']
+449,2018,PAN,0,3,0,[],[],"['BEL', 'ENG', 'TUN']"
+450,2018,TUN,1,2,0,['PAN'],[],"['ENG', 'BEL']"
+451,2018,ENG,3,3,1,"['TUN', 'PAN', 'SWE']",['COL'],"['BEL', 'HRV', 'BEL']"
+452,2018,COL,2,1,1,"['POL', 'SEN']",['ENG'],['JPN']
+453,2018,JPN,1,2,1,['COL'],['SEN'],"['POL', 'BEL']"
+454,2018,POL,1,2,0,['JPN'],[],"['SEN', 'COL']"
+455,2018,SEN,1,1,1,['POL'],['JPN'],['COL']
+456,2022,QAT,0,3,0,[],[],"['ECU', 'SEN', 'NLD']"
+457,2022,ECU,1,1,1,['QAT'],['NLD'],['SEN']
+458,2022,ENG,3,1,1,"['IRN', 'WLS', 'SEN']",['USA'],['FRA']
+459,2022,IRN,1,2,0,['WLS'],[],"['ENG', 'USA']"
+460,2022,SEN,2,2,0,"['QAT', 'ECU']",[],"['NLD', 'ENG']"
+461,2022,NLD,3,0,2,"['SEN', 'QAT', 'USA']","['ECU', 'ARG']",[]
+462,2022,USA,1,1,2,['IRN'],"['WLS', 'ENG']",['NLD']
+463,2022,WLS,0,2,1,[],['USA'],"['IRN', 'ENG']"
+464,2022,ARG,4,1,2,"['MEX', 'POL', 'AUS', 'HRV']","['NLD', 'FRA']",['SAU']
+465,2022,SAU,1,2,0,['ARG'],[],"['POL', 'MEX']"
+466,2022,DNK,0,2,1,[],['TUN'],"['FRA', 'AUS']"
+467,2022,TUN,1,1,1,['FRA'],['DNK'],['AUS']
+468,2022,MEX,1,1,1,['SAU'],['POL'],['ARG']
+469,2022,POL,1,2,1,['SAU'],['MEX'],"['ARG', 'FRA']"
+470,2022,FRA,5,1,1,"['AUS', 'DNK', 'POL', 'ENG', 'MAR']",['ARG'],['TUN']
+471,2022,AUS,2,2,0,"['TUN', 'DNK']",[],"['FRA', 'ARG']"
+472,2022,MAR,3,2,2,"['BEL', 'CAN', 'PRT']","['HRV', 'ESP']","['FRA', 'HRV']"
+473,2022,HRV,2,1,4,"['CAN', 'MAR']","['MAR', 'BEL', 'JPN', 'BRA']",['ARG']
+474,2022,DEU,1,1,1,['CRI'],['ESP'],['JPN']
+475,2022,JPN,2,1,1,"['DEU', 'ESP']",['HRV'],['CRI']
+476,2022,ESP,1,1,2,['CRI'],"['DEU', 'MAR']",['JPN']
+477,2022,CRI,1,2,0,['JPN'],[],"['ESP', 'DEU']"
+478,2022,BEL,1,1,1,['CAN'],['HRV'],['MAR']
+479,2022,CAN,0,3,0,[],[],"['BEL', 'HRV', 'MAR']"
+480,2022,CHE,2,2,0,"['CMR', 'SRB']",[],"['BRA', 'PRT']"
+481,2022,CMR,1,1,1,['BRA'],['SRB'],['CHE']
+482,2022,URY,1,1,1,['GHA'],['KOR'],['PRT']
+483,2022,KOR,1,2,1,['PRT'],['URY'],"['GHA', 'BRA']"
+484,2022,PRT,3,2,0,"['GHA', 'URY', 'CHE']",[],"['KOR', 'MAR']"
+485,2022,GHA,1,2,0,['KOR'],[],"['PRT', 'URY']"
+486,2022,BRA,3,1,1,"['SRB', 'CHE', 'KOR']",['HRV'],['CMR']
+487,2022,SRB,0,2,1,[],['CMR'],"['BRA', 'CHE']"
