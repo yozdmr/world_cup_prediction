@@ -1,458 +1,492 @@
 ,Year,Team,Wins,Losses,Draws,TeamsBeat,TeamsDraw,TeamsLoss
-0,1930,FRA,1,2,0,['MEX'],[],"['ARG', 'CHI']"
-1,1930,MEX,0,3,0,[],[],"['FRA', 'CHI', 'ARG']"
-2,1930,USA,2,1,0,"['BEL', 'PAR']",[],['ARG']
-3,1930,BEL,0,2,0,[],[],"['USA', 'PAR']"
-4,1930,YUG,2,1,0,"['BRA', 'BOL']",[],['URU']
-5,1930,BRA,1,1,0,['BOL'],[],['YUG']
-6,1930,ROU,1,1,0,['PER'],[],['URU']
-7,1930,PER,0,2,0,[],[],"['ROU', 'URU']"
-8,1930,ARG,4,1,0,"['FRA', 'MEX', 'CHI', 'USA']",[],['URU']
-9,1930,CHI,2,1,0,"['MEX', 'FRA']",[],['ARG']
-10,1930,BOL,0,2,0,[],[],"['YUG', 'BRA']"
-11,1930,PAR,1,1,0,['BEL'],[],['USA']
-12,1930,URU,4,0,0,"['PER', 'ROU', 'YUG', 'ARG']",[],[]
-13,1934,AUT,2,2,0,"['FRA', 'HUN']",[],"['ITA', 'GER']"
-14,1934,FRA,0,1,0,[],[],['AUT']
-15,1934,HUN,1,1,0,['EGY'],[],['AUT']
-16,1934,EGY,0,1,0,[],[],['HUN']
-17,1934,SUI,1,1,0,['NED'],[],['TCH']
-18,1934,NED,0,1,0,[],[],['SUI']
-19,1934,SWE,1,1,0,['ARG'],[],['GER']
-20,1934,ARG,0,1,0,[],[],['SWE']
-21,1934,GER,3,1,0,"['BEL', 'SWE', 'AUT']",[],['TCH']
-22,1934,BEL,0,1,0,[],[],['GER']
-23,1934,ESP,1,1,1,['BRA'],['ITA'],['ITA']
-24,1934,BRA,0,1,0,[],[],['ESP']
-25,1934,ITA,4,0,1,"['USA', 'ESP', 'AUT', 'TCH']",['ESP'],[]
-26,1934,USA,0,1,0,[],[],['ITA']
-27,1934,TCH,3,1,0,"['ROU', 'SUI', 'GER']",[],['ITA']
-28,1934,ROU,0,1,0,[],[],['TCH']
-29,1938,SUI,1,1,1,['GER'],['GER'],['HUN']
-30,1938,GER,0,1,1,[],['SUI'],['SUI']
-31,1938,HUN,3,1,0,"['INH', 'SUI', 'SWE']",[],['ITA']
-32,1938,INH,0,1,0,[],[],['HUN']
-33,1938,FRA,1,1,0,['BEL'],[],['ITA']
-34,1938,BEL,0,1,0,[],[],['FRA']
-35,1938,CUB,1,1,1,['ROU'],['ROU'],['SWE']
-36,1938,ROU,0,1,1,[],['CUB'],['CUB']
-37,1938,ITA,4,0,0,"['NOR', 'FRA', 'BRA', 'HUN']",[],[]
-38,1938,NOR,0,1,0,[],[],['ITA']
-39,1938,BRA,3,1,1,"['POL', 'TCH', 'SWE']",['TCH'],['ITA']
-40,1938,POL,0,1,0,[],[],['BRA']
-41,1938,TCH,1,1,1,['NED'],['BRA'],['BRA']
-42,1938,NED,0,1,0,[],[],['TCH']
-43,1938,SWE,1,2,0,['CUB'],[],"['HUN', 'BRA']"
-44,1950,BRA,4,1,1,"['MEX', 'YUG', 'SWE', 'ESP']",['SUI'],['URU']
-45,1950,MEX,0,3,0,[],[],"['BRA', 'YUG', 'SUI']"
-46,1950,ENG,1,2,0,['CHI'],[],"['USA', 'ESP']"
-47,1950,CHI,1,2,0,['USA'],[],"['ENG', 'ESP']"
-48,1950,ESP,3,2,1,"['USA', 'CHI', 'ENG']",['URU'],"['BRA', 'SWE']"
-49,1950,USA,1,2,0,['ENG'],[],"['ESP', 'CHI']"
-50,1950,SWE,2,2,1,"['ITA', 'ESP']",['PAR'],"['BRA', 'URU']"
-51,1950,ITA,1,1,0,['PAR'],[],['SWE']
-52,1950,YUG,2,1,0,"['SUI', 'MEX']",[],['BRA']
-53,1950,SUI,1,1,1,['MEX'],['BRA'],['YUG']
-54,1950,PAR,0,1,1,[],['SWE'],['ITA']
-55,1950,URU,3,0,1,"['BOL', 'SWE', 'BRA']",['ESP'],[]
-56,1950,BOL,0,1,0,[],[],['URU']
-57,1954,URU,3,2,0,"['TCH', 'SCO', 'ENG']",[],"['HUN', 'AUT']"
-58,1954,TCH,0,2,0,[],[],"['URU', 'AUT']"
-59,1954,AUT,4,1,0,"['SCO', 'TCH', 'SUI', 'URU']",[],['FRG']
-60,1954,SCO,0,2,0,[],[],"['AUT', 'URU']"
-61,1954,BRA,1,1,1,['MEX'],['YUG'],['HUN']
-62,1954,MEX,0,2,0,[],[],"['BRA', 'FRA']"
-63,1954,YUG,1,1,1,['FRA'],['BRA'],['FRG']
-64,1954,FRA,1,1,0,['MEX'],[],['YUG']
-65,1954,FRG,5,1,0,"['TUR', 'TUR', 'YUG', 'AUT', 'HUN']",[],['HUN']
-66,1954,TUR,1,2,0,['KOR'],[],"['FRG', 'FRG']"
-67,1954,HUN,4,1,0,"['KOR', 'FRG', 'BRA', 'URU']",[],['FRG']
-68,1954,KOR,0,2,0,[],[],"['HUN', 'TUR']"
-69,1954,ENG,1,1,1,['SUI'],['BEL'],['URU']
-70,1954,BEL,0,1,1,[],['ENG'],['ITA']
-71,1954,SUI,2,2,0,"['ITA', 'ITA']",[],"['ENG', 'AUT']"
-72,1954,ITA,1,2,0,['BEL'],[],"['SUI', 'SUI']"
-73,1958,SWE,4,1,1,"['MEX', 'HUN', 'URS', 'FRG']",['WAL'],['BRA']
-74,1958,MEX,0,2,1,[],['WAL'],"['SWE', 'HUN']"
-75,1958,URS,2,2,1,"['AUT', 'ENG']",['ENG'],"['BRA', 'SWE']"
-76,1958,ENG,0,1,3,[],"['URS', 'BRA', 'AUT']",['URS']
-77,1958,ARG,1,2,0,['NIR'],[],"['FRG', 'TCH']"
-78,1958,FRG,2,2,2,"['ARG', 'YUG']","['TCH', 'NIR']","['SWE', 'FRA']"
-79,1958,HUN,1,2,1,['MEX'],['WAL'],"['SWE', 'WAL']"
-80,1958,WAL,1,1,3,['HUN'],"['HUN', 'MEX', 'SWE']",['BRA']
-81,1958,FRA,4,2,0,"['PAR', 'SCO', 'NIR', 'FRG']",[],"['YUG', 'BRA']"
-82,1958,PAR,1,1,1,['SCO'],['YUG'],['FRA']
-83,1958,YUG,1,1,2,['FRA'],"['SCO', 'PAR']",['FRG']
-84,1958,SCO,0,2,1,[],['YUG'],"['PAR', 'FRA']"
-85,1958,BRA,5,0,1,"['AUT', 'URS', 'WAL', 'FRA', 'SWE']",['ENG'],[]
-86,1958,AUT,0,2,1,[],['ENG'],"['BRA', 'URS']"
-87,1958,NIR,2,2,1,"['TCH', 'TCH']",['FRG'],"['ARG', 'FRA']"
-88,1958,TCH,1,2,1,['ARG'],['FRG'],"['NIR', 'NIR']"
-89,1962,URU,1,2,0,['COL'],[],"['YUG', 'URS']"
-90,1962,COL,0,2,1,[],['URS'],"['URU', 'YUG']"
-91,1962,BRA,5,0,1,"['MEX', 'ESP', 'ENG', 'CHI', 'TCH']",['TCH'],[]
-92,1962,MEX,1,2,0,['TCH'],[],"['BRA', 'ESP']"
-93,1962,ARG,1,1,1,['BUL'],['HUN'],['ENG']
-94,1962,BUL,0,2,1,[],['ENG'],"['ARG', 'HUN']"
-95,1962,CHI,4,2,0,"['SUI', 'ITA', 'URS', 'YUG']",[],"['FRG', 'BRA']"
-96,1962,SUI,0,3,0,[],[],"['CHI', 'FRG', 'ITA']"
-97,1962,URS,2,1,1,"['YUG', 'URU']",['COL'],['CHI']
-98,1962,YUG,3,3,0,"['URU', 'COL', 'FRG']",[],"['URS', 'TCH', 'CHI']"
-99,1962,TCH,3,2,1,"['ESP', 'HUN', 'YUG']",['BRA'],"['MEX', 'BRA']"
-100,1962,ESP,1,2,0,['MEX'],[],"['TCH', 'BRA']"
-101,1962,HUN,2,1,1,"['ENG', 'BUL']",['ARG'],['TCH']
-102,1962,ENG,1,2,1,['ARG'],['BUL'],"['HUN', 'BRA']"
-103,1962,FRG,2,1,1,"['SUI', 'CHI']",['ITA'],['YUG']
-104,1962,ITA,1,1,1,['SUI'],['FRG'],['CHI']
-105,1966,ENG,5,0,1,"['MEX', 'FRA', 'ARG', 'POR', 'FRG']",['URU'],[]
-106,1966,URU,1,1,2,['FRA'],"['ENG', 'MEX']",['FRG']
-107,1966,FRG,4,1,1,"['SUI', 'ESP', 'URU', 'URS']",['ARG'],['ENG']
-108,1966,SUI,0,3,0,[],[],"['FRG', 'ESP', 'ARG']"
-109,1966,BRA,1,2,0,['BUL'],[],"['HUN', 'POR']"
-110,1966,BUL,0,3,0,[],[],"['BRA', 'POR', 'HUN']"
-111,1966,URS,4,2,0,"['PRK', 'ITA', 'CHI', 'HUN']",[],"['FRG', 'POR']"
-112,1966,PRK,1,2,1,['ITA'],['CHI'],"['URS', 'POR']"
-113,1966,FRA,0,2,1,[],['MEX'],"['URU', 'ENG']"
-114,1966,MEX,0,1,2,[],"['FRA', 'URU']",['ENG']
-115,1966,POR,5,1,0,"['HUN', 'BUL', 'BRA', 'PRK', 'URS']",[],['ENG']
-116,1966,HUN,2,2,0,"['BRA', 'BUL']",[],"['POR', 'URS']"
-117,1966,ARG,2,1,1,"['ESP', 'SUI']",['FRG'],['ENG']
-118,1966,ESP,1,2,0,['SUI'],[],"['ARG', 'FRG']"
-119,1966,ITA,1,2,0,['CHI'],[],"['URS', 'PRK']"
-120,1966,CHI,0,2,1,[],['PRK'],"['ITA', 'URS']"
-121,1970,MEX,2,1,1,"['SLV', 'BEL']",['URS'],['ITA']
-122,1970,URS,2,1,1,"['BEL', 'SLV']",['MEX'],['URU']
-123,1970,URU,2,3,1,"['ISR', 'URS']",['ITA'],"['SWE', 'BRA', 'FRG']"
-124,1970,ISR,0,1,2,[],"['SWE', 'ITA']",['URU']
-125,1970,PER,2,2,0,"['BUL', 'MAR']",[],"['FRG', 'BRA']"
-126,1970,BUL,0,2,1,[],['MAR'],"['PER', 'FRG']"
-127,1970,ENG,2,2,0,"['ROU', 'TCH']",[],"['BRA', 'FRG']"
-128,1970,ROU,1,2,0,['TCH'],[],"['ENG', 'BRA']"
-129,1970,ITA,3,1,2,"['SWE', 'MEX', 'FRG']","['URU', 'ISR']",['BRA']
-130,1970,SWE,1,1,1,['URU'],['ISR'],['ITA']
-131,1970,FRG,5,1,0,"['MAR', 'BUL', 'PER', 'ENG', 'URU']",[],['ITA']
-132,1970,MAR,0,2,1,[],['BUL'],"['FRG', 'PER']"
-133,1970,BRA,6,0,0,"['TCH', 'ENG', 'ROU', 'PER', 'URU', 'ITA']",[],[]
-134,1970,TCH,0,3,0,[],[],"['BRA', 'ROU', 'ENG']"
-135,1970,BEL,1,2,0,['SLV'],[],"['URS', 'MEX']"
-136,1970,SLV,0,3,0,[],[],"['BEL', 'MEX', 'URS']"
-137,1974,BRA,3,2,2,"['ZAI', 'GDR', 'ARG']","['YUG', 'SCO']","['NED', 'POL']"
-138,1974,YUG,1,3,2,['ZAI'],"['BRA', 'SCO']","['FRG', 'POL', 'SWE']"
-139,1974,FRG,6,1,0,"['CHI', 'AUS', 'YUG', 'SWE', 'POL', 'NED']",[],['GDR']
-140,1974,CHI,0,1,2,[],"['GDR', 'AUS']",['FRG']
-141,1974,GDR,2,2,2,"['AUS', 'FRG']","['CHI', 'ARG']","['BRA', 'NED']"
-142,1974,AUS,0,2,1,[],['CHI'],"['GDR', 'FRG']"
-143,1974,ZAI,0,3,0,[],[],"['SCO', 'YUG', 'BRA']"
-144,1974,SCO,1,0,2,['ZAI'],"['BRA', 'YUG']",[]
-145,1974,URU,0,2,1,[],['BUL'],"['NED', 'SWE']"
-146,1974,NED,5,1,1,"['URU', 'BUL', 'ARG', 'GDR', 'BRA']",['SWE'],['FRG']
-147,1974,SWE,2,2,2,"['URU', 'YUG']","['BUL', 'NED']","['POL', 'FRG']"
-148,1974,BUL,0,1,2,[],"['SWE', 'URU']",['NED']
-149,1974,ITA,1,1,1,['HAI'],['ARG'],['POL']
-150,1974,HAI,0,3,0,[],[],"['ITA', 'POL', 'ARG']"
-151,1974,POL,6,1,0,"['ARG', 'HAI', 'ITA', 'SWE', 'YUG', 'BRA']",[],['FRG']
-152,1974,ARG,1,3,2,['HAI'],"['ITA', 'GDR']","['POL', 'NED', 'BRA']"
-153,1978,FRG,1,1,4,['MEX'],"['POL', 'TUN', 'ITA', 'NED']",['AUT']
-154,1978,POL,3,2,1,"['TUN', 'MEX', 'PER']",['FRG'],"['ARG', 'BRA']"
-155,1978,ITA,4,2,1,"['FRA', 'HUN', 'ARG', 'AUT']",['FRG'],"['NED', 'BRA']"
-156,1978,FRA,1,2,0,['HUN'],[],"['ITA', 'ARG']"
-157,1978,TUN,1,1,1,['MEX'],['FRG'],['POL']
-158,1978,MEX,0,3,0,[],[],"['TUN', 'FRG', 'POL']"
-159,1978,ARG,5,1,1,"['HUN', 'FRA', 'POL', 'PER', 'NED']",['BRA'],['ITA']
-160,1978,HUN,0,3,0,[],[],"['ARG', 'ITA', 'FRA']"
-161,1978,SWE,0,2,1,[],['BRA'],"['AUT', 'ESP']"
-162,1978,BRA,4,0,3,"['AUT', 'PER', 'POL', 'ITA']","['SWE', 'ESP', 'ARG']",[]
-163,1978,AUT,3,3,0,"['ESP', 'SWE', 'FRG']",[],"['BRA', 'NED', 'ITA']"
-164,1978,ESP,1,1,1,['SWE'],['BRA'],['AUT']
-165,1978,PER,2,3,1,"['SCO', 'IRN']",['NED'],"['BRA', 'POL', 'ARG']"
-166,1978,SCO,1,1,1,['NED'],['IRN'],['PER']
-167,1978,NED,3,2,2,"['IRN', 'AUT', 'ITA']","['PER', 'FRG']","['SCO', 'ARG']"
-168,1978,IRN,0,2,1,[],['SCO'],"['NED', 'PER']"
-169,1982,ARG,2,3,0,"['HUN', 'SLV']",[],"['BEL', 'ITA', 'BRA']"
-170,1982,BEL,2,2,1,"['ARG', 'SLV']",['HUN'],"['POL', 'URS']"
-171,1982,ITA,4,0,3,"['ARG', 'BRA', 'POL', 'FRG']","['POL', 'PER', 'CMR']",[]
-172,1982,POL,3,1,3,"['PER', 'BEL', 'FRA']","['ITA', 'CMR', 'URS']",['ITA']
-173,1982,BRA,4,1,0,"['URS', 'SCO', 'NZL', 'ARG']",[],['ITA']
-174,1982,URS,2,1,2,"['NZL', 'BEL']","['SCO', 'POL']",['BRA']
-175,1982,PER,0,1,2,[],"['CMR', 'ITA']",['POL']
-176,1982,CMR,0,0,3,[],"['PER', 'POL', 'ITA']",[]
-177,1982,HUN,1,1,1,['SLV'],['BEL'],['ARG']
-178,1982,SLV,0,3,0,[],[],"['HUN', 'BEL', 'ARG']"
-179,1982,SCO,1,1,1,['NZL'],['URS'],['BRA']
-180,1982,NZL,0,3,0,[],[],"['SCO', 'URS', 'BRA']"
-181,1982,FRG,3,2,2,"['CHI', 'AUT', 'ESP']","['ENG', 'FRA']","['ALG', 'ITA']"
-182,1982,ALG,2,1,0,"['FRG', 'CHI']",[],['AUT']
-183,1982,ENG,3,0,2,"['FRA', 'TCH', 'KUW']","['FRG', 'ESP']",[]
-184,1982,FRA,3,2,2,"['KUW', 'AUT', 'NIR']","['TCH', 'FRG']","['ENG', 'POL']"
-185,1982,ESP,1,2,2,['YUG'],"['HON', 'ENG']","['NIR', 'FRG']"
-186,1982,HON,0,1,2,[],"['ESP', 'NIR']",['YUG']
-187,1982,CHI,0,3,0,[],[],"['AUT', 'FRG', 'ALG']"
-188,1982,AUT,2,2,1,"['CHI', 'ALG']",['NIR'],"['FRG', 'FRA']"
-189,1982,TCH,0,1,2,[],"['KUW', 'FRA']",['ENG']
-190,1982,KUW,0,2,1,[],['TCH'],"['FRA', 'ENG']"
-191,1982,YUG,1,1,1,['HON'],['NIR'],['ESP']
-192,1982,NIR,1,1,3,['ESP'],"['YUG', 'HON', 'AUT']",['FRA']
-193,1986,BUL,0,2,2,[],"['ITA', 'KOR']","['ARG', 'MEX']"
-194,1986,ITA,1,1,2,['KOR'],"['BUL', 'ARG']",['FRA']
-195,1986,CAN,0,3,0,[],[],"['FRA', 'HUN', 'URS']"
-196,1986,FRA,4,1,2,"['CAN', 'HUN', 'ITA', 'BEL']","['URS', 'BRA']",['FRG']
-197,1986,ESP,3,1,1,"['NIR', 'ALG', 'DEN']",['BEL'],['BRA']
-198,1986,BRA,4,0,1,"['ESP', 'ALG', 'NIR', 'POL']",['FRA'],[]
-199,1986,URS,2,1,1,"['HUN', 'CAN']",['FRA'],['BEL']
-200,1986,HUN,1,2,0,['CAN'],[],"['URS', 'FRA']"
-201,1986,ARG,6,0,1,"['KOR', 'BUL', 'URU', 'ENG', 'BEL', 'FRG']",['ITA'],[]
-202,1986,KOR,0,2,1,[],['BUL'],"['ARG', 'ITA']"
-203,1986,MAR,1,1,2,['POR'],"['POL', 'ENG']",['FRG']
-204,1986,POL,1,2,1,['POR'],['MAR'],"['ENG', 'BRA']"
-205,1986,ALG,0,2,1,[],['NIR'],"['BRA', 'ESP']"
-206,1986,NIR,0,2,1,[],['ALG'],"['ESP', 'BRA']"
-207,1986,BEL,2,3,2,"['IRQ', 'URS']","['PAR', 'ESP']","['MEX', 'ARG', 'FRA']"
-208,1986,MEX,3,0,2,"['BEL', 'IRQ', 'BUL']","['PAR', 'FRG']",[]
-209,1986,POR,1,2,0,['ENG'],[],"['POL', 'MAR']"
-210,1986,ENG,2,2,1,"['POL', 'PAR']",['MAR'],"['POR', 'ARG']"
-211,1986,PAR,1,1,2,['IRQ'],"['MEX', 'BEL']",['ENG']
-212,1986,IRQ,0,3,0,[],[],"['PAR', 'BEL', 'MEX']"
-213,1986,SCO,0,2,1,[],['URU'],"['DEN', 'FRG']"
-214,1986,DEN,3,1,0,"['SCO', 'URU', 'FRG']",[],['ESP']
-215,1986,URU,0,2,2,[],"['FRG', 'SCO']","['DEN', 'ARG']"
-216,1986,FRG,3,2,2,"['SCO', 'MAR', 'FRA']","['URU', 'MEX']","['DEN', 'ARG']"
-217,1990,ARG,2,2,3,"['URS', 'BRA']","['ROU', 'YUG', 'ITA']","['CMR', 'FRG']"
-218,1990,CMR,3,2,0,"['ARG', 'ROU', 'COL']",[],"['URS', 'ENG']"
-219,1990,URS,1,2,0,['CMR'],[],"['ROU', 'ARG']"
-220,1990,ROU,1,1,2,['URS'],"['ARG', 'IRL']",['CMR']
-221,1990,UAE,0,3,0,[],[],"['COL', 'FRG', 'YUG']"
-222,1990,COL,1,2,1,['UAE'],['FRG'],"['YUG', 'CMR']"
-223,1990,ITA,6,0,1,"['AUT', 'USA', 'TCH', 'URU', 'IRL', 'ENG']",['ARG'],[]
-224,1990,AUT,1,2,0,['USA'],[],"['ITA', 'TCH']"
-225,1990,USA,0,3,0,[],[],"['TCH', 'ITA', 'AUT']"
-226,1990,TCH,3,2,0,"['USA', 'AUT', 'CRC']",[],"['ITA', 'FRG']"
-227,1990,BRA,3,1,0,"['SWE', 'CRC', 'SCO']",[],['ARG']
-228,1990,SWE,0,3,0,[],[],"['BRA', 'SCO', 'CRC']"
-229,1990,FRG,5,0,2,"['YUG', 'UAE', 'NED', 'TCH', 'ARG']","['COL', 'ENG']",[]
-230,1990,YUG,3,1,1,"['COL', 'UAE', 'ESP']",['ARG'],['FRG']
-231,1990,CRC,2,2,0,"['SCO', 'SWE']",[],"['BRA', 'TCH']"
-232,1990,SCO,1,2,0,['SWE'],[],"['CRC', 'BRA']"
-233,1990,ENG,3,1,3,"['EGY', 'BEL', 'CMR']","['IRL', 'NED', 'FRG']",['ITA']
-234,1990,IRL,0,1,4,[],"['ENG', 'EGY', 'NED', 'ROU']",['ITA']
-235,1990,BEL,2,2,0,"['KOR', 'URU']",[],"['ESP', 'ENG']"
-236,1990,KOR,0,3,0,[],[],"['BEL', 'ESP', 'URU']"
-237,1990,NED,0,1,3,[],"['EGY', 'ENG', 'IRL']",['FRG']
-238,1990,EGY,0,1,2,[],"['NED', 'IRL']",['ENG']
-239,1990,URU,1,2,1,['KOR'],['ESP'],"['BEL', 'ITA']"
-240,1990,ESP,2,1,1,"['KOR', 'BEL']",['URU'],['YUG']
-241,1994,ESP,2,1,2,"['BOL', 'SUI']","['KOR', 'GER']",['ITA']
-242,1994,KOR,0,1,2,[],"['ESP', 'BOL']",['GER']
-243,1994,GER,3,1,1,"['BOL', 'KOR', 'BEL']",['ESP'],['BUL']
-244,1994,BOL,0,2,1,[],['KOR'],"['GER', 'ESP']"
-245,1994,USA,1,2,1,['COL'],['SUI'],"['ROU', 'BRA']"
-246,1994,SUI,1,2,1,['ROU'],['USA'],"['COL', 'ESP']"
-247,1994,ITA,4,1,2,"['NOR', 'NGA', 'ESP', 'BUL']","['MEX', 'BRA']",['IRL']
-248,1994,IRL,1,2,1,['ITA'],['NOR'],"['MEX', 'NED']"
-249,1994,COL,1,2,0,['SUI'],[],"['ROU', 'USA']"
-250,1994,ROU,3,1,1,"['COL', 'USA', 'ARG']",['SWE'],['SUI']
-251,1994,BEL,2,2,0,"['MAR', 'NED']",[],"['KSA', 'GER']"
-252,1994,MAR,0,3,0,[],[],"['BEL', 'KSA', 'NED']"
-253,1994,NOR,1,1,1,['MEX'],['IRL'],['ITA']
-254,1994,MEX,1,1,2,['IRL'],"['ITA', 'BUL']",['NOR']
-255,1994,CMR,0,2,1,[],['SWE'],"['BRA', 'RUS']"
-256,1994,SWE,3,1,3,"['RUS', 'KSA', 'BUL']","['CMR', 'BRA', 'ROU']",['BRA']
-257,1994,NED,3,2,0,"['KSA', 'MAR', 'IRL']",[],"['BEL', 'BRA']"
-258,1994,KSA,2,2,0,"['MAR', 'BEL']",[],"['NED', 'SWE']"
-259,1994,BRA,5,0,2,"['RUS', 'CMR', 'USA', 'NED', 'SWE']","['SWE', 'ITA']",[]
-260,1994,RUS,1,2,0,['CMR'],[],"['BRA', 'SWE']"
-261,1994,ARG,2,2,0,"['GRE', 'NGA']",[],"['BUL', 'ROU']"
-262,1994,GRE,0,3,0,[],[],"['ARG', 'BUL', 'NGA']"
-263,1994,NGA,2,2,0,"['BUL', 'GRE']",[],"['ARG', 'ITA']"
-264,1994,BUL,3,3,1,"['GRE', 'ARG', 'GER']",['MEX'],"['NGA', 'ITA', 'SWE']"
-265,1998,BRA,4,2,1,"['SCO', 'MAR', 'CHI', 'DEN']",['NED'],"['NOR', 'FRA']"
-266,1998,SCO,0,2,1,[],['NOR'],"['BRA', 'MAR']"
-267,1998,MAR,1,1,1,['SCO'],['NOR'],['BRA']
-268,1998,NOR,1,1,2,['BRA'],"['MAR', 'SCO']",['ITA']
-269,1998,ITA,3,0,2,"['CMR', 'AUT', 'NOR']","['CHI', 'FRA']",[]
-270,1998,CHI,0,1,3,[],"['ITA', 'AUT', 'CMR']",['BRA']
-271,1998,CMR,0,1,2,[],"['AUT', 'CHI']",['ITA']
-272,1998,AUT,0,1,2,[],"['CMR', 'CHI']",['ITA']
-273,1998,PAR,1,1,2,['NGA'],"['BUL', 'ESP']",['FRA']
-274,1998,BUL,0,2,1,[],['PAR'],"['NGA', 'ESP']"
-275,1998,KSA,0,2,1,[],['RSA'],"['DEN', 'FRA']"
-276,1998,DEN,2,2,1,"['KSA', 'NGA']",['RSA'],"['FRA', 'BRA']"
-277,1998,FRA,6,0,1,"['RSA', 'KSA', 'DEN', 'PAR', 'CRO', 'BRA']",['ITA'],[]
-278,1998,RSA,0,1,2,[],"['DEN', 'KSA']",['FRA']
-279,1998,ESP,1,1,1,['BUL'],['PAR'],['NGA']
-280,1998,NGA,2,2,0,"['ESP', 'BUL']",[],"['PAR', 'DEN']"
-281,1998,KOR,0,2,1,[],['BEL'],"['MEX', 'NED']"
-282,1998,MEX,1,1,2,['KOR'],"['BEL', 'NED']",['GER']
-283,1998,NED,3,1,3,"['KOR', 'YUG', 'ARG']","['BEL', 'MEX', 'BRA']",['CRO']
-284,1998,BEL,0,0,3,[],"['NED', 'MEX', 'KOR']",[]
-285,1998,ARG,3,1,1,"['JPN', 'JAM', 'CRO']",['ENG'],['NED']
-286,1998,JPN,0,3,0,[],[],"['ARG', 'CRO', 'JAM']"
-287,1998,YUG,2,1,1,"['IRN', 'USA']",['GER'],['NED']
-288,1998,IRN,1,2,0,['USA'],[],"['YUG', 'GER']"
-289,1998,JAM,1,2,0,['JPN'],[],"['CRO', 'ARG']"
-290,1998,CRO,5,2,0,"['JAM', 'JPN', 'ROU', 'GER', 'NED']",[],"['ARG', 'FRA']"
-291,1998,ENG,2,1,1,"['TUN', 'COL']",['ARG'],['ROU']
-292,1998,TUN,0,2,1,[],['ROU'],"['ENG', 'COL']"
-293,1998,ROU,2,1,1,"['COL', 'ENG']",['TUN'],['CRO']
-294,1998,COL,1,2,0,['TUN'],[],"['ROU', 'ENG']"
-295,1998,GER,3,1,1,"['USA', 'IRN', 'MEX']",['YUG'],['CRO']
-296,1998,USA,0,3,0,[],[],"['GER', 'IRN', 'YUG']"
-297,2002,FRA,0,2,1,[],['URU'],"['SEN', 'DEN']"
-298,2002,SEN,2,1,2,"['FRA', 'SWE']","['DEN', 'URU']",['TUR']
-299,2002,URU,0,1,2,[],"['FRA', 'SEN']",['DEN']
-300,2002,DEN,2,1,1,"['URU', 'FRA']",['SEN'],['ENG']
-301,2002,IRL,1,0,3,['KSA'],"['CMR', 'GER', 'ESP']",[]
-302,2002,CMR,1,1,1,['KSA'],['IRL'],['GER']
-303,2002,GER,5,1,1,"['KSA', 'CMR', 'PAR', 'USA', 'KOR']",['IRL'],['BRA']
-304,2002,KSA,0,3,0,[],[],"['GER', 'CMR', 'IRL']"
-305,2002,ARG,1,1,1,['NGA'],['SWE'],['ENG']
-306,2002,NGA,0,2,1,[],['ENG'],"['ARG', 'SWE']"
-307,2002,PAR,1,2,1,['SVN'],['RSA'],"['ESP', 'GER']"
-308,2002,RSA,1,1,1,['SVN'],['PAR'],['ESP']
-309,2002,ENG,2,1,2,"['ARG', 'DEN']","['SWE', 'NGA']",['BRA']
-310,2002,SWE,1,1,2,['NGA'],"['ENG', 'ARG']",['SEN']
-311,2002,ESP,3,0,2,"['SVN', 'PAR', 'RSA']","['IRL', 'KOR']",[]
-312,2002,SVN,0,3,0,[],[],"['ESP', 'RSA', 'PAR']"
-313,2002,BRA,7,0,0,"['TUR', 'CHN', 'CRC', 'BEL', 'ENG', 'TUR', 'GER']",[],[]
-314,2002,TUR,4,2,1,"['CHN', 'JPN', 'SEN', 'KOR']",['CRC'],"['BRA', 'BRA']"
-315,2002,ITA,1,2,1,['ECU'],['MEX'],"['CRO', 'KOR']"
-316,2002,ECU,1,2,0,['CRO'],[],"['ITA', 'MEX']"
-317,2002,CRO,1,2,0,['ITA'],[],"['MEX', 'ECU']"
-318,2002,MEX,2,1,1,"['CRO', 'ECU']",['ITA'],['USA']
-319,2002,CHN,0,3,0,[],[],"['CRC', 'BRA', 'TUR']"
-320,2002,CRC,1,1,1,['CHN'],['TUR'],['BRA']
-321,2002,JPN,2,1,1,"['RUS', 'TUN']",['BEL'],['TUR']
-322,2002,BEL,1,1,2,['RUS'],"['JPN', 'TUN']",['BRA']
-323,2002,KOR,3,2,2,"['POL', 'POR', 'ITA']","['USA', 'ESP']","['GER', 'TUR']"
-324,2002,POL,1,2,0,['USA'],[],"['KOR', 'POR']"
-325,2002,RUS,1,2,0,['TUN'],[],"['JPN', 'BEL']"
-326,2002,TUN,0,2,1,[],['BEL'],"['RUS', 'JPN']"
-327,2002,USA,2,2,1,"['POR', 'MEX']",['KOR'],"['POL', 'GER']"
-328,2002,POR,1,2,0,['POL'],[],"['USA', 'KOR']"
-329,2006,GER,5,1,1,"['CRC', 'POL', 'ECU', 'SWE', 'POR']",['ARG'],['ITA']
-330,2006,CRC,0,3,0,[],[],"['GER', 'ECU', 'POL']"
-331,2006,POL,1,2,0,['CRC'],[],"['ECU', 'GER']"
-332,2006,ECU,2,2,0,"['POL', 'CRC']",[],"['GER', 'ENG']"
-333,2006,ENG,3,0,2,"['PAR', 'TRI', 'ECU']","['SWE', 'POR']",[]
-334,2006,PAR,1,2,0,['TRI'],[],"['ENG', 'SWE']"
-335,2006,TRI,0,2,1,[],['SWE'],"['ENG', 'PAR']"
-336,2006,SWE,1,1,2,['PAR'],"['TRI', 'ENG']",['GER']
-337,2006,ARG,3,0,2,"['CIV', 'SCG', 'MEX']","['NED', 'GER']",[]
-338,2006,CIV,1,2,0,['SCG'],[],"['ARG', 'NED']"
-339,2006,SCG,0,3,0,[],[],"['NED', 'ARG', 'CIV']"
-340,2006,NED,2,1,1,"['SCG', 'CIV']",['ARG'],['POR']
-341,2006,MEX,1,2,1,['IRN'],['ANG'],"['POR', 'ARG']"
-342,2006,IRN,0,2,1,[],['ANG'],"['MEX', 'POR']"
-343,2006,ANG,0,1,2,[],"['MEX', 'IRN']",['POR']
-344,2006,POR,4,2,1,"['ANG', 'IRN', 'MEX', 'NED']",['ENG'],"['FRA', 'GER']"
-345,2006,AUS,1,2,1,['JPN'],['CRO'],"['BRA', 'ITA']"
-346,2006,JPN,0,2,1,[],['CRO'],"['AUS', 'BRA']"
-347,2006,USA,0,2,1,[],['ITA'],"['CZE', 'GHA']"
-348,2006,CZE,1,2,0,['USA'],[],"['GHA', 'ITA']"
-349,2006,ITA,5,0,2,"['GHA', 'CZE', 'AUS', 'UKR', 'GER']","['USA', 'FRA']",[]
-350,2006,GHA,2,2,0,"['CZE', 'USA']",[],"['ITA', 'BRA']"
-351,2006,KOR,1,1,1,['TOG'],['FRA'],['SUI']
-352,2006,TOG,0,3,0,[],[],"['KOR', 'SUI', 'FRA']"
-353,2006,FRA,4,0,3,"['TOG', 'ESP', 'BRA', 'POR']","['SUI', 'KOR', 'ITA']",[]
-354,2006,SUI,2,0,2,"['TOG', 'KOR']","['FRA', 'UKR']",[]
-355,2006,BRA,4,1,0,"['CRO', 'AUS', 'JPN', 'GHA']",[],['FRA']
-356,2006,CRO,0,1,2,[],"['JPN', 'AUS']",['BRA']
-357,2006,ESP,3,1,0,"['UKR', 'TUN', 'KSA']",[],['FRA']
-358,2006,UKR,2,2,1,"['KSA', 'TUN']",['SUI'],"['ESP', 'ITA']"
-359,2006,TUN,0,2,1,[],['KSA'],"['ESP', 'UKR']"
-360,2006,KSA,0,2,1,[],['TUN'],"['UKR', 'ESP']"
-361,2010,RSA,1,1,1,['FRA'],['MEX'],['URU']
-362,2010,MEX,1,2,1,['FRA'],['RSA'],"['URU', 'ARG']"
-363,2010,URU,3,2,2,"['RSA', 'MEX', 'KOR']","['FRA', 'GHA']","['NED', 'GER']"
-364,2010,FRA,0,2,1,[],['URU'],"['MEX', 'RSA']"
-365,2010,KOR,1,2,1,['GRE'],['NGA'],"['ARG', 'URU']"
-366,2010,GRE,1,2,0,['NGA'],[],"['KOR', 'ARG']"
-367,2010,ARG,4,1,0,"['NGA', 'KOR', 'GRE', 'MEX']",[],['GER']
-368,2010,NGA,0,2,1,[],['KOR'],"['ARG', 'GRE']"
-369,2010,ENG,1,1,2,['SVN'],"['USA', 'ALG']",['GER']
-370,2010,USA,1,1,2,['ALG'],"['ENG', 'SVN']",['GHA']
-371,2010,ALG,0,2,1,[],['ENG'],"['SVN', 'USA']"
-372,2010,SVN,1,1,1,['ALG'],['USA'],['ENG']
-373,2010,SRB,1,2,0,['GER'],[],"['GHA', 'AUS']"
-374,2010,GHA,2,1,2,"['SRB', 'USA']","['AUS', 'URU']",['GER']
-375,2010,GER,5,2,0,"['AUS', 'GHA', 'ENG', 'ARG', 'URU']",[],"['SRB', 'ESP']"
-376,2010,AUS,1,1,1,['SRB'],['GHA'],['GER']
-377,2010,NED,6,1,0,"['DEN', 'JPN', 'CMR', 'SVK', 'BRA', 'URU']",[],['ESP']
-378,2010,DEN,1,2,0,['CMR'],[],"['NED', 'JPN']"
-379,2010,JPN,2,1,1,"['CMR', 'DEN']",['PAR'],['NED']
-380,2010,CMR,0,3,0,[],[],"['JPN', 'DEN', 'NED']"
-381,2010,ITA,0,1,2,[],"['PAR', 'NZL']",['SVK']
-382,2010,PAR,1,1,3,['SVK'],"['ITA', 'NZL', 'JPN']",['ESP']
-383,2010,NZL,0,0,3,[],"['SVK', 'ITA', 'PAR']",[]
-384,2010,SVK,1,2,1,['ITA'],['NZL'],"['PAR', 'NED']"
-385,2010,CIV,1,1,1,['PRK'],['POR'],['BRA']
-386,2010,POR,1,1,2,['PRK'],"['CIV', 'BRA']",['ESP']
-387,2010,BRA,3,1,1,"['PRK', 'CIV', 'CHI']",['POR'],['NED']
-388,2010,PRK,0,3,0,[],[],"['BRA', 'POR', 'CIV']"
-389,2010,HON,0,2,1,[],['SUI'],"['CHI', 'ESP']"
-390,2010,CHI,2,2,0,"['HON', 'SUI']",[],"['ESP', 'BRA']"
-391,2010,ESP,6,1,0,"['HON', 'CHI', 'POR', 'PAR', 'GER', 'NED']",[],['SUI']
-392,2010,SUI,1,1,1,['ESP'],['HON'],['CHI']
-393,2014,BRA,4,4,3,"['CRO', 'CMR', 'COL', 'COL']","['MEX', 'CHI', 'CHI']","['GER', 'NED', 'GER', 'NED']"
-394,2014,CRO,1,2,0,['CMR'],[],"['BRA', 'MEX']"
-395,2014,MEX,2,2,1,"['CMR', 'CRO']",['BRA'],"['NED', 'NED']"
-396,2014,CMR,0,3,0,[],[],"['MEX', 'CRO', 'BRA']"
-397,2014,ESP,1,2,0,['AUS'],[],"['NED', 'CHI']"
-398,2014,NED,7,0,4,"['ESP', 'AUS', 'CHI', 'BRA', 'MEX', 'MEX', 'BRA']","['ARG', 'CRC', 'CRC', 'ARG']",[]
-399,2014,CHI,2,1,2,"['AUS', 'ESP']","['BRA', 'BRA']",['NED']
-400,2014,AUS,0,3,0,[],[],"['CHI', 'NED', 'ESP']"
-401,2014,COL,5,2,0,"['GRE', 'CIV', 'JPN', 'URU', 'URU']",[],"['BRA', 'BRA']"
-402,2014,GRE,1,1,3,['CIV'],"['JPN', 'CRC', 'CRC']",['COL']
-403,2014,URU,2,3,0,"['ENG', 'ITA']",[],"['CRC', 'COL', 'COL']"
-404,2014,CRC,2,0,5,"['URU', 'ITA']","['ENG', 'NED', 'GRE', 'GRE', 'NED']",[]
-405,2014,ENG,0,2,1,[],['CRC'],"['ITA', 'URU']"
-406,2014,ITA,1,2,0,['ENG'],[],"['CRC', 'URU']"
-407,2014,CIV,1,2,0,['JPN'],[],"['COL', 'GRE']"
-408,2014,JPN,0,2,1,[],['GRE'],"['CIV', 'COL']"
-409,2014,SUI,2,3,0,"['ECU', 'HON']",[],"['FRA', 'ARG', 'ARG']"
-410,2014,ECU,1,1,1,['HON'],['FRA'],['SUI']
-411,2014,FRA,4,2,1,"['HON', 'SUI', 'NGA', 'NGA']",['ECU'],"['GER', 'GER']"
-412,2014,HON,0,3,0,[],[],"['FRA', 'ECU', 'SUI']"
-413,2014,ARG,7,2,2,"['BIH', 'IRN', 'NGA', 'BEL', 'SUI', 'SUI', 'BEL']","['NED', 'NED']","['GER', 'GER']"
-414,2014,BIH,1,2,0,['IRN'],[],"['ARG', 'NGA']"
-415,2014,GER,10,0,1,"['POR', 'USA', 'ALG', 'FRA', 'BRA', 'ARG', 'ALG', 'FRA', 'BRA', 'ARG']",['GHA'],[]
-416,2014,POR,1,1,1,['GHA'],['USA'],['GER']
-417,2014,IRN,0,2,1,[],['NGA'],"['ARG', 'BIH']"
-418,2014,NGA,1,3,1,['BIH'],['IRN'],"['ARG', 'FRA', 'FRA']"
-419,2014,GHA,0,2,1,[],['GER'],"['USA', 'POR']"
-420,2014,USA,1,3,1,['GHA'],['POR'],"['GER', 'BEL', 'BEL']"
-421,2014,BEL,5,2,0,"['ALG', 'RUS', 'KOR', 'USA', 'USA']",[],"['ARG', 'ARG']"
-422,2014,ALG,1,3,1,['KOR'],['RUS'],"['BEL', 'GER', 'GER']"
-423,2014,RUS,0,1,2,[],"['KOR', 'ALG']",['BEL']
-424,2014,KOR,0,2,1,[],['RUS'],"['ALG', 'BEL']"
-425,2018,RUS,2,1,2,"['SAU', 'EGY']","['ESP', 'HRV']",['URY']
-426,2018,SAU,1,2,0,['EGY'],[],"['RUS', 'URY']"
-427,2018,EGY,0,3,0,[],[],"['URY', 'RUS', 'SAU']"
-428,2018,URY,4,1,0,"['EGY', 'SAU', 'RUS', 'PRT']",[],['FRA']
-429,2018,MAR,0,2,1,[],['ESP'],"['IRN', 'PRT']"
-430,2018,IRN,1,1,1,['MAR'],['PRT'],['ESP']
-431,2018,PRT,1,1,2,['MAR'],"['ESP', 'IRN']",['URY']
-432,2018,ESP,1,0,3,['IRN'],"['PRT', 'MAR', 'RUS']",[]
-433,2018,FRA,5,1,1,"['AUS', 'PER', 'ARG', 'URY', 'BEL']",['DNK'],['HRV']
-434,2018,AUS,0,2,1,[],['DNK'],"['FRA', 'PER']"
-435,2018,ARG,1,2,1,['NGA'],['ISL'],"['HRV', 'FRA']"
-436,2018,ISL,0,2,1,[],['ARG'],"['NGA', 'HRV']"
-437,2018,PER,1,2,0,['AUS'],[],"['DNK', 'FRA']"
-438,2018,DNK,1,0,3,['PER'],"['AUS', 'FRA', 'HRV']",[]
-439,2018,HRV,5,0,2,"['NGA', 'ARG', 'ISL', 'GBR', 'FRA']","['DNK', 'RUS']",[]
-440,2018,NGA,1,2,0,['ISL'],[],"['HRV', 'ARG']"
-441,2018,CRI,0,2,1,[],['CHE'],"['SRB', 'BRA']"
-442,2018,SRB,1,2,0,['CRI'],[],"['CHE', 'BRA']"
-443,2018,DEU,1,2,0,['SWE'],[],"['MEX', 'KOR']"
-444,2018,MEX,2,2,0,"['DEU', 'KOR']",[],"['SWE', 'BRA']"
-445,2018,BRA,3,1,1,"['CRI', 'SRB', 'MEX']",['CHE'],['BEL']
-446,2018,CHE,1,1,2,['SRB'],"['BRA', 'CRI']",['SWE']
-447,2018,SWE,3,2,0,"['KOR', 'MEX', 'CHE']",[],"['DEU', 'GBR']"
-448,2018,KOR,1,2,0,['DEU'],[],"['SWE', 'MEX']"
-449,2018,BEL,6,1,0,"['PAN', 'TUN', 'GBR', 'JPN', 'BRA', 'GBR']",[],['FRA']
-450,2018,PAN,0,3,0,[],[],"['BEL', 'GBR', 'TUN']"
-451,2018,TUN,1,2,0,['PAN'],[],"['GBR', 'BEL']"
-452,2018,GBR,3,3,1,"['TUN', 'PAN', 'SWE']",['COL'],"['BEL', 'HRV', 'BEL']"
-453,2018,COL,2,1,1,"['POL', 'SEN']",['GBR'],['JPN']
-454,2018,JPN,1,2,1,['COL'],['SEN'],"['POL', 'BEL']"
-455,2018,POL,1,2,0,['JPN'],[],"['SEN', 'COL']"
-456,2018,SEN,1,1,1,['POL'],['JPN'],['COL']
+0,1930,France,1,2,0,['Mexico'],[],"['Argentina', 'Chile']"
+1,1930,Mexico,0,3,0,[],[],"['France', 'Chile', 'Argentina']"
+2,1930,USA,2,1,0,"['Belgium', 'Paraguay']",[],['Argentina']
+3,1930,Belgium,0,2,0,[],[],"['USA', 'Paraguay']"
+4,1930,Yugoslavia,2,1,0,"['Brazil', 'Bolivia']",[],['Uruguay']
+5,1930,Brazil,1,1,0,['Bolivia'],[],['Yugoslavia']
+6,1930,Romania,1,1,0,['Peru'],[],['Uruguay']
+7,1930,Peru,0,2,0,[],[],"['Romania', 'Uruguay']"
+8,1930,Argentina,4,1,0,"['France', 'Mexico', 'Chile', 'USA']",[],['Uruguay']
+9,1930,Chile,2,1,0,"['Mexico', 'France']",[],['Argentina']
+10,1930,Bolivia,0,2,0,[],[],"['Yugoslavia', 'Brazil']"
+11,1930,Paraguay,1,1,0,['Belgium'],[],['USA']
+12,1930,Uruguay,4,0,0,"['Peru', 'Romania', 'Yugoslavia', 'Argentina']",[],[]
+13,1934,Austria,2,2,0,"['France', 'Hungary']",[],"['Italy', 'Germany']"
+14,1934,France,0,1,0,[],[],['Austria']
+15,1934,Hungary,1,1,0,['Egypt'],[],['Austria']
+16,1934,Egypt,0,1,0,[],[],['Hungary']
+17,1934,Switzerland,1,1,0,['Netherlands'],[],['Czechoslovakia']
+18,1934,Netherlands,0,1,0,[],[],['Switzerland']
+19,1934,Sweden,1,1,0,['Argentina'],[],['Germany']
+20,1934,Argentina,0,1,0,[],[],['Sweden']
+21,1934,Germany,3,1,0,"['Belgium', 'Sweden', 'Austria']",[],['Czechoslovakia']
+22,1934,Belgium,0,1,0,[],[],['Germany']
+23,1934,Spain,1,1,1,['Brazil'],['Italy'],['Italy']
+24,1934,Brazil,0,1,0,[],[],['Spain']
+25,1934,Italy,4,0,1,"['USA', 'Spain', 'Austria', 'Czechoslovakia']",['Spain'],[]
+26,1934,USA,0,1,0,[],[],['Italy']
+27,1934,Czechoslovakia,3,1,0,"['Romania', 'Switzerland', 'Germany']",[],['Italy']
+28,1934,Romania,0,1,0,[],[],['Czechoslovakia']
+29,1938,Switzerland,1,1,1,['Germany'],['Germany'],['Hungary']
+30,1938,Germany,0,1,1,[],['Switzerland'],['Switzerland']
+31,1938,Hungary,3,1,0,"['Dutch East Indies', 'Switzerland', 'Sweden']",[],['Italy']
+32,1938,Dutch East Indies,0,1,0,[],[],['Hungary']
+33,1938,France,1,1,0,['Belgium'],[],['Italy']
+34,1938,Belgium,0,1,0,[],[],['France']
+35,1938,Cuba,1,1,1,['Romania'],['Romania'],['Sweden']
+36,1938,Romania,0,1,1,[],['Cuba'],['Cuba']
+37,1938,Italy,4,0,0,"['Norway', 'France', 'Brazil', 'Hungary']",[],[]
+38,1938,Norway,0,1,0,[],[],['Italy']
+39,1938,Brazil,3,1,1,"['Poland', 'Czechoslovakia', 'Sweden']",['Czechoslovakia'],['Italy']
+40,1938,Poland,0,1,0,[],[],['Brazil']
+41,1938,Czechoslovakia,1,1,1,['Netherlands'],['Brazil'],['Brazil']
+42,1938,Netherlands,0,1,0,[],[],['Czechoslovakia']
+43,1938,Sweden,1,2,0,['Cuba'],[],"['Hungary', 'Brazil']"
+44,1950,Brazil,4,1,1,"['Mexico', 'Yugoslavia', 'Sweden', 'Spain']",['Switzerland'],['Uruguay']
+45,1950,Mexico,0,3,0,[],[],"['Brazil', 'Yugoslavia', 'Switzerland']"
+46,1950,England,1,2,0,['Chile'],[],"['USA', 'Spain']"
+47,1950,Chile,1,2,0,['USA'],[],"['England', 'Spain']"
+48,1950,Spain,3,2,1,"['USA', 'Chile', 'England']",['Uruguay'],"['Brazil', 'Sweden']"
+49,1950,USA,1,2,0,['England'],[],"['Spain', 'Chile']"
+50,1950,Sweden,2,2,1,"['Italy', 'Spain']",['Paraguay'],"['Brazil', 'Uruguay']"
+51,1950,Italy,1,1,0,['Paraguay'],[],['Sweden']
+52,1950,Yugoslavia,2,1,0,"['Switzerland', 'Mexico']",[],['Brazil']
+53,1950,Switzerland,1,1,1,['Mexico'],['Brazil'],['Yugoslavia']
+54,1950,Paraguay,0,1,1,[],['Sweden'],['Italy']
+55,1950,Uruguay,3,0,1,"['Bolivia', 'Sweden', 'Brazil']",['Spain'],[]
+56,1950,Bolivia,0,1,0,[],[],['Uruguay']
+57,1954,Uruguay,3,2,0,"['Czechoslovakia', 'Scotland', 'England']",[],"['Hungary', 'Austria']"
+58,1954,Czechoslovakia,0,2,0,[],[],"['Uruguay', 'Austria']"
+59,1954,Austria,4,1,0,"['Scotland', 'Czechoslovakia', 'Switzerland', 'Uruguay']",[],['Germany FR']
+60,1954,Scotland,0,2,0,[],[],"['Austria', 'Uruguay']"
+61,1954,Brazil,1,1,1,['Mexico'],['Yugoslavia'],['Hungary']
+62,1954,Mexico,0,2,0,[],[],"['Brazil', 'France']"
+63,1954,Yugoslavia,1,1,1,['France'],['Brazil'],['Germany FR']
+64,1954,France,1,1,0,['Mexico'],[],['Yugoslavia']
+65,1954,Germany FR,5,1,0,"['Turkey', 'Turkey', 'Yugoslavia', 'Austria', 'Hungary']",[],['Hungary']
+66,1954,Turkey,1,2,0,['Korea Republic'],[],"['Germany FR', 'Germany FR']"
+67,1954,Hungary,4,1,0,"['Korea Republic', 'Germany FR', 'Brazil', 'Uruguay']",[],['Germany FR']
+68,1954,Korea Republic,0,2,0,[],[],"['Hungary', 'Turkey']"
+69,1954,England,1,1,1,['Switzerland'],['Belgium'],['Uruguay']
+70,1954,Belgium,0,1,1,[],['England'],['Italy']
+71,1954,Switzerland,2,2,0,"['Italy', 'Italy']",[],"['England', 'Austria']"
+72,1954,Italy,1,2,0,['Belgium'],[],"['Switzerland', 'Switzerland']"
+73,1958,Sweden,4,1,1,"['Mexico', 'Hungary', 'Soviet Union', 'Germany FR']",['Wales'],['Brazil']
+74,1958,Mexico,0,2,1,[],['Wales'],"['Sweden', 'Hungary']"
+75,1958,Soviet Union,2,2,1,"['Austria', 'England']",['England'],"['Brazil', 'Sweden']"
+76,1958,England,0,1,3,[],"['Soviet Union', 'Brazil', 'Austria']",['Soviet Union']
+77,1958,Argentina,1,2,0,['Northern Ireland'],[],"['Germany FR', 'Czechoslovakia']"
+78,1958,Germany FR,2,2,2,"['Argentina', 'Yugoslavia']","['Czechoslovakia', 'Northern Ireland']","['Sweden', 'France']"
+79,1958,Hungary,1,2,1,['Mexico'],['Wales'],"['Sweden', 'Wales']"
+80,1958,Wales,1,1,3,['Hungary'],"['Hungary', 'Mexico', 'Sweden']",['Brazil']
+81,1958,France,4,2,0,"['Paraguay', 'Scotland', 'Northern Ireland', 'Germany FR']",[],"['Yugoslavia', 'Brazil']"
+82,1958,Paraguay,1,1,1,['Scotland'],['Yugoslavia'],['France']
+83,1958,Yugoslavia,1,1,2,['France'],"['Scotland', 'Paraguay']",['Germany FR']
+84,1958,Scotland,0,2,1,[],['Yugoslavia'],"['Paraguay', 'France']"
+85,1958,Brazil,5,0,1,"['Austria', 'Soviet Union', 'Wales', 'France', 'Sweden']",['England'],[]
+86,1958,Austria,0,2,1,[],['England'],"['Brazil', 'Soviet Union']"
+87,1958,Northern Ireland,2,2,1,"['Czechoslovakia', 'Czechoslovakia']",['Germany FR'],"['Argentina', 'France']"
+88,1958,Czechoslovakia,1,2,1,['Argentina'],['Germany FR'],"['Northern Ireland', 'Northern Ireland']"
+89,1962,Uruguay,1,2,0,['Colombia'],[],"['Yugoslavia', 'Soviet Union']"
+90,1962,Colombia,0,2,1,[],['Soviet Union'],"['Uruguay', 'Yugoslavia']"
+91,1962,Brazil,5,0,1,"['Mexico', 'Spain', 'England', 'Chile', 'Czechoslovakia']",['Czechoslovakia'],[]
+92,1962,Mexico,1,2,0,['Czechoslovakia'],[],"['Brazil', 'Spain']"
+93,1962,Argentina,1,1,1,['Bulgaria'],['Hungary'],['England']
+94,1962,Bulgaria,0,2,1,[],['England'],"['Argentina', 'Hungary']"
+95,1962,Chile,4,2,0,"['Switzerland', 'Italy', 'Soviet Union', 'Yugoslavia']",[],"['Germany FR', 'Brazil']"
+96,1962,Switzerland,0,3,0,[],[],"['Chile', 'Germany FR', 'Italy']"
+97,1962,Soviet Union,2,1,1,"['Yugoslavia', 'Uruguay']",['Colombia'],['Chile']
+98,1962,Yugoslavia,3,3,0,"['Uruguay', 'Colombia', 'Germany FR']",[],"['Soviet Union', 'Czechoslovakia', 'Chile']"
+99,1962,Czechoslovakia,3,2,1,"['Spain', 'Hungary', 'Yugoslavia']",['Brazil'],"['Mexico', 'Brazil']"
+100,1962,Spain,1,2,0,['Mexico'],[],"['Czechoslovakia', 'Brazil']"
+101,1962,Hungary,2,1,1,"['England', 'Bulgaria']",['Argentina'],['Czechoslovakia']
+102,1962,England,1,2,1,['Argentina'],['Bulgaria'],"['Hungary', 'Brazil']"
+103,1962,Germany FR,2,1,1,"['Switzerland', 'Chile']",['Italy'],['Yugoslavia']
+104,1962,Italy,1,1,1,['Switzerland'],['Germany FR'],['Chile']
+105,1966,England,5,0,1,"['Mexico', 'France', 'Argentina', 'Portugal', 'Germany FR']",['Uruguay'],[]
+106,1966,Uruguay,1,1,2,['France'],"['England', 'Mexico']",['Germany FR']
+107,1966,Germany FR,4,1,1,"['Switzerland', 'Spain', 'Uruguay', 'Soviet Union']",['Argentina'],['England']
+108,1966,Switzerland,0,3,0,[],[],"['Germany FR', 'Spain', 'Argentina']"
+109,1966,Brazil,1,2,0,['Bulgaria'],[],"['Hungary', 'Portugal']"
+110,1966,Bulgaria,0,3,0,[],[],"['Brazil', 'Portugal', 'Hungary']"
+111,1966,Soviet Union,4,2,0,"['Korea DPR', 'Italy', 'Chile', 'Hungary']",[],"['Germany FR', 'Portugal']"
+112,1966,Korea DPR,1,2,1,['Italy'],['Chile'],"['Soviet Union', 'Portugal']"
+113,1966,France,0,2,1,[],['Mexico'],"['Uruguay', 'England']"
+114,1966,Mexico,0,1,2,[],"['France', 'Uruguay']",['England']
+115,1966,Portugal,5,1,0,"['Hungary', 'Bulgaria', 'Brazil', 'Korea DPR', 'Soviet Union']",[],['England']
+116,1966,Hungary,2,2,0,"['Brazil', 'Bulgaria']",[],"['Portugal', 'Soviet Union']"
+117,1966,Argentina,2,1,1,"['Spain', 'Switzerland']",['Germany FR'],['England']
+118,1966,Spain,1,2,0,['Switzerland'],[],"['Argentina', 'Germany FR']"
+119,1966,Italy,1,2,0,['Chile'],[],"['Soviet Union', 'Korea DPR']"
+120,1966,Chile,0,2,1,[],['Korea DPR'],"['Italy', 'Soviet Union']"
+121,1970,Mexico,2,1,1,"['El Salvador', 'Belgium']",['Soviet Union'],['Italy']
+122,1970,Soviet Union,2,1,1,"['Belgium', 'El Salvador']",['Mexico'],['Uruguay']
+123,1970,Uruguay,2,3,1,"['Israel', 'Soviet Union']",['Italy'],"['Sweden', 'Brazil', 'Germany FR']"
+124,1970,Israel,0,1,2,[],"['Sweden', 'Italy']",['Uruguay']
+125,1970,Peru,2,2,0,"['Bulgaria', 'Morocco']",[],"['Germany FR', 'Brazil']"
+126,1970,Bulgaria,0,2,1,[],['Morocco'],"['Peru', 'Germany FR']"
+127,1970,England,2,2,0,"['Romania', 'Czechoslovakia']",[],"['Brazil', 'Germany FR']"
+128,1970,Romania,1,2,0,['Czechoslovakia'],[],"['England', 'Brazil']"
+129,1970,Italy,3,1,2,"['Sweden', 'Mexico', 'Germany FR']","['Uruguay', 'Israel']",['Brazil']
+130,1970,Sweden,1,1,1,['Uruguay'],['Israel'],['Italy']
+131,1970,Germany FR,5,1,0,"['Morocco', 'Bulgaria', 'Peru', 'England', 'Uruguay']",[],['Italy']
+132,1970,Morocco,0,2,1,[],['Bulgaria'],"['Germany FR', 'Peru']"
+133,1970,Brazil,6,0,0,"['Czechoslovakia', 'England', 'Romania', 'Peru', 'Uruguay', 'Italy']",[],[]
+134,1970,Czechoslovakia,0,3,0,[],[],"['Brazil', 'Romania', 'England']"
+135,1970,Belgium,1,2,0,['El Salvador'],[],"['Soviet Union', 'Mexico']"
+136,1970,El Salvador,0,3,0,[],[],"['Belgium', 'Mexico', 'Soviet Union']"
+137,1974,Brazil,3,2,2,"['Zaire', 'German DR', 'Argentina']","['Yugoslavia', 'Scotland']","['Netherlands', 'Poland']"
+138,1974,Yugoslavia,1,3,2,['Zaire'],"['Brazil', 'Scotland']","['Germany FR', 'Poland', 'Sweden']"
+139,1974,Germany FR,6,1,0,"['Chile', 'Australia', 'Yugoslavia', 'Sweden', 'Poland', 'Netherlands']",[],['German DR']
+140,1974,Chile,0,1,2,[],"['German DR', 'Australia']",['Germany FR']
+141,1974,German DR,2,2,2,"['Australia', 'Germany FR']","['Chile', 'Argentina']","['Brazil', 'Netherlands']"
+142,1974,Australia,0,2,1,[],['Chile'],"['German DR', 'Germany FR']"
+143,1974,Zaire,0,3,0,[],[],"['Scotland', 'Yugoslavia', 'Brazil']"
+144,1974,Scotland,1,0,2,['Zaire'],"['Brazil', 'Yugoslavia']",[]
+145,1974,Uruguay,0,2,1,[],['Bulgaria'],"['Netherlands', 'Sweden']"
+146,1974,Netherlands,5,1,1,"['Uruguay', 'Bulgaria', 'Argentina', 'German DR', 'Brazil']",['Sweden'],['Germany FR']
+147,1974,Sweden,2,2,2,"['Uruguay', 'Yugoslavia']","['Bulgaria', 'Netherlands']","['Poland', 'Germany FR']"
+148,1974,Bulgaria,0,1,2,[],"['Sweden', 'Uruguay']",['Netherlands']
+149,1974,Italy,1,1,1,['Haiti'],['Argentina'],['Poland']
+150,1974,Haiti,0,3,0,[],[],"['Italy', 'Poland', 'Argentina']"
+151,1974,Poland,6,1,0,"['Argentina', 'Haiti', 'Italy', 'Sweden', 'Yugoslavia', 'Brazil']",[],['Germany FR']
+152,1974,Argentina,1,3,2,['Haiti'],"['Italy', 'German DR']","['Poland', 'Netherlands', 'Brazil']"
+153,1978,Germany FR,1,1,4,['Mexico'],"['Poland', 'Tunisia', 'Italy', 'Netherlands']",['Austria']
+154,1978,Poland,3,2,1,"['Tunisia', 'Mexico', 'Peru']",['Germany FR'],"['Argentina', 'Brazil']"
+155,1978,Italy,4,2,1,"['France', 'Hungary', 'Argentina', 'Austria']",['Germany FR'],"['Netherlands', 'Brazil']"
+156,1978,France,1,2,0,['Hungary'],[],"['Italy', 'Argentina']"
+157,1978,Tunisia,1,1,1,['Mexico'],['Germany FR'],['Poland']
+158,1978,Mexico,0,3,0,[],[],"['Tunisia', 'Germany FR', 'Poland']"
+159,1978,Argentina,5,1,1,"['Hungary', 'France', 'Poland', 'Peru', 'Netherlands']",['Brazil'],['Italy']
+160,1978,Hungary,0,3,0,[],[],"['Argentina', 'Italy', 'France']"
+161,1978,Sweden,0,2,1,[],['Brazil'],"['Austria', 'Spain']"
+162,1978,Brazil,4,0,3,"['Austria', 'Peru', 'Poland', 'Italy']","['Sweden', 'Spain', 'Argentina']",[]
+163,1978,Austria,3,3,0,"['Spain', 'Sweden', 'Germany FR']",[],"['Brazil', 'Netherlands', 'Italy']"
+164,1978,Spain,1,1,1,['Sweden'],['Brazil'],['Austria']
+165,1978,Peru,2,3,1,"['Scotland', 'Iran']",['Netherlands'],"['Brazil', 'Poland', 'Argentina']"
+166,1978,Scotland,1,1,1,['Netherlands'],['IR Iran'],['Peru']
+167,1978,Netherlands,3,2,2,"['IR Iran', 'Austria', 'Italy']","['Peru', 'Germany FR']","['Scotland', 'Argentina']"
+168,1978,IR Iran,0,1,1,[],['Scotland'],['Netherlands']
+169,1978,Iran,0,1,0,[],[],['Peru']
+170,1982,Argentina,2,3,0,"['Hungary', 'El Salvador']",[],"['Belgium', 'Italy', 'Brazil']"
+171,1982,Belgium,2,2,1,"['Argentina', 'El Salvador']",['Hungary'],"['Poland', 'Soviet Union']"
+172,1982,Italy,4,0,3,"['Argentina', 'Brazil', 'Poland', 'Germany FR']","['Poland', 'Peru', 'Cameroon']",[]
+173,1982,Poland,3,1,3,"['Peru', 'Belgium', 'France']","['Italy', 'Cameroon', 'Soviet Union']",['Italy']
+174,1982,Brazil,4,1,0,"['Soviet Union', 'Scotland', 'New Zealand', 'Argentina']",[],['Italy']
+175,1982,Soviet Union,2,1,2,"['New Zealand', 'Belgium']","['Scotland', 'Poland']",['Brazil']
+176,1982,Peru,0,1,2,[],"['Cameroon', 'Italy']",['Poland']
+177,1982,Cameroon,0,0,3,[],"['Peru', 'Poland', 'Italy']",[]
+178,1982,Hungary,1,1,1,['El Salvador'],['Belgium'],['Argentina']
+179,1982,El Salvador,0,3,0,[],[],"['Hungary', 'Belgium', 'Argentina']"
+180,1982,Scotland,1,1,1,['New Zealand'],['Soviet Union'],['Brazil']
+181,1982,New Zealand,0,3,0,[],[],"['Scotland', 'Soviet Union', 'Brazil']"
+182,1982,Germany FR,3,2,2,"['Chile', 'Austria', 'Spain']","['England', 'France']","['Algeria', 'Italy']"
+183,1982,Algeria,2,1,0,"['Germany FR', 'Chile']",[],['Austria']
+184,1982,England,3,0,2,"['France', 'Czechoslovakia', 'Kuwait']","['Germany FR', 'Spain']",[]
+185,1982,France,3,2,2,"['Kuwait', 'Austria', 'Northern Ireland']","['Czechoslovakia', 'Germany FR']","['England', 'Poland']"
+186,1982,Spain,1,2,2,['Yugoslavia'],"['Honduras', 'England']","['Northern Ireland', 'Germany FR']"
+187,1982,Honduras,0,1,2,[],"['Spain', 'Northern Ireland']",['Yugoslavia']
+188,1982,Chile,0,3,0,[],[],"['Austria', 'Germany FR', 'Algeria']"
+189,1982,Austria,2,2,1,"['Chile', 'Algeria']",['Northern Ireland'],"['Germany FR', 'France']"
+190,1982,Czechoslovakia,0,1,2,[],"['Kuwait', 'France']",['England']
+191,1982,Kuwait,0,2,1,[],['Czechoslovakia'],"['France', 'England']"
+192,1982,Yugoslavia,1,1,1,['Honduras'],['Northern Ireland'],['Spain']
+193,1982,Northern Ireland,1,1,3,['Spain'],"['Yugoslavia', 'Honduras', 'Austria']",['France']
+194,1986,Bulgaria,0,2,2,[],"['Italy', 'Korea Republic']","['Argentina', 'Mexico']"
+195,1986,Italy,1,1,2,['Korea Republic'],"['Bulgaria', 'Argentina']",['France']
+196,1986,Canada,0,3,0,[],[],"['France', 'Hungary', 'Soviet Union']"
+197,1986,France,4,1,2,"['Canada', 'Hungary', 'Italy', 'Belgium']","['Soviet Union', 'Brazil']",['Germany FR']
+198,1986,Spain,3,1,1,"['Northern Ireland', 'Algeria', 'Denmark']",['Belgium'],['Brazil']
+199,1986,Brazil,4,0,1,"['Spain', 'Algeria', 'Northern Ireland', 'Poland']",['France'],[]
+200,1986,Soviet Union,2,1,1,"['Hungary', 'Canada']",['France'],['Belgium']
+201,1986,Hungary,1,2,0,['Canada'],[],"['Soviet Union', 'France']"
+202,1986,Argentina,6,0,1,"['Korea Republic', 'Bulgaria', 'Uruguay', 'England', 'Belgium', 'Germany FR']",['Italy'],[]
+203,1986,Korea Republic,0,2,1,[],['Bulgaria'],"['Argentina', 'Italy']"
+204,1986,Morocco,1,1,2,['Portugal'],"['Poland', 'England']",['Germany FR']
+205,1986,Poland,1,2,1,['Portugal'],['Morocco'],"['England', 'Brazil']"
+206,1986,Algeria,0,2,1,[],['Northern Ireland'],"['Brazil', 'Spain']"
+207,1986,Northern Ireland,0,2,1,[],['Algeria'],"['Spain', 'Brazil']"
+208,1986,Belgium,2,3,2,"['Iraq', 'Soviet Union']","['Paraguay', 'Spain']","['Mexico', 'Argentina', 'France']"
+209,1986,Mexico,3,0,2,"['Belgium', 'Iraq', 'Bulgaria']","['Paraguay', 'Germany FR']",[]
+210,1986,Portugal,1,2,0,['England'],[],"['Poland', 'Morocco']"
+211,1986,England,2,2,1,"['Poland', 'Paraguay']",['Morocco'],"['Portugal', 'Argentina']"
+212,1986,Paraguay,1,1,2,['Iraq'],"['Mexico', 'Belgium']",['England']
+213,1986,Iraq,0,3,0,[],[],"['Paraguay', 'Belgium', 'Mexico']"
+214,1986,Scotland,0,2,1,[],['Uruguay'],"['Denmark', 'Germany FR']"
+215,1986,Denmark,3,1,0,"['Scotland', 'Uruguay', 'Germany FR']",[],['Spain']
+216,1986,Uruguay,0,2,2,[],"['Germany FR', 'Scotland']","['Denmark', 'Argentina']"
+217,1986,Germany FR,3,2,2,"['Scotland', 'Morocco', 'France']","['Uruguay', 'Mexico']","['Denmark', 'Argentina']"
+218,1990,Argentina,2,2,3,"['Soviet Union', 'Brazil']","['Romania', 'Yugoslavia', 'Italy']","['Cameroon', 'Germany FR']"
+219,1990,Cameroon,3,2,0,"['Argentina', 'Romania', 'Colombia']",[],"['Soviet Union', 'England']"
+220,1990,Soviet Union,1,2,0,['Cameroon'],[],"['Romania', 'Argentina']"
+221,1990,Romania,1,1,2,['Soviet Union'],"['Argentina', 'rn"">Republic of Ireland']",['Cameroon']
+222,1990,"rn"">United Arab Emirates",0,3,0,[],[],"['Colombia', 'Germany FR', 'Yugoslavia']"
+223,1990,Colombia,1,2,1,"['rn"">United Arab Emirates']",['Germany FR'],"['Yugoslavia', 'Cameroon']"
+224,1990,Italy,6,0,1,"['Austria', 'USA', 'Czechoslovakia', 'Uruguay', 'rn"">Republic of Ireland', 'England']",['Argentina'],[]
+225,1990,Austria,1,2,0,['USA'],[],"['Italy', 'Czechoslovakia']"
+226,1990,USA,0,3,0,[],[],"['Czechoslovakia', 'Italy', 'Austria']"
+227,1990,Czechoslovakia,3,2,0,"['USA', 'Austria', 'Costa Rica']",[],"['Italy', 'Germany FR']"
+228,1990,Brazil,3,1,0,"['Sweden', 'Costa Rica', 'Scotland']",[],['Argentina']
+229,1990,Sweden,0,3,0,[],[],"['Brazil', 'Scotland', 'Costa Rica']"
+230,1990,Germany FR,5,0,2,"['Yugoslavia', 'rn"">United Arab Emirates', 'Netherlands', 'Czechoslovakia', 'Argentina']","['Colombia', 'England']",[]
+231,1990,Yugoslavia,3,1,1,"['Colombia', 'rn"">United Arab Emirates', 'Spain']",['Argentina'],['Germany FR']
+232,1990,Costa Rica,2,2,0,"['Scotland', 'Sweden']",[],"['Brazil', 'Czechoslovakia']"
+233,1990,Scotland,1,2,0,['Sweden'],[],"['Costa Rica', 'Brazil']"
+234,1990,England,3,1,3,"['Egypt', 'Belgium', 'Cameroon']","['rn"">Republic of Ireland', 'Netherlands', 'Germany FR']",['Italy']
+235,1990,"rn"">Republic of Ireland",0,1,4,[],"['England', 'Egypt', 'Netherlands', 'Romania']",['Italy']
+236,1990,Belgium,2,2,0,"['Korea Republic', 'Uruguay']",[],"['Spain', 'England']"
+237,1990,Korea Republic,0,3,0,[],[],"['Belgium', 'Spain', 'Uruguay']"
+238,1990,Netherlands,0,1,3,[],"['Egypt', 'England', 'rn"">Republic of Ireland']",['Germany FR']
+239,1990,Egypt,0,1,2,[],"['Netherlands', 'rn"">Republic of Ireland']",['England']
+240,1990,Uruguay,1,2,1,['Korea Republic'],['Spain'],"['Belgium', 'Italy']"
+241,1990,Spain,2,1,1,"['Korea Republic', 'Belgium']",['Uruguay'],['Yugoslavia']
+242,1994,Spain,2,1,2,"['Bolivia', 'Switzerland']","['Korea Republic', 'Germany']",['Italy']
+243,1994,Korea Republic,0,1,2,[],"['Spain', 'Bolivia']",['Germany']
+244,1994,Germany,3,1,1,"['Bolivia', 'Korea Republic', 'Belgium']",['Spain'],['Bulgaria']
+245,1994,Bolivia,0,2,1,[],['Korea Republic'],"['Germany', 'Spain']"
+246,1994,USA,1,2,1,['Colombia'],['Switzerland'],"['Romania', 'Brazil']"
+247,1994,Switzerland,1,2,1,['Romania'],['USA'],"['Colombia', 'Spain']"
+248,1994,Italy,4,1,2,"['Norway', 'Nigeria', 'Spain', 'Bulgaria']","['Mexico', 'Brazil']","['rn"">Republic of Ireland']"
+249,1994,"rn"">Republic of Ireland",1,2,1,['Italy'],['Norway'],"['Mexico', 'Netherlands']"
+250,1994,Colombia,1,2,0,['Switzerland'],[],"['Romania', 'USA']"
+251,1994,Romania,3,1,1,"['Colombia', 'USA', 'Argentina']",['Sweden'],['Switzerland']
+252,1994,Belgium,2,2,0,"['Morocco', 'Netherlands']",[],"['Saudi Arabia', 'Germany']"
+253,1994,Morocco,0,3,0,[],[],"['Belgium', 'Saudi Arabia', 'Netherlands']"
+254,1994,Norway,1,1,1,['Mexico'],"['rn"">Republic of Ireland']",['Italy']
+255,1994,Mexico,1,1,2,"['rn"">Republic of Ireland']","['Italy', 'Bulgaria']",['Norway']
+256,1994,Cameroon,0,2,1,[],['Sweden'],"['Brazil', 'Russia']"
+257,1994,Sweden,3,1,3,"['Russia', 'Saudi Arabia', 'Bulgaria']","['Cameroon', 'Brazil', 'Romania']",['Brazil']
+258,1994,Netherlands,3,2,0,"['Saudi Arabia', 'Morocco', 'rn"">Republic of Ireland']",[],"['Belgium', 'Brazil']"
+259,1994,Saudi Arabia,2,2,0,"['Morocco', 'Belgium']",[],"['Netherlands', 'Sweden']"
+260,1994,Brazil,5,0,2,"['Russia', 'Cameroon', 'USA', 'Netherlands', 'Sweden']","['Sweden', 'Italy']",[]
+261,1994,Russia,1,2,0,['Cameroon'],[],"['Brazil', 'Sweden']"
+262,1994,Argentina,2,2,0,"['Greece', 'Nigeria']",[],"['Bulgaria', 'Romania']"
+263,1994,Greece,0,3,0,[],[],"['Argentina', 'Bulgaria', 'Nigeria']"
+264,1994,Nigeria,2,2,0,"['Bulgaria', 'Greece']",[],"['Argentina', 'Italy']"
+265,1994,Bulgaria,3,3,1,"['Greece', 'Argentina', 'Germany']",['Mexico'],"['Nigeria', 'Italy', 'Sweden']"
+266,1998,Brazil,4,2,1,"['Scotland', 'Morocco', 'Chile', 'Denmark']",['Netherlands'],"['Norway', 'France']"
+267,1998,Scotland,0,2,1,[],['Norway'],"['Brazil', 'Morocco']"
+268,1998,Morocco,1,1,1,['Scotland'],['Norway'],['Brazil']
+269,1998,Norway,1,1,2,['Brazil'],"['Morocco', 'Scotland']",['Italy']
+270,1998,Italy,3,0,2,"['Cameroon', 'Austria', 'Norway']","['Chile', 'France']",[]
+271,1998,Chile,0,1,3,[],"['Italy', 'Austria', 'Cameroon']",['Brazil']
+272,1998,Cameroon,0,1,2,[],"['Austria', 'Chile']",['Italy']
+273,1998,Austria,0,1,2,[],"['Cameroon', 'Chile']",['Italy']
+274,1998,Paraguay,1,1,2,['Nigeria'],"['Bulgaria', 'Spain']",['France']
+275,1998,Bulgaria,0,2,1,[],['Paraguay'],"['Nigeria', 'Spain']"
+276,1998,Saudi Arabia,0,2,1,[],['South Africa'],"['Denmark', 'France']"
+277,1998,Denmark,2,2,1,"['Saudi Arabia', 'Nigeria']",['South Africa'],"['France', 'Brazil']"
+278,1998,France,6,0,1,"['South Africa', 'Saudi Arabia', 'Denmark', 'Paraguay', 'Croatia', 'Brazil']",['Italy'],[]
+279,1998,South Africa,0,1,2,[],"['Denmark', 'Saudi Arabia']",['France']
+280,1998,Spain,1,1,1,['Bulgaria'],['Paraguay'],['Nigeria']
+281,1998,Nigeria,2,2,0,"['Spain', 'Bulgaria']",[],"['Paraguay', 'Denmark']"
+282,1998,Korea Republic,0,2,1,[],['Belgium'],"['Mexico', 'Netherlands']"
+283,1998,Mexico,1,1,2,['Korea Republic'],"['Belgium', 'Netherlands']",['Germany']
+284,1998,Netherlands,3,1,3,"['Korea Republic', 'Yugoslavia', 'Argentina']","['Belgium', 'Mexico', 'Brazil']",['Croatia']
+285,1998,Belgium,0,0,3,[],"['Netherlands', 'Mexico', 'Korea Republic']",[]
+286,1998,Argentina,3,1,1,"['Japan', 'Jamaica', 'Croatia']",['England'],['Netherlands']
+287,1998,Japan,0,3,0,[],[],"['Argentina', 'Croatia', 'Jamaica']"
+288,1998,Yugoslavia,2,1,1,"['Iran', 'USA']",['Germany'],['Netherlands']
+289,1998,Iran,1,2,0,['USA'],[],"['Yugoslavia', 'Germany']"
+290,1998,Jamaica,1,2,0,['Japan'],[],"['Croatia', 'Argentina']"
+291,1998,Croatia,5,2,0,"['Jamaica', 'Japan', 'Romania', 'Germany', 'Netherlands']",[],"['Argentina', 'France']"
+292,1998,England,2,1,1,"['Tunisia', 'Colombia']",['Argentina'],['Romania']
+293,1998,Tunisia,0,2,1,[],['Romania'],"['England', 'Colombia']"
+294,1998,Romania,2,1,1,"['Colombia', 'England']",['Tunisia'],['Croatia']
+295,1998,Colombia,1,2,0,['Tunisia'],[],"['Romania', 'England']"
+296,1998,Germany,3,1,1,"['USA', 'Iran', 'Mexico']",['Yugoslavia'],['Croatia']
+297,1998,USA,0,3,0,[],[],"['Germany', 'Iran', 'Yugoslavia']"
+298,2002,France,0,2,1,[],['Uruguay'],"['Senegal', 'Denmark']"
+299,2002,Senegal,2,1,2,"['France', 'Sweden']","['Denmark', 'Uruguay']",['Turkey']
+300,2002,Uruguay,0,1,2,[],"['France', 'Senegal']",['Denmark']
+301,2002,Denmark,2,1,1,"['Uruguay', 'France']",['Senegal'],['England']
+302,2002,"rn"">Republic of Ireland",1,0,3,['Saudi Arabia'],"['Cameroon', 'Germany', 'Spain']",[]
+303,2002,Cameroon,1,1,1,['Saudi Arabia'],"['rn"">Republic of Ireland']",['Germany']
+304,2002,Germany,5,1,1,"['Saudi Arabia', 'Cameroon', 'Paraguay', 'USA', 'Korea Republic']","['rn"">Republic of Ireland']",['Brazil']
+305,2002,Saudi Arabia,0,3,0,[],[],"['Germany', 'Cameroon', 'rn"">Republic of Ireland']"
+306,2002,Argentina,1,1,1,['Nigeria'],['Sweden'],['England']
+307,2002,Nigeria,0,2,1,[],['England'],"['Argentina', 'Sweden']"
+308,2002,Paraguay,1,2,1,['Slovenia'],['South Africa'],"['Spain', 'Germany']"
+309,2002,South Africa,1,1,1,['Slovenia'],['Paraguay'],['Spain']
+310,2002,England,2,1,2,"['Argentina', 'Denmark']","['Sweden', 'Nigeria']",['Brazil']
+311,2002,Sweden,1,1,2,['Nigeria'],"['England', 'Argentina']",['Senegal']
+312,2002,Spain,3,0,2,"['Slovenia', 'Paraguay', 'South Africa']","['rn"">Republic of Ireland', 'Korea Republic']",[]
+313,2002,Slovenia,0,3,0,[],[],"['Spain', 'South Africa', 'Paraguay']"
+314,2002,Brazil,7,0,0,"['Turkey', 'China PR', 'Costa Rica', 'Belgium', 'England', 'Turkey', 'Germany']",[],[]
+315,2002,Turkey,4,2,1,"['China PR', 'Japan', 'Senegal', 'Korea Republic']",['Costa Rica'],"['Brazil', 'Brazil']"
+316,2002,Italy,1,2,1,['Ecuador'],['Mexico'],"['Croatia', 'Korea Republic']"
+317,2002,Ecuador,1,2,0,['Croatia'],[],"['Italy', 'Mexico']"
+318,2002,Croatia,1,2,0,['Italy'],[],"['Mexico', 'Ecuador']"
+319,2002,Mexico,2,1,1,"['Croatia', 'Ecuador']",['Italy'],['USA']
+320,2002,China PR,0,3,0,[],[],"['Costa Rica', 'Brazil', 'Turkey']"
+321,2002,Costa Rica,1,1,1,['China PR'],['Turkey'],['Brazil']
+322,2002,Japan,2,1,1,"['Russia', 'Tunisia']",['Belgium'],['Turkey']
+323,2002,Belgium,1,1,2,['Russia'],"['Japan', 'Tunisia']",['Brazil']
+324,2002,Korea Republic,3,2,2,"['Poland', 'Portugal', 'Italy']","['USA', 'Spain']","['Germany', 'Turkey']"
+325,2002,Poland,1,2,0,['USA'],[],"['Korea Republic', 'Portugal']"
+326,2002,Russia,1,2,0,['Tunisia'],[],"['Japan', 'Belgium']"
+327,2002,Tunisia,0,2,1,[],['Belgium'],"['Russia', 'Japan']"
+328,2002,USA,2,2,1,"['Portugal', 'Mexico']",['Korea Republic'],"['Poland', 'Germany']"
+329,2002,Portugal,1,2,0,['Poland'],[],"['USA', 'Korea Republic']"
+330,2006,Germany,5,1,1,"['Costa Rica', 'Poland', 'Ecuador', 'Sweden', 'Portugal']",['Argentina'],['Italy']
+331,2006,Costa Rica,0,3,0,[],[],"['Germany', 'Ecuador', 'Poland']"
+332,2006,Poland,1,2,0,['Costa Rica'],[],"['Ecuador', 'Germany']"
+333,2006,Ecuador,2,2,0,"['Poland', 'Costa Rica']",[],"['Germany', 'England']"
+334,2006,England,3,0,2,"['Paraguay', 'rn"">Trinidad and Tobago', 'Ecuador']","['Sweden', 'Portugal']",[]
+335,2006,Paraguay,1,2,0,"['rn"">Trinidad and Tobago']",[],"['England', 'Sweden']"
+336,2006,"rn"">Trinidad and Tobago",0,2,1,[],['Sweden'],"['England', 'Paraguay']"
+337,2006,Sweden,1,1,2,['Paraguay'],"['rn"">Trinidad and Tobago', 'England']",['Germany']
+338,2006,Argentina,3,0,2,"[""C�te d'Ivoire"", 'rn"">Serbia and Montenegro', 'Mexico']","['Netherlands', 'Germany']",[]
+339,2006,C�te d'Ivoire,1,2,0,"['rn"">Serbia and Montenegro']",[],"['Argentina', 'Netherlands']"
+340,2006,"rn"">Serbia and Montenegro",0,3,0,[],[],"['Netherlands', 'Argentina', ""C�te d'Ivoire""]"
+341,2006,Netherlands,2,1,1,"['rn"">Serbia and Montenegro', ""C�te d'Ivoire""]",['Argentina'],['Portugal']
+342,2006,Mexico,1,2,1,['Iran'],['Angola'],"['Portugal', 'Argentina']"
+343,2006,Iran,0,1,1,[],['Angola'],['Mexico']
+344,2006,Angola,0,1,2,[],"['Mexico', 'Iran']",['Portugal']
+345,2006,Portugal,4,2,1,"['Angola', 'IR Iran', 'Mexico', 'Netherlands']",['England'],"['France', 'Germany']"
+346,2006,Australia,1,2,1,['Japan'],['Croatia'],"['Brazil', 'Italy']"
+347,2006,Japan,0,2,1,[],['Croatia'],"['Australia', 'Brazil']"
+348,2006,USA,0,2,1,[],['Italy'],"['Czech Republic', 'Ghana']"
+349,2006,Czech Republic,1,2,0,['USA'],[],"['Ghana', 'Italy']"
+350,2006,Italy,5,0,2,"['Ghana', 'Czech Republic', 'Australia', 'Ukraine', 'Germany']","['USA', 'France']",[]
+351,2006,Ghana,2,2,0,"['Czech Republic', 'USA']",[],"['Italy', 'Brazil']"
+352,2006,Korea Republic,1,1,1,['Togo'],['France'],['Switzerland']
+353,2006,Togo,0,3,0,[],[],"['Korea Republic', 'Switzerland', 'France']"
+354,2006,France,4,0,3,"['Togo', 'Spain', 'Brazil', 'Portugal']","['Switzerland', 'Korea Republic', 'Italy']",[]
+355,2006,Switzerland,2,0,2,"['Togo', 'Korea Republic']","['France', 'Ukraine']",[]
+356,2006,Brazil,4,1,0,"['Croatia', 'Australia', 'Japan', 'Ghana']",[],['France']
+357,2006,Croatia,0,1,2,[],"['Japan', 'Australia']",['Brazil']
+358,2006,Spain,3,1,0,"['Ukraine', 'Tunisia', 'Saudi Arabia']",[],['France']
+359,2006,Ukraine,2,2,1,"['Saudi Arabia', 'Tunisia']",['Switzerland'],"['Spain', 'Italy']"
+360,2006,Tunisia,0,2,1,[],['Saudi Arabia'],"['Spain', 'Ukraine']"
+361,2006,Saudi Arabia,0,2,1,[],['Tunisia'],"['Ukraine', 'Spain']"
+362,2006,IR Iran,0,1,0,[],[],['Portugal']
+363,2010,South Africa,1,1,1,['France'],['Mexico'],['Uruguay']
+364,2010,Mexico,1,2,1,['France'],['South Africa'],"['Uruguay', 'Argentina']"
+365,2010,Uruguay,3,2,2,"['South Africa', 'Mexico', 'Korea Republic']","['France', 'Ghana']","['Netherlands', 'Germany']"
+366,2010,France,0,2,1,[],['Uruguay'],"['Mexico', 'South Africa']"
+367,2010,Korea Republic,1,2,1,['Greece'],['Nigeria'],"['Argentina', 'Uruguay']"
+368,2010,Greece,1,2,0,['Nigeria'],[],"['Korea Republic', 'Argentina']"
+369,2010,Argentina,4,1,0,"['Nigeria', 'Korea Republic', 'Greece', 'Mexico']",[],['Germany']
+370,2010,Nigeria,0,2,1,[],['Korea Republic'],"['Argentina', 'Greece']"
+371,2010,England,1,1,2,['Slovenia'],"['USA', 'Algeria']",['Germany']
+372,2010,USA,1,1,2,['Algeria'],"['England', 'Slovenia']",['Ghana']
+373,2010,Algeria,0,2,1,[],['England'],"['Slovenia', 'USA']"
+374,2010,Slovenia,1,1,1,['Algeria'],['USA'],['England']
+375,2010,Serbia,1,2,0,['Germany'],[],"['Ghana', 'Australia']"
+376,2010,Ghana,2,1,2,"['Serbia', 'USA']","['Australia', 'Uruguay']",['Germany']
+377,2010,Germany,5,2,0,"['Australia', 'Ghana', 'England', 'Argentina', 'Uruguay']",[],"['Serbia', 'Spain']"
+378,2010,Australia,1,1,1,['Serbia'],['Ghana'],['Germany']
+379,2010,Netherlands,6,1,0,"['Denmark', 'Japan', 'Cameroon', 'Slovakia', 'Brazil', 'Uruguay']",[],['Spain']
+380,2010,Denmark,1,2,0,['Cameroon'],[],"['Netherlands', 'Japan']"
+381,2010,Japan,2,1,1,"['Cameroon', 'Denmark']",['Paraguay'],['Netherlands']
+382,2010,Cameroon,0,3,0,[],[],"['Japan', 'Denmark', 'Netherlands']"
+383,2010,Italy,0,1,2,[],"['Paraguay', 'New Zealand']",['Slovakia']
+384,2010,Paraguay,1,1,3,['Slovakia'],"['Italy', 'New Zealand', 'Japan']",['Spain']
+385,2010,New Zealand,0,0,3,[],"['Slovakia', 'Italy', 'Paraguay']",[]
+386,2010,Slovakia,1,2,1,['Italy'],['New Zealand'],"['Paraguay', 'Netherlands']"
+387,2010,C�te d'Ivoire,1,1,1,['Korea DPR'],['Portugal'],['Brazil']
+388,2010,Portugal,1,1,2,['Korea DPR'],"[""C�te d'Ivoire"", 'Brazil']",['Spain']
+389,2010,Brazil,3,1,1,"['Korea DPR', ""C�te d'Ivoire"", 'Chile']",['Portugal'],['Netherlands']
+390,2010,Korea DPR,0,3,0,[],[],"['Brazil', 'Portugal', ""C�te d'Ivoire""]"
+391,2010,Honduras,0,2,1,[],['Switzerland'],"['Chile', 'Spain']"
+392,2010,Chile,2,2,0,"['Honduras', 'Switzerland']",[],"['Spain', 'Brazil']"
+393,2010,Spain,6,1,0,"['Honduras', 'Chile', 'Portugal', 'Paraguay', 'Germany', 'Netherlands']",[],['Switzerland']
+394,2010,Switzerland,1,1,1,['Spain'],['Honduras'],['Chile']
+395,2014,Brazil,4,4,3,"['Croatia', 'Cameroon', 'Colombia', 'Colombia']","['Mexico', 'Chile', 'Chile']","['Germany', 'Netherlands', 'Germany', 'Netherlands']"
+396,2014,Croatia,1,2,0,['Cameroon'],[],"['Brazil', 'Mexico']"
+397,2014,Mexico,2,2,1,"['Cameroon', 'Croatia']",['Brazil'],"['Netherlands', 'Netherlands']"
+398,2014,Cameroon,0,3,0,[],[],"['Mexico', 'Croatia', 'Brazil']"
+399,2014,Spain,1,2,0,['Australia'],[],"['Netherlands', 'Chile']"
+400,2014,Netherlands,7,0,4,"['Spain', 'Australia', 'Chile', 'Brazil', 'Mexico', 'Mexico', 'Brazil']","['Argentina', 'Costa Rica', 'Costa Rica', 'Argentina']",[]
+401,2014,Chile,2,1,2,"['Australia', 'Spain']","['Brazil', 'Brazil']",['Netherlands']
+402,2014,Australia,0,3,0,[],[],"['Chile', 'Netherlands', 'Spain']"
+403,2014,Colombia,5,2,0,"['Greece', ""C�te d'Ivoire"", 'Japan', 'Uruguay', 'Uruguay']",[],"['Brazil', 'Brazil']"
+404,2014,Greece,1,1,3,"[""C�te d'Ivoire""]","['Japan', 'Costa Rica', 'Costa Rica']",['Colombia']
+405,2014,Uruguay,2,3,0,"['England', 'Italy']",[],"['Costa Rica', 'Colombia', 'Colombia']"
+406,2014,Costa Rica,2,0,5,"['Uruguay', 'Italy']","['England', 'Netherlands', 'Greece', 'Greece', 'Netherlands']",[]
+407,2014,England,0,2,1,[],['Costa Rica'],"['Italy', 'Uruguay']"
+408,2014,Italy,1,2,0,['England'],[],"['Costa Rica', 'Uruguay']"
+409,2014,C�te d'Ivoire,1,2,0,['Japan'],[],"['Colombia', 'Greece']"
+410,2014,Japan,0,2,1,[],['Greece'],"[""C�te d'Ivoire"", 'Colombia']"
+411,2014,Switzerland,2,3,0,"['Ecuador', 'Honduras']",[],"['France', 'Argentina', 'Argentina']"
+412,2014,Ecuador,1,1,1,['Honduras'],['France'],['Switzerland']
+413,2014,France,4,2,1,"['Honduras', 'Switzerland', 'Nigeria', 'Nigeria']",['Ecuador'],"['Germany', 'Germany']"
+414,2014,Honduras,0,3,0,[],[],"['France', 'Ecuador', 'Switzerland']"
+415,2014,Argentina,7,2,2,"['rn"">Bosnia and Herzegovina', 'IR Iran', 'Nigeria', 'Belgium', 'Switzerland', 'Switzerland', 'Belgium']","['Netherlands', 'Netherlands']","['Germany', 'Germany']"
+416,2014,"rn"">Bosnia and Herzegovina",1,2,0,['IR Iran'],[],"['Argentina', 'Nigeria']"
+417,2014,Germany,10,0,1,"['Portugal', 'USA', 'Algeria', 'France', 'Brazil', 'Argentina', 'Algeria', 'France', 'Brazil', 'Argentina']",['Ghana'],[]
+418,2014,Portugal,1,1,1,['Ghana'],['USA'],['Germany']
+419,2014,IR Iran,0,2,1,[],['Nigeria'],"['Argentina', 'rn"">Bosnia and Herzegovina']"
+420,2014,Nigeria,1,3,1,"['rn"">Bosnia and Herzegovina']",['IR Iran'],"['Argentina', 'France', 'France']"
+421,2014,Ghana,0,2,1,[],['Germany'],"['USA', 'Portugal']"
+422,2014,USA,1,3,1,['Ghana'],['Portugal'],"['Germany', 'Belgium', 'Belgium']"
+423,2014,Belgium,5,2,0,"['Algeria', 'Russia', 'Korea Republic', 'USA', 'USA']",[],"['Argentina', 'Argentina']"
+424,2014,Algeria,1,3,1,['Korea Republic'],['Russia'],"['Belgium', 'Germany', 'Germany']"
+425,2014,Russia,0,1,2,[],"['Korea Republic', 'Algeria']",['Belgium']
+426,2014,Korea Republic,0,2,1,[],['Russia'],"['Algeria', 'Belgium']"
+427,2018,Russia,2,1,2,"['Saudi Arabia', 'Egypt']","['Spain', 'Croatia']",['Uruguay']
+428,2018,Saudi Arabia,1,2,0,['Egypt'],[],"['Russia', 'Uruguay']"
+429,2018,Egypt,0,3,0,[],[],"['Uruguay', 'Russia', 'Saudi Arabia']"
+430,2018,Uruguay,4,1,0,"['Egypt', 'Saudi Arabia', 'Russia', 'Portugal']",[],['France']
+431,2018,Morocco,0,2,1,[],['Spain'],"['Iran', 'Portugal']"
+432,2018,Iran,1,1,1,['Morocco'],['Portugal'],['Spain']
+433,2018,Portugal,1,1,2,['Morocco'],"['Spain', 'Iran']",['Uruguay']
+434,2018,Spain,1,0,3,['Iran'],"['Portugal', 'Morocco', 'Russia']",[]
+435,2018,France,5,1,1,"['Australia', 'Peru', 'Argentina', 'Uruguay', 'Belgium']",['Denmark'],['Croatia']
+436,2018,Australia,0,2,1,[],['Denmark'],"['France', 'Peru']"
+437,2018,Argentina,1,2,1,['Nigeria'],['Iceland'],"['Croatia', 'France']"
+438,2018,Iceland,0,2,1,[],['Argentina'],"['Nigeria', 'Croatia']"
+439,2018,Peru,1,2,0,['Australia'],[],"['Denmark', 'France']"
+440,2018,Denmark,1,0,3,['Peru'],"['Australia', 'France', 'Croatia']",[]
+441,2018,Croatia,5,0,2,"['Nigeria', 'Argentina', 'Iceland', 'England', 'France']","['Denmark', 'Russia']",[]
+442,2018,Nigeria,1,2,0,['Iceland'],[],"['Croatia', 'Argentina']"
+443,2018,Costa Rica,0,2,1,[],['Switzerland'],"['Serbia', 'Brazil']"
+444,2018,Serbia,1,2,0,['Costa Rica'],[],"['Switzerland', 'Brazil']"
+445,2018,Germany,1,2,0,['Sweden'],[],"['Mexico', 'South Korea']"
+446,2018,Mexico,2,2,0,"['Germany', 'South Korea']",[],"['Sweden', 'Brazil']"
+447,2018,Brazil,3,1,1,"['Costa Rica', 'Serbia', 'Mexico']",['Switzerland'],['Belgium']
+448,2018,Switzerland,1,1,2,['Serbia'],"['Brazil', 'Costa Rica']",['Sweden']
+449,2018,Sweden,3,2,0,"['South Korea', 'Mexico', 'Switzerland']",[],"['Germany', 'England']"
+450,2018,South Korea,1,2,0,['Germany'],[],"['Sweden', 'Mexico']"
+451,2018,Belgium,6,1,0,"['Panama', 'Tunisia', 'England', 'Japan', 'Brazil', 'England']",[],['France']
+452,2018,Panama,0,3,0,[],[],"['Belgium', 'England', 'Tunisia']"
+453,2018,Tunisia,1,2,0,['Panama'],[],"['England', 'Belgium']"
+454,2018,England,3,3,1,"['Tunisia', 'Panama', 'Sweden']",['Colombia'],"['Belgium', 'Croatia', 'Belgium']"
+455,2018,Colombia,2,1,1,"['Poland', 'Senegal']",['England'],['Japan']
+456,2018,Japan,1,2,1,['Colombia'],['Senegal'],"['Poland', 'Belgium']"
+457,2018,Poland,1,2,0,['Japan'],[],"['Senegal', 'Colombia']"
+458,2018,Senegal,1,1,1,['Poland'],['Japan'],['Colombia']
+459,2022,QATAR,0,3,0,[],[],"['ECUADOR', 'SENEGAL', 'NETHERLANDS']"
+460,2022,ECUADOR,1,1,1,['QATAR'],['NETHERLANDS'],['SENEGAL']
+461,2022,ENGLAND,3,1,1,"['IRAN', 'WALES', 'SENEGAL']",['UNITED STATES'],['FRANCE']
+462,2022,IRAN,1,2,0,['WALES'],[],"['ENGLAND', 'UNITED STATES']"
+463,2022,SENEGAL,2,2,0,"['QATAR', 'ECUADOR']",[],"['NETHERLANDS', 'ENGLAND']"
+464,2022,NETHERLANDS,3,0,2,"['SENEGAL', 'QATAR', 'UNITED STATES']","['ECUADOR', 'ARGENTINA']",[]
+465,2022,UNITED STATES,1,1,2,['IRAN'],"['WALES', 'ENGLAND']",['NETHERLANDS']
+466,2022,WALES,0,2,1,[],['UNITED STATES'],"['IRAN', 'ENGLAND']"
+467,2022,ARGENTINA,4,1,2,"['MEXICO', 'POLAND', 'AUSTRALIA', 'CROATIA']","['NETHERLANDS', 'FRANCE']",['SAUDI ARABIA']
+468,2022,SAUDI ARABIA,1,2,0,['ARGENTINA'],[],"['POLAND', 'MEXICO']"
+469,2022,DENMARK,0,2,1,[],['TUNISIA'],"['FRANCE', 'AUSTRALIA']"
+470,2022,TUNISIA,1,1,1,['FRANCE'],['DENMARK'],['AUSTRALIA']
+471,2022,MEXICO,1,1,1,['SAUDI ARABIA'],['POLAND'],['ARGENTINA']
+472,2022,POLAND,1,2,1,['SAUDI ARABIA'],['MEXICO'],"['ARGENTINA', 'FRANCE']"
+473,2022,FRANCE,5,1,1,"['AUSTRALIA', 'DENMARK', 'POLAND', 'ENGLAND', 'MOROCCO']",['ARGENTINA'],['TUNISIA']
+474,2022,AUSTRALIA,2,2,0,"['TUNISIA', 'DENMARK']",[],"['FRANCE', 'ARGENTINA']"
+475,2022,MOROCCO,3,2,2,"['BELGIUM', 'CANADA', 'PORTUGAL']","['CROATIA', 'SPAIN']","['FRANCE', 'CROATIA']"
+476,2022,CROATIA,2,1,4,"['CANADA', 'MOROCCO']","['MOROCCO', 'BELGIUM', 'JAPAN', 'BRAZIL']",['ARGENTINA']
+477,2022,GERMANY,1,1,1,['COSTA RICA'],['SPAIN'],['JAPAN']
+478,2022,JAPAN,2,1,1,"['GERMANY', 'SPAIN']",['CROATIA'],['COSTA RICA']
+479,2022,SPAIN,1,1,2,['COSTA RICA'],"['GERMANY', 'MOROCCO']",['JAPAN']
+480,2022,COSTA RICA,1,2,0,['JAPAN'],[],"['SPAIN', 'GERMANY']"
+481,2022,BELGIUM,1,1,1,['CANADA'],['CROATIA'],['MOROCCO']
+482,2022,CANADA,0,3,0,[],[],"['BELGIUM', 'CROATIA', 'MOROCCO']"
+483,2022,SWITZERLAND,2,2,0,"['CAMEROON', 'SERBIA']",[],"['BRAZIL', 'PORTUGAL']"
+484,2022,CAMEROON,1,1,1,['BRAZIL'],['SERBIA'],['SWITZERLAND']
+485,2022,URUGUAY,1,1,1,['GHANA'],['KOREA REPUBLIC'],['PORTUGAL']
+486,2022,KOREA REPUBLIC,1,2,1,['PORTUGAL'],['URUGUAY'],"['GHANA', 'BRAZIL']"
+487,2022,PORTUGAL,3,2,0,"['GHANA', 'URUGUAY', 'SWITZERLAND']",[],"['KOREA REPUBLIC', 'MOROCCO']"
+488,2022,GHANA,1,2,0,['KOREA REPUBLIC'],[],"['PORTUGAL', 'URUGUAY']"
+489,2022,BRAZIL,3,1,1,"['SERBIA', 'SWITZERLAND', 'KOREA REPUBLIC']",['CROATIA'],['CAMEROON']
+490,2022,SERBIA,0,2,1,[],['CAMEROON'],"['BRAZIL', 'SWITZERLAND']"
