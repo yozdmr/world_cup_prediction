@@ -141,11 +141,11 @@ Unnamed: 0,Year,Home_goals,Away_goals,Home Team,Away Team,Home Team ISO,Away Tea
 139,1962,3,1,chile,switzerland,CHL,CHE,W,8486120.0,5573815.0
 140,1962,2,0,soviet union,yugoslavia,SUN,YUG,W,,
 141,1962,1,0,czechoslovakia,spain,CZE,ESP,W,9624660.0,31023366.0
-142,1962,2,1,hungary,england,HUN,ENG,W,10061734.0,
+142,1962,2,1,hungary,england,HUN,ENG,W,10061734.0,53250000.0
 143,1962,0,0,germany fr,italy,DEU,ITA,D,74025784.0,50879450.0
 144,1962,3,1,yugoslavia,uruguay,YUG,URY,W,,2592441.0
 145,1962,0,0,brazil,czechoslovakia,BRA,CZE,D,77599218.0,9624660.0
-146,1962,3,1,england,argentina,ENG,ARG,W,,21020359.0
+146,1962,3,1,england,argentina,ENG,ARG,W,53250000.0,21020359.0
 147,1962,2,0,chile,italy,CHL,ITA,W,8486120.0,50879450.0
 148,1962,4,4,soviet union,colombia,SUN,COL,D,,16691282.0
 149,1962,1,0,spain,mexico,ESP,MEX,W,31023366.0,38683283.0
@@ -157,17 +157,17 @@ Unnamed: 0,Year,Home_goals,Away_goals,Home Team,Away Team,Home Team ISO,Away Tea
 155,1962,2,0,germany fr,chile,DEU,CHL,W,74025784.0,8486120.0
 156,1962,5,0,yugoslavia,colombia,YUG,COL,W,,16691282.0
 157,1962,3,1,mexico,czechoslovakia,MEX,CZE,W,38683283.0,9624660.0
-158,1962,0,0,england,bulgaria,ENG,BGR,D,,8012946.0
+158,1962,0,0,england,bulgaria,ENG,BGR,D,53250000.0,8012946.0
 159,1962,3,0,italy,switzerland,ITA,CHE,W,50879450.0,5573815.0
 160,1962,2,1,chile,soviet union,CHL,SUN,W,8486120.0,
-161,1962,3,1,brazil,england,BRA,ENG,W,77599218.0,
+161,1962,3,1,brazil,england,BRA,ENG,W,77599218.0,53250000.0
 162,1962,1,0,czechoslovakia,hungary,CZE,HUN,W,9624660.0,10061734.0
 163,1962,1,0,yugoslavia,germany fr,YUG,DEU,W,,74025784.0
 164,1962,3,1,czechoslovakia,yugoslavia,CZE,YUG,W,9624660.0,
 165,1962,4,2,brazil,chile,BRA,CHL,W,77599218.0,8486120.0
 166,1962,1,0,chile,yugoslavia,CHL,YUG,W,8486120.0,
 167,1962,3,1,brazil,czechoslovakia,BRA,CZE,W,77599218.0,9624660.0
-168,1966,0,0,england,uruguay,ENG,URY,D,,2707030.0
+168,1966,0,0,england,uruguay,ENG,URY,D,54648500.0,2707030.0
 169,1966,5,0,germany fr,switzerland,DEU,CHE,W,76600311.0,5918002.0
 170,1966,2,0,brazil,bulgaria,BRA,BGR,W,86979283.0,8258057.0
 171,1966,3,0,soviet union,korea dpr,SUN,PRK,W,,13444048.0
@@ -182,27 +182,27 @@ Unnamed: 0,Year,Home_goals,Away_goals,Home Team,Away Team,Home Team ISO,Away Tea
 180,1966,3,0,portugal,bulgaria,PRT,BGR,W,8930990.0,8258057.0
 181,1966,0,0,germany fr,argentina,DEU,ARG,D,76600311.0,22403116.0
 182,1966,1,0,soviet union,italy,SUN,ITA,W,,52519000.0
-183,1966,2,0,england,mexico,ENG,MEX,W,,44180437.0
+183,1966,2,0,england,mexico,ENG,MEX,W,54648500.0,44180437.0
 184,1966,0,0,uruguay,mexico,URY,MEX,D,2707030.0,44180437.0
 185,1966,2,0,argentina,switzerland,ARG,CHE,W,22403116.0,5918002.0
 186,1966,3,1,portugal,brazil,PRT,BRA,W,8930990.0,86979283.0
 187,1966,1,0,korea dpr,italy,PRK,ITA,W,13444048.0,52519000.0
-188,1966,2,0,england,france,ENG,FRA,W,,49817041.0
+188,1966,2,0,england,france,ENG,FRA,W,54648500.0,49817041.0
 189,1966,3,1,hungary,bulgaria,HUN,BGR,W,10178653.0,8258057.0
 190,1966,2,1,germany fr,spain,DEU,ESP,W,76600311.0,32283194.0
 191,1966,2,1,soviet union,chile,SUN,CHL,W,,9161649.0
-192,1966,1,0,england,argentina,ENG,ARG,W,,22403116.0
+192,1966,1,0,england,argentina,ENG,ARG,W,54648500.0,22403116.0
 193,1966,4,0,germany fr,uruguay,DEU,URY,W,76600311.0,2707030.0
 194,1966,2,1,soviet union,hungary,SUN,HUN,W,,10178653.0
 195,1966,5,3,portugal,korea dpr,PRT,PRK,W,8930990.0,13444048.0
 196,1966,2,1,germany fr,soviet union,DEU,SUN,W,76600311.0,
-197,1966,2,1,england,portugal,ENG,PRT,W,,8930990.0
+197,1966,2,1,england,portugal,ENG,PRT,W,54648500.0,8930990.0
 198,1966,2,1,portugal,soviet union,PRT,SUN,W,8930990.0,
-199,1966,4,2,england,germany fr,ENG,DEU,W,,76600311.0
+199,1966,4,2,england,germany fr,ENG,DEU,W,54648500.0,76600311.0
 200,1970,0,0,mexico,soviet union,MEX,SUN,D,50289306.0,
 201,1970,2,0,uruguay,israel,URY,ISR,W,2790265.0,2974000.0
 202,1970,3,2,peru,bulgaria,PER,BGR,W,13562371.0,8489574.0
-203,1970,1,0,england,romania,ENG,ROU,W,,20250398.0
+203,1970,1,0,england,romania,ENG,ROU,W,55663250.0,20250398.0
 204,1970,1,0,italy,sweden,ITA,SWE,W,53821850.0,8042801.0
 205,1970,2,1,germany fr,morocco,DEU,MAR,W,78169289.0,15274351.0
 206,1970,4,1,brazil,czechoslovakia,BRA,CZE,W,96369875.0,9858071.0
@@ -213,7 +213,7 @@ Unnamed: 0,Year,Home_goals,Away_goals,Home Team,Away Team,Home Team ISO,Away Tea
 211,1970,4,1,soviet union,belgium,SUN,BEL,W,,9655549.0
 212,1970,1,1,sweden,israel,SWE,ISR,D,8042801.0,2974000.0
 213,1970,5,2,germany fr,bulgaria,DEU,BGR,W,78169289.0,8489574.0
-214,1970,1,0,brazil,england,BRA,ENG,W,96369875.0,
+214,1970,1,0,brazil,england,BRA,ENG,W,96369875.0,55663250.0
 215,1970,4,0,mexico,el salvador,MEX,SLV,W,50289306.0,3619090.0
 216,1970,1,0,sweden,uruguay,SWE,URY,W,8042801.0,2790265.0
 217,1970,3,1,germany fr,peru,DEU,PER,W,78169289.0,13562371.0
@@ -221,10 +221,10 @@ Unnamed: 0,Year,Home_goals,Away_goals,Home Team,Away Team,Home Team ISO,Away Tea
 219,1970,2,0,soviet union,el salvador,SUN,SLV,W,,3619090.0
 220,1970,0,0,italy,israel,ITA,ISR,D,53821850.0,2974000.0
 221,1970,1,1,bulgaria,morocco,BGR,MAR,D,8489574.0,15274351.0
-222,1970,1,0,england,czechoslovakia,ENG,CZE,W,,9858071.0
+222,1970,1,0,england,czechoslovakia,ENG,CZE,W,55663250.0,9858071.0
 223,1970,1,0,mexico,belgium,MEX,BEL,W,50289306.0,9655549.0
 224,1970,4,1,italy,mexico,ITA,MEX,W,53821850.0,50289306.0
-225,1970,3,2,germany fr,england,DEU,ENG,W,78169289.0,
+225,1970,3,2,germany fr,england,DEU,ENG,W,78169289.0,55663250.0
 226,1970,4,2,brazil,peru,BRA,PER,W,96369875.0,13562371.0
 227,1970,1,0,uruguay,soviet union,URY,SUN,W,2790265.0,
 228,1970,3,1,brazil,uruguay,BRA,URY,W,96369875.0,2790265.0
@@ -314,7 +314,7 @@ Unnamed: 0,Year,Home_goals,Away_goals,Home Team,Away Team,Home Team ISO,Away Tea
 312,1982,10,1,hungary,el salvador,HUN,SLV,W,10705535.0,4599904.0
 313,1982,5,2,scotland,new zealand,SCT,NZL,W,,3156100.0
 314,1982,1,2,germany fr,algeria,DEU,DZA,L,78333366.0,20000096.0
-315,1982,3,1,england,france,ENG,FRA,W,,55694106.0
+315,1982,3,1,england,france,ENG,FRA,W,56313641.0,55694106.0
 316,1982,1,1,spain,honduras,ESP,HND,D,37986012.0,4015647.0
 317,1982,0,1,chile,austria,CHL,AUT,L,11807408.0,7574140.0
 318,1982,1,1,czechoslovakia,kuwait,CZE,KWT,D,10314826.0,1652921.0
@@ -326,7 +326,7 @@ Unnamed: 0,Year,Home_goals,Away_goals,Home Team,Away Team,Home Team ISO,Away Tea
 324,1982,1,0,belgium,el salvador,BEL,SLV,W,9856303.0,4599904.0
 325,1982,3,0,soviet union,new zealand,SUN,NZL,W,,3156100.0
 326,1982,4,1,germany fr,chile,DEU,CHL,W,78333366.0,11807408.0
-327,1982,2,0,england,czechoslovakia,ENG,CZE,W,,10314826.0
+327,1982,2,0,england,czechoslovakia,ENG,CZE,W,56313641.0,10314826.0
 328,1982,2,1,spain,yugoslavia,ESP,YUG,W,37986012.0,
 329,1982,0,2,algeria,austria,DZA,AUT,L,20000096.0,7574140.0
 330,1982,4,1,france,kuwait,FRA,KWT,W,55694106.0,1652921.0
@@ -341,12 +341,12 @@ Unnamed: 0,Year,Home_goals,Away_goals,Home Team,Away Team,Home Team ISO,Away Tea
 339,1982,1,1,france,czechoslovakia,FRA,CZE,D,55694106.0,10314826.0
 340,1982,0,1,honduras,yugoslavia,HND,YUG,L,4015647.0,
 341,1982,1,0,germany fr,austria,DEU,AUT,W,78333366.0,7574140.0
-342,1982,1,0,england,kuwait,ENG,KWT,W,,1652921.0
+342,1982,1,0,england,kuwait,ENG,KWT,W,56313641.0,1652921.0
 343,1982,1,0,northern ireland,spain,NIL,ESP,W,,37986012.0
 344,1982,0,1,austria,france,AUT,FRA,L,7574140.0,55694106.0
 345,1982,3,0,poland,belgium,POL,BEL,W,36230481.0,9856303.0
 346,1982,2,1,italy,argentina,ITA,ARG,W,56543548.0,28922762.0
-347,1982,0,0,germany fr,england,DEU,ENG,D,78333366.0,
+347,1982,0,0,germany fr,england,DEU,ENG,D,78333366.0,56313641.0
 348,1982,2,2,austria,northern ireland,AUT,NIL,D,7574140.0,
 349,1982,0,1,belgium,soviet union,BEL,SUN,L,9856303.0,
 350,1982,1,3,argentina,brazil,ARG,BRA,L,28922762.0,128065095.0
@@ -354,7 +354,7 @@ Unnamed: 0,Year,Home_goals,Away_goals,Home Team,Away Team,Home Team ISO,Away Tea
 352,1982,4,1,france,northern ireland,FRA,NIL,W,55694106.0,
 353,1982,0,0,poland,soviet union,POL,SUN,D,36230481.0,
 354,1982,3,2,italy,brazil,ITA,BRA,W,56543548.0,128065095.0
-355,1982,0,0,spain,england,ESP,ENG,D,37986012.0,
+355,1982,0,0,spain,england,ESP,ENG,D,37986012.0,56313641.0
 356,1982,0,2,poland,italy,POL,ITA,L,36230481.0,56543548.0
 357,1982,3,3,germany fr,france,DEU,FRA,D,78333366.0,55694106.0
 358,1982,3,2,poland,france,POL,FRA,W,36230481.0,55694106.0
@@ -367,7 +367,7 @@ Unnamed: 0,Year,Home_goals,Away_goals,Home Team,Away Team,Home Team ISO,Away Tea
 365,1986,0,0,morocco,poland,MAR,POL,D,22824446.0,37456119.0
 366,1986,1,1,algeria,northern ireland,DZA,NIL,D,22882553.0,
 367,1986,1,2,belgium,mexico,BEL,MEX,L,9861823.0,76224365.0
-368,1986,1,0,portugal,england,PRT,ENG,W,10032734.0,
+368,1986,1,0,portugal,england,PRT,ENG,W,10032734.0,56681396.0
 369,1986,1,0,paraguay,iraq,PRY,IRQ,W,3636027.0,16148221.0
 370,1986,0,1,scotland,denmark,SCT,DNK,L,,5120534.0
 371,1986,1,1,uruguay,germany fr,URY,DEU,D,3041205.0,77720436.0
@@ -376,7 +376,7 @@ Unnamed: 0,Year,Home_goals,Away_goals,Home Team,Away Team,Home Team ISO,Away Tea
 374,1986,1,1,korea republic,bulgaria,KOR,BGR,D,41213674.0,8958171.0
 375,1986,2,0,hungary,canada,HUN,CAN,W,10630564.0,26100278.0
 376,1986,1,0,brazil,algeria,BRA,DZA,W,139643355.0,22882553.0
-377,1986,0,0,england,morocco,ENG,MAR,D,,22824446.0
+377,1986,0,0,england,morocco,ENG,MAR,D,56681396.0,22824446.0
 378,1986,1,2,northern ireland,spain,NIL,ESP,L,,38584624.0
 379,1986,1,1,mexico,paraguay,MEX,PRY,D,76224365.0,3636027.0
 380,1986,1,0,poland,portugal,POL,PRT,W,37456119.0,10032734.0
@@ -390,7 +390,7 @@ Unnamed: 0,Year,Home_goals,Away_goals,Home Team,Away Team,Home Team ISO,Away Tea
 388,1986,2,2,paraguay,belgium,PRY,BEL,D,3636027.0,9861823.0
 389,1986,0,1,iraq,mexico,IRQ,MEX,L,16148221.0,76224365.0
 390,1986,1,3,portugal,morocco,PRT,MAR,L,10032734.0,22824446.0
-391,1986,3,0,england,poland,ENG,POL,W,,37456119.0
+391,1986,3,0,england,poland,ENG,POL,W,56681396.0,37456119.0
 392,1986,0,3,northern ireland,brazil,NIL,BRA,L,,139643355.0
 393,1986,0,3,algeria,spain,DZA,ESP,L,22882553.0,38584624.0
 394,1986,0,0,scotland,uruguay,SCT,URY,D,,3041205.0
@@ -401,12 +401,12 @@ Unnamed: 0,Year,Home_goals,Away_goals,Home Team,Away Team,Home Team ISO,Away Tea
 399,1986,4,0,brazil,poland,BRA,POL,W,139643355.0,37456119.0
 400,1986,0,2,italy,france,ITA,FRA,L,56596155.0,56865193.0
 401,1986,0,1,morocco,germany fr,MAR,DEU,L,22824446.0,77720436.0
-402,1986,3,0,england,paraguay,ENG,PRY,W,,3636027.0
+402,1986,3,0,england,paraguay,ENG,PRY,W,56681396.0,3636027.0
 403,1986,1,5,denmark,spain,DNK,ESP,L,5120534.0,38584624.0
 404,1986,1,1,brazil,france,BRA,FRA,D,139643355.0,56865193.0
 405,1986,0,0,germany fr,mexico,DEU,MEX,D,77720436.0,76224365.0
 406,1986,1,1,spain,belgium,ESP,BEL,D,38584624.0,9861823.0
-407,1986,2,1,argentina,england,ARG,ENG,W,30748326.0,
+407,1986,2,1,argentina,england,ARG,ENG,W,30748326.0,56681396.0
 408,1986,0,2,france,germany fr,FRA,DEU,L,56865193.0,77720436.0
 409,1986,2,0,argentina,belgium,ARG,BEL,W,30748326.0,9861823.0
 410,1986,4,2,france,belgium,FRA,BEL,W,56865193.0,9861823.0
@@ -419,7 +419,7 @@ Unnamed: 0,Year,Home_goals,Away_goals,Home Team,Away Team,Home Team ISO,Away Tea
 417,1990,2,1,brazil,sweden,BRA,SWE,W,150706446.0,8558835.0
 418,1990,4,1,germany fr,yugoslavia,DEU,YUG,W,79433029.0,
 419,1990,1,0,costa rica,scotland,CRI,SCT,W,3158253.0,
-420,1990,1,1,england,"rn"">republic of ireland",ENG,IRL,D,,3513974.0
+420,1990,1,1,england,"rn"">republic of ireland",ENG,IRL,D,57247586.0,3513974.0
 421,1990,2,0,belgium,korea republic,BEL,KOR,W,9967379.0,42869283.0
 422,1990,1,1,netherlands,egypt,NLD,EGY,D,14951510.0,57214630.0
 423,1990,0,0,uruguay,spain,URY,ESP,D,3117012.0,38867322.0
@@ -431,7 +431,7 @@ Unnamed: 0,Year,Home_goals,Away_goals,Home Team,Away Team,Home Team ISO,Away Tea
 429,1990,5,1,germany fr,"rn"">united arab emirates",DEU,ARE,W,79433029.0,1900151.0
 430,1990,1,0,brazil,costa rica,BRA,CRI,W,150706446.0,3158253.0
 431,1990,1,2,sweden,scotland,SWE,SCT,L,8558835.0,
-432,1990,0,0,england,netherlands,ENG,NLD,D,,14951510.0
+432,1990,0,0,england,netherlands,ENG,NLD,D,57247586.0,14951510.0
 433,1990,0,0,"rn"">republic of ireland",egypt,IRL,EGY,D,3513974.0,57214630.0
 434,1990,1,3,korea republic,spain,KOR,ESP,L,42869283.0,38867322.0
 435,1990,3,1,belgium,uruguay,BEL,URY,W,9967379.0,3117012.0
@@ -446,7 +446,7 @@ Unnamed: 0,Year,Home_goals,Away_goals,Home Team,Away Team,Home Team ISO,Away Tea
 444,1990,0,1,korea republic,uruguay,KOR,URY,L,42869283.0,3117012.0
 445,1990,1,2,belgium,spain,BEL,ESP,L,9967379.0,38867322.0
 446,1990,1,1,"rn"">republic of ireland",netherlands,IRL,NLD,D,3513974.0,14951510.0
-447,1990,1,0,england,egypt,ENG,EGY,W,,57214630.0
+447,1990,1,0,england,egypt,ENG,EGY,W,57247586.0,57214630.0
 448,1990,2,1,cameroon,colombia,CMR,COL,W,11430520.0,32601393.0
 449,1990,4,1,czechoslovakia,costa rica,CZE,CRI,W,10333355.0,3158253.0
 450,1990,0,1,brazil,argentina,BRA,ARG,L,150706446.0,32637657.0
@@ -454,14 +454,14 @@ Unnamed: 0,Year,Home_goals,Away_goals,Home Team,Away Team,Home Team ISO,Away Tea
 452,1990,0,0,"rn"">republic of ireland",romania,IRL,ROU,D,3513974.0,23201835.0
 453,1990,2,0,italy,uruguay,ITA,URY,W,56719240.0,3117012.0
 454,1990,1,2,spain,yugoslavia,ESP,YUG,L,38867322.0,
-455,1990,1,0,england,belgium,ENG,BEL,W,,9967379.0
+455,1990,1,0,england,belgium,ENG,BEL,W,57247586.0,9967379.0
 456,1990,0,0,yugoslavia,argentina,YUG,ARG,D,,32637657.0
 457,1990,1,0,italy,"rn"">republic of ireland",ITA,IRL,W,56719240.0,3513974.0
 458,1990,1,0,germany fr,czechoslovakia,DEU,CZE,W,79433029.0,10333355.0
-459,1990,3,2,england,cameroon,ENG,CMR,W,,11430520.0
+459,1990,3,2,england,cameroon,ENG,CMR,W,57247586.0,11430520.0
 460,1990,1,1,italy,argentina,ITA,ARG,D,56719240.0,32637657.0
-461,1990,1,1,germany fr,england,DEU,ENG,D,79433029.0,
-462,1990,2,1,italy,england,ITA,ENG,W,56719240.0,
+461,1990,1,1,germany fr,england,DEU,ENG,D,79433029.0,57247586.0
+462,1990,2,1,italy,england,ITA,ENG,W,56719240.0,57247586.0
 463,1990,1,0,germany fr,argentina,DEU,ARG,W,79433029.0,32637657.0
 464,1994,2,2,spain,korea republic,ESP,KOR,D,39549108.0,44641540.0
 465,1994,1,0,germany,bolivia,DEU,BOL,W,81438348.0,7693722.0
@@ -528,7 +528,7 @@ Unnamed: 0,Year,Home_goals,Away_goals,Home Team,Away Team,Home Team ISO,Away Tea
 526,1998,1,0,argentina,japan,ARG,JPN,W,36233195.0,126400000.0
 527,1998,1,0,yugoslavia,iran,YUG,IRN,W,,63461421.0
 528,1998,1,3,jamaica,croatia,JAM,HRV,L,2576567.0,4532135.0
-529,1998,2,0,england,tunisia,ENG,TUN,W,,9677148.0
+529,1998,2,0,england,tunisia,ENG,TUN,W,58487141.0,9677148.0
 530,1998,1,0,romania,colombia,ROU,COL,W,22507344.0,37944414.0
 531,1998,2,0,germany,usa,DEU,USA,W,82047195.0,275854000.0
 532,1998,1,1,scotland,norway,SCT,NOR,D,,4431464.0
@@ -546,7 +546,7 @@ Unnamed: 0,Year,Home_goals,Away_goals,Home Team,Away Team,Home Team ISO,Away Tea
 544,1998,5,0,argentina,jamaica,ARG,JAM,W,36233195.0,2576567.0
 545,1998,1,2,usa,iran,USA,IRN,L,275854000.0,63461421.0
 546,1998,1,0,colombia,tunisia,COL,TUN,W,37944414.0,9677148.0
-547,1998,2,1,romania,england,ROU,ENG,W,22507344.0,
+547,1998,2,1,romania,england,ROU,ENG,W,22507344.0,58487141.0
 548,1998,2,1,italy,austria,ITA,AUT,W,56906744.0,7976789.0
 549,1998,1,1,chile,cameroon,CHL,CMR,D,14996742.0,14314599.0
 550,1998,0,3,scotland,morocco,SCT,MAR,L,,27791825.0
@@ -562,7 +562,7 @@ Unnamed: 0,Year,Home_goals,Away_goals,Home Team,Away Team,Home Team ISO,Away Tea
 560,1998,1,2,japan,jamaica,JPN,JAM,L,126400000.0,2576567.0
 561,1998,1,0,argentina,croatia,ARG,HRV,W,36233195.0,4532135.0
 562,1998,1,1,romania,tunisia,ROU,TUN,D,22507344.0,9677148.0
-563,1998,0,2,colombia,england,COL,ENG,L,37944414.0,
+563,1998,0,2,colombia,england,COL,ENG,L,37944414.0,58487141.0
 564,1998,1,0,italy,norway,ITA,NOR,W,56906744.0,4431464.0
 565,1998,4,1,brazil,chile,BRA,CHL,W,171039804.0,14996742.0
 566,1998,1,0,france,paraguay,FRA,PRY,W,60192790.0,4923449.0
@@ -570,7 +570,7 @@ Unnamed: 0,Year,Home_goals,Away_goals,Home Team,Away Team,Home Team ISO,Away Tea
 568,1998,2,1,germany,mexico,DEU,MEX,W,82047195.0,94767284.0
 569,1998,2,1,netherlands,yugoslavia,NLD,YUG,W,15707209.0,
 570,1998,0,1,romania,croatia,ROU,HRV,L,22507344.0,4532135.0
-571,1998,2,2,argentina,england,ARG,ENG,D,36233195.0,
+571,1998,2,2,argentina,england,ARG,ENG,D,36233195.0,58487141.0
 572,1998,0,0,italy,france,ITA,FRA,D,56906744.0,60192790.0
 573,1998,3,2,brazil,denmark,BRA,DNK,W,171039804.0,5304219.0
 574,1998,2,1,netherlands,argentina,NLD,ARG,W,15707209.0,36233195.0
@@ -585,7 +585,7 @@ Unnamed: 0,Year,Home_goals,Away_goals,Home Team,Away Team,Home Team ISO,Away Tea
 583,2002,8,0,germany,saudi arabia,DEU,SAU,W,82488495.0,22623415.0
 584,2002,1,0,argentina,nigeria,ARG,NGA,W,37885028.0,129583026.0
 585,2002,2,2,paraguay,south africa,PRY,ZAF,D,5286512.0,47661514.0
-586,2002,1,1,england,sweden,ENG,SWE,D,,8924958.0
+586,2002,1,1,england,sweden,ENG,SWE,D,59370479.0,8924958.0
 587,2002,3,1,spain,slovenia,ESP,SVN,W,41431558.0,1994530.0
 588,2002,2,1,brazil,turkey,BRA,TUR,W,180476685.0,65988663.0
 589,2002,2,0,italy,ecuador,ITA,ECU,W,57059007.0,13070609.0
@@ -600,7 +600,7 @@ Unnamed: 0,Year,Home_goals,Away_goals,Home Team,Away Team,Home Team ISO,Away Tea
 598,2002,1,0,cameroon,saudi arabia,CMR,SAU,W,15914033.0,22623415.0
 599,2002,0,0,france,uruguay,FRA,URY,D,61816234.0,3306441.0
 600,2002,2,1,sweden,nigeria,SWE,NGA,W,8924958.0,129583026.0
-601,2002,0,1,argentina,england,ARG,ENG,L,37885028.0,
+601,2002,0,1,argentina,england,ARG,ENG,L,37885028.0,59370479.0
 602,2002,3,1,spain,paraguay,ESP,PRY,W,41431558.0,5286512.0
 603,2002,1,0,south africa,slovenia,ZAF,SVN,W,47661514.0,1994530.0
 604,2002,4,0,brazil,china pr,BRA,CHN,W,180476685.0,1280400000.0
@@ -616,7 +616,7 @@ Unnamed: 0,Year,Home_goals,Away_goals,Home Team,Away Team,Home Team ISO,Away Tea
 614,2002,0,3,saudi arabia,"rn"">republic of ireland",SAU,IRL,L,22623415.0,3931947.0
 615,2002,0,2,cameroon,germany,CMR,DEU,L,15914033.0,82488495.0
 616,2002,1,1,sweden,argentina,SWE,ARG,D,8924958.0,37885028.0
-617,2002,0,0,nigeria,england,NGA,ENG,D,129583026.0,
+617,2002,0,0,nigeria,england,NGA,ENG,D,129583026.0,59370479.0
 618,2002,1,3,slovenia,paraguay,SVN,PRY,L,1994530.0,5286512.0
 619,2002,2,3,south africa,spain,ZAF,ESP,L,47661514.0,41431558.0
 620,2002,2,5,costa rica,brazil,CRI,BRA,L,4122623.0,180476685.0
@@ -627,7 +627,7 @@ Unnamed: 0,Year,Home_goals,Away_goals,Home Team,Away Team,Home Team ISO,Away Tea
 625,2002,0,1,portugal,korea republic,PRT,KOR,L,10419631.0,47644736.0
 626,2002,3,1,poland,usa,POL,USA,W,38230364.0,287625193.0
 627,2002,3,2,belgium,russia,BEL,RUS,W,10332785.0,145306497.0
-628,2002,0,3,denmark,england,DNK,ENG,L,5375931.0,
+628,2002,0,3,denmark,england,DNK,ENG,L,5375931.0,59370479.0
 629,2002,1,0,germany,paraguay,DEU,PRY,W,82488495.0,5286512.0
 630,2002,1,1,spain,"rn"">republic of ireland",ESP,IRL,D,41431558.0,3931947.0
 631,2002,1,2,sweden,senegal,SWE,SEN,L,8924958.0,10180950.0
@@ -635,7 +635,7 @@ Unnamed: 0,Year,Home_goals,Away_goals,Home Team,Away Team,Home Team ISO,Away Tea
 633,2002,0,2,mexico,usa,MEX,USA,L,100917081.0,287625193.0
 634,2002,0,1,japan,turkey,JPN,TUR,L,127445000.0,65988663.0
 635,2002,2,1,korea republic,italy,KOR,ITA,W,47644736.0,57059007.0
-636,2002,1,2,england,brazil,ENG,BRA,L,,180476685.0
+636,2002,1,2,england,brazil,ENG,BRA,L,59370479.0,180476685.0
 637,2002,1,0,germany,usa,DEU,USA,W,82488495.0,287625193.0
 638,2002,0,1,senegal,turkey,SEN,TUR,L,10180950.0,65988663.0
 639,2002,0,0,spain,korea republic,ESP,KOR,D,41431558.0,47644736.0
@@ -645,7 +645,7 @@ Unnamed: 0,Year,Home_goals,Away_goals,Home Team,Away Team,Home Team ISO,Away Tea
 643,2002,0,2,germany,brazil,DEU,BRA,L,82488495.0,180476685.0
 644,2006,4,2,germany,costa rica,DEU,CRI,W,82376451.0,4378172.0
 645,2006,0,2,poland,ecuador,POL,ECU,L,38141267.0,14009061.0
-646,2006,1,0,england,paraguay,ENG,PRY,W,,5534675.0
+646,2006,1,0,england,paraguay,ENG,PRY,W,60846820.0,5534675.0
 647,2006,0,0,"rn"">trinidad and tobago",sweden,TTO,SWE,D,1376919.0,9080505.0
 648,2006,2,1,argentina,c�te d'ivoire,ARG,CIV,W,39476851.0,19394057.0
 649,2006,0,1,"rn"">serbia and montenegro",netherlands,SCG,NLD,L,,16346101.0
@@ -661,7 +661,7 @@ Unnamed: 0,Year,Home_goals,Away_goals,Home Team,Away Team,Home Team ISO,Away Tea
 659,2006,2,2,tunisia,saudi arabia,TUN,SAU,D,10483558.0,25382870.0
 660,2006,1,0,germany,poland,DEU,POL,W,82376451.0,38141267.0
 661,2006,3,0,ecuador,costa rica,ECU,CRI,W,14009061.0,4378172.0
-662,2006,2,0,england,"rn"">trinidad and tobago",ENG,TTO,W,,1376919.0
+662,2006,2,0,england,"rn"">trinidad and tobago",ENG,TTO,W,60846820.0,1376919.0
 663,2006,1,0,sweden,paraguay,SWE,PRY,W,9080505.0,5534675.0
 664,2006,6,0,argentina,"rn"">serbia and montenegro",ARG,SCG,W,39476851.0,
 665,2006,2,1,netherlands,c�te d'ivoire,NLD,CIV,W,16346101.0,19394057.0
@@ -677,7 +677,7 @@ Unnamed: 0,Year,Home_goals,Away_goals,Home Team,Away Team,Home Team ISO,Away Tea
 675,2006,3,1,spain,tunisia,ESP,TUN,W,44397319.0,10483558.0
 676,2006,0,3,ecuador,germany,ECU,DEU,L,14009061.0,82376451.0
 677,2006,1,2,costa rica,poland,CRI,POL,L,4378172.0,38141267.0
-678,2006,2,2,sweden,england,SWE,ENG,D,9080505.0,
+678,2006,2,2,sweden,england,SWE,ENG,D,9080505.0,60846820.0
 679,2006,2,0,paraguay,"rn"">trinidad and tobago",PRY,TTO,W,5534675.0,1376919.0
 680,2006,1,1,iran,angola,IRN,AGO,D,71275760.0,20162340.0
 681,2006,2,1,portugal,mexico,PRT,MEX,W,10522288.0,106886790.0
@@ -693,7 +693,7 @@ Unnamed: 0,Year,Home_goals,Away_goals,Home Team,Away Team,Home Team ISO,Away Tea
 691,2006,2,0,switzerland,korea republic,CHE,KOR,W,7483934.0,48438292.0
 692,2006,2,0,germany,sweden,DEU,SWE,W,82376451.0,9080505.0
 693,2006,2,1,argentina,mexico,ARG,MEX,W,39476851.0,106886790.0
-694,2006,1,0,england,ecuador,ENG,ECU,W,,14009061.0
+694,2006,1,0,england,ecuador,ENG,ECU,W,60846820.0,14009061.0
 695,2006,1,0,portugal,netherlands,PRT,NLD,W,10522288.0,16346101.0
 696,2006,1,0,italy,australia,ITA,AUS,W,58143979.0,20450966.0
 697,2006,0,0,switzerland,ukraine,CHE,UKR,D,7483934.0,46787786.0
@@ -701,7 +701,7 @@ Unnamed: 0,Year,Home_goals,Away_goals,Home Team,Away Team,Home Team ISO,Away Tea
 699,2006,1,3,spain,france,ESP,FRA,L,44397319.0,63628261.0
 700,2006,1,1,germany,argentina,DEU,ARG,D,82376451.0,39476851.0
 701,2006,3,0,italy,ukraine,ITA,UKR,W,58143979.0,46787786.0
-702,2006,0,0,england,portugal,ENG,PRT,D,,10522288.0
+702,2006,0,0,england,portugal,ENG,PRT,D,60846820.0,10522288.0
 703,2006,0,1,brazil,france,BRA,FRA,L,188820682.0,63628261.0
 704,2006,0,2,germany,italy,DEU,ITA,L,82376451.0,58143979.0
 705,2006,0,1,portugal,france,PRT,FRA,L,10522288.0,63628261.0
@@ -711,7 +711,7 @@ Unnamed: 0,Year,Home_goals,Away_goals,Home Team,Away Team,Home Team ISO,Away Tea
 709,2010,0,0,uruguay,france,URY,FRA,D,3352651.0,65030575.0
 710,2010,2,0,korea republic,greece,KOR,GRC,W,49554112.0,11121341.0
 711,2010,1,0,argentina,nigeria,ARG,NGA,W,40788453.0,160952853.0
-712,2010,1,1,england,usa,ENG,USA,D,,309327143.0
+712,2010,1,1,england,usa,ENG,USA,D,62766365.0,309327143.0
 713,2010,0,1,algeria,slovenia,DZA,SVN,L,35856344.0,2048583.0
 714,2010,0,1,serbia,ghana,SRB,GHA,L,7291436.0,25574719.0
 715,2010,4,0,germany,australia,DEU,AUS,W,81776930.0,22031750.0
@@ -729,7 +729,7 @@ Unnamed: 0,Year,Home_goals,Away_goals,Home Team,Away Team,Home Team ISO,Away Tea
 727,2010,0,2,france,mexico,FRA,MEX,L,65030575.0,112532401.0
 728,2010,0,1,germany,serbia,DEU,SRB,L,81776930.0,7291436.0
 729,2010,2,2,slovenia,usa,SVN,USA,D,2048583.0,309327143.0
-730,2010,0,0,england,algeria,ENG,DZA,D,,35856344.0
+730,2010,0,0,england,algeria,ENG,DZA,D,62766365.0,35856344.0
 731,2010,1,0,netherlands,japan,NLD,JPN,W,16615394.0,128070000.0
 732,2010,1,1,ghana,australia,GHA,AUS,D,25574719.0,22031750.0
 733,2010,1,2,cameroon,denmark,CMR,DNK,L,19878036.0,5547683.0
@@ -743,7 +743,7 @@ Unnamed: 0,Year,Home_goals,Away_goals,Home Team,Away Team,Home Team ISO,Away Tea
 741,2010,1,2,france,south africa,FRA,ZAF,L,65030575.0,51784921.0
 742,2010,2,2,nigeria,korea republic,NGA,KOR,D,160952853.0,49554112.0
 743,2010,0,2,greece,argentina,GRC,ARG,L,11121341.0,40788453.0
-744,2010,0,1,slovenia,england,SVN,ENG,L,2048583.0,
+744,2010,0,1,slovenia,england,SVN,ENG,L,2048583.0,62766365.0
 745,2010,1,0,usa,algeria,USA,DZA,W,309327143.0,35856344.0
 746,2010,0,1,ghana,germany,GHA,DEU,L,25574719.0,81776930.0
 747,2010,2,1,australia,serbia,AUS,SRB,W,22031750.0,7291436.0
@@ -757,7 +757,7 @@ Unnamed: 0,Year,Home_goals,Away_goals,Home Team,Away Team,Home Team ISO,Away Tea
 755,2010,0,0,switzerland,honduras,CHE,HND,D,7824909.0,8450933.0
 756,2010,2,1,uruguay,korea republic,URY,KOR,W,3352651.0,49554112.0
 757,2010,1,2,usa,ghana,USA,GHA,L,309327143.0,25574719.0
-758,2010,4,1,germany,england,DEU,ENG,W,81776930.0,
+758,2010,4,1,germany,england,DEU,ENG,W,81776930.0,62766365.0
 759,2010,3,1,argentina,mexico,ARG,MEX,W,40788453.0,112532401.0
 760,2010,2,1,netherlands,slovakia,NLD,SVK,W,16615394.0,5391428.0
 761,2010,3,0,brazil,chile,BRA,CHL,W,196353492.0,17004162.0
@@ -777,7 +777,7 @@ Unnamed: 0,Year,Home_goals,Away_goals,Home Team,Away Team,Home Team ISO,Away Tea
 775,2014,3,1,chile,australia,CHL,AUS,W,17687108.0,23475686.0
 776,2014,3,0,colombia,greece,COL,GRC,W,46677947.0,10892413.0
 777,2014,1,3,uruguay,costa rica,URY,CRI,L,3391662.0,4844288.0
-778,2014,1,2,england,italy,ENG,ITA,L,,60789140.0
+778,2014,1,2,england,italy,ENG,ITA,L,64602298.0,60789140.0
 779,2014,2,1,c�te d'ivoire,japan,CIV,JPN,W,22995555.0,127276000.0
 780,2014,2,1,switzerland,ecuador,CHE,ECU,W,8188649.0,15957994.0
 781,2014,3,0,france,honduras,FRA,HND,W,66312067.0,9127846.0
@@ -792,7 +792,7 @@ Unnamed: 0,Year,Home_goals,Away_goals,Home Team,Away Team,Home Team ISO,Away Tea
 790,2014,0,2,spain,chile,ESP,CHL,L,46480882.0,17687108.0
 791,2014,0,4,cameroon,croatia,CMR,HRV,L,22299585.0,4238389.0
 792,2014,2,1,colombia,c�te d'ivoire,COL,CIV,W,46677947.0,22995555.0
-793,2014,2,1,uruguay,england,URY,ENG,W,3391662.0,
+793,2014,2,1,uruguay,england,URY,ENG,W,3391662.0,64602298.0
 794,2014,0,0,japan,greece,JPN,GRC,D,127276000.0,10892413.0
 795,2014,0,1,italy,costa rica,ITA,CRI,L,60789140.0,4844288.0
 796,2014,2,5,switzerland,france,CHE,FRA,L,8188649.0,66312067.0
@@ -808,7 +808,7 @@ Unnamed: 0,Year,Home_goals,Away_goals,Home Team,Away Team,Home Team ISO,Away Tea
 806,2014,1,4,cameroon,brazil,CMR,BRA,L,22299585.0,203459650.0
 807,2014,1,3,croatia,mexico,HRV,MEX,L,4238389.0,118755887.0
 808,2014,0,1,italy,uruguay,ITA,URY,L,60789140.0,3391662.0
-809,2014,0,0,costa rica,england,CRI,ENG,D,4844288.0,
+809,2014,0,0,costa rica,england,CRI,ENG,D,4844288.0,64602298.0
 810,2014,1,4,japan,colombia,JPN,COL,L,127276000.0,46677947.0
 811,2014,2,1,greece,c�te d'ivoire,GRC,CIV,W,10892413.0,22995555.0
 812,2014,2,3,nigeria,argentina,NGA,ARG,L,179379016.0,42669500.0
@@ -864,7 +864,7 @@ Unnamed: 0,Year,Home_goals,Away_goals,Home Team,Away Team,Home Team ISO,Away Tea
 862,2018,1,1,brazil,switzerland,BRA,CHE,D,210166592.0,8514329.0
 863,2018,1,0,sweden,south korea,SWE,KOR,W,10175214.0,51585058.0
 864,2018,3,0,belgium,panama,BEL,PAN,W,11427054.0,4165255.0
-865,2018,1,2,tunisia,england,TUN,ENG,L,11933041.0,
+865,2018,1,2,tunisia,england,TUN,ENG,L,11933041.0,66460344.0
 866,2018,1,2,colombia,japan,COL,JPN,L,49276961.0,126811000.0
 867,2018,1,2,poland,senegal,POL,SEN,L,37974750.0,15574909.0
 868,2018,3,1,russia,egypt,RUS,EGY,W,144477859.0,103740765.0
@@ -880,7 +880,7 @@ Unnamed: 0,Year,Home_goals,Away_goals,Home Team,Away Team,Home Team ISO,Away Tea
 878,2018,5,2,belgium,tunisia,BEL,TUN,W,11427054.0,11933041.0
 879,2018,1,2,south korea,mexico,KOR,MEX,L,51585058.0,124013861.0
 880,2018,2,1,germany,sweden,DEU,SWE,W,82905782.0,10175214.0
-881,2018,6,1,england,panama,ENG,PAN,W,,4165255.0
+881,2018,6,1,england,panama,ENG,PAN,W,66460344.0,4165255.0
 882,2018,2,2,japan,senegal,JPN,SEN,D,126811000.0,15574909.0
 883,2018,0,3,poland,colombia,POL,COL,L,37974750.0,49276961.0
 884,2018,2,1,saudi arabia,egypt,SAU,EGY,W,35018133.0,103740765.0
@@ -897,7 +897,7 @@ Unnamed: 0,Year,Home_goals,Away_goals,Home Team,Away Team,Home Team ISO,Away Tea
 895,2018,0,2,serbia,brazil,SRB,BRA,L,6982604.0,210166592.0
 896,2018,0,1,senegal,colombia,SEN,COL,L,15574909.0,49276961.0
 897,2018,0,1,japan,poland,JPN,POL,L,126811000.0,37974750.0
-898,2018,0,1,england,belgium,ENG,BEL,L,,11427054.0
+898,2018,0,1,england,belgium,ENG,BEL,L,66460344.0,11427054.0
 899,2018,1,2,panama,tunisia,PAN,TUN,L,4165255.0,11933041.0
 900,2018,4,3,france,argentina,FRA,ARG,W,67158348.0,44494502.0
 901,2018,2,1,uruguay,portugal,URY,PRT,W,3427042.0,10283822.0
@@ -906,17 +906,17 @@ Unnamed: 0,Year,Home_goals,Away_goals,Home Team,Away Team,Home Team ISO,Away Tea
 904,2018,2,0,brazil,mexico,BRA,MEX,W,210166592.0,124013861.0
 905,2018,3,2,belgium,japan,BEL,JPN,W,11427054.0,126811000.0
 906,2018,1,0,sweden,switzerland,SWE,CHE,W,10175214.0,8514329.0
-907,2018,1,1,colombia,england,COL,ENG,D,49276961.0,
+907,2018,1,1,colombia,england,COL,ENG,D,49276961.0,66460344.0
 908,2018,0,2,uruguay,france,URY,FRA,L,3427042.0,67158348.0
 909,2018,1,2,brazil,belgium,BRA,BEL,L,210166592.0,11427054.0
-910,2018,0,2,sweden,england,SWE,ENG,L,10175214.0,
+910,2018,0,2,sweden,england,SWE,ENG,L,10175214.0,66460344.0
 911,2018,2,2,russia,croatia,RUS,HRV,D,144477859.0,4087843.0
 912,2018,1,0,france,belgium,FRA,BEL,W,67158348.0,11427054.0
-913,2018,2,1,croatia,england,HRV,ENG,W,4087843.0,
-914,2018,2,0,belgium,england,BEL,ENG,W,11427054.0,
+913,2018,2,1,croatia,england,HRV,ENG,W,4087843.0,66460344.0
+914,2018,2,0,belgium,england,BEL,ENG,W,11427054.0,66460344.0
 915,2018,4,2,croatia,france,HRV,FRA,W,4087843.0,67158348.0
 916,2022,0,2,qatar,ecuador,QAT,ECU,L,2695122.0,18001000.0
-917,2022,6,2,england,iran,ENG,IRN,W,,88550570.0
+917,2022,6,2,england,iran,ENG,IRN,W,66971395.0,88550570.0
 918,2022,0,2,senegal,netherlands,SEN,NLD,L,17316449.0,17700982.0
 919,2022,1,1,united states,wales,USA,WLS,D,333287557.0,
 920,2022,1,2,argentina,saudi arabia,ARG,SAU,L,46234830.0,36408820.0
@@ -934,7 +934,7 @@ Unnamed: 0,Year,Home_goals,Away_goals,Home Team,Away Team,Home Team ISO,Away Tea
 932,2022,0,2,wales,iran,WLS,IRN,L,,88550570.0
 933,2022,1,3,qatar,senegal,QAT,SEN,L,2695122.0,17316449.0
 934,2022,1,1,netherlands,ecuador,NLD,ECU,D,17700982.0,18001000.0
-935,2022,0,0,england,united states,ENG,USA,D,,333287557.0
+935,2022,0,0,england,united states,ENG,USA,D,66971395.0,333287557.0
 936,2022,0,1,tunisia,australia,TUN,AUS,L,12356117.0,26005540.0
 937,2022,2,0,poland,saudi arabia,POL,SAU,W,36821749.0,36408820.0
 938,2022,2,1,france,denmark,FRA,DNK,W,67971311.0,5903037.0
@@ -949,7 +949,7 @@ Unnamed: 0,Year,Home_goals,Away_goals,Home Team,Away Team,Home Team ISO,Away Tea
 947,2022,2,0,portugal,uruguay,PRT,URY,W,10409704.0,3422794.0
 948,2022,2,0,netherlands,qatar,NLD,QAT,W,17700982.0,2695122.0
 949,2022,1,2,ecuador,senegal,ECU,SEN,L,18001000.0,17316449.0
-950,2022,0,3,wales,england,WLS,ENG,L,,
+950,2022,0,3,wales,england,WLS,ENG,L,,66971395.0
 951,2022,0,1,iran,united states,IRN,USA,L,88550570.0,333287557.0
 952,2022,1,0,australia,denmark,AUS,DNK,W,26005540.0,5903037.0
 953,2022,1,0,tunisia,france,TUN,FRA,W,12356117.0,67971311.0
@@ -966,7 +966,7 @@ Unnamed: 0,Year,Home_goals,Away_goals,Home Team,Away Team,Home Team ISO,Away Tea
 964,2022,3,1,netherlands,united states,NLD,USA,W,17700982.0,333287557.0
 965,2022,2,1,argentina,australia,ARG,AUS,W,46234830.0,26005540.0
 966,2022,3,1,france,poland,FRA,POL,W,67971311.0,36821749.0
-967,2022,3,0,england,senegal,ENG,SEN,W,,17316449.0
+967,2022,3,0,england,senegal,ENG,SEN,W,66971395.0,17316449.0
 968,2022,1,1,japan,croatia,JPN,HRV,D,125124989.0,3855600.0
 969,2022,4,1,brazil,korea republic,BRA,KOR,W,215313498.0,51628117.0
 970,2022,0,0,morocco,spain,MAR,ESP,D,37457971.0,47778340.0
@@ -974,7 +974,7 @@ Unnamed: 0,Year,Home_goals,Away_goals,Home Team,Away Team,Home Team ISO,Away Tea
 972,2022,1,1,croatia,brazil,HRV,BRA,D,3855600.0,215313498.0
 973,2022,2,2,netherlands,argentina,NLD,ARG,D,17700982.0,46234830.0
 974,2022,1,0,morocco,portugal,MAR,PRT,W,37457971.0,10409704.0
-975,2022,1,2,england,france,ENG,FRA,L,,67971311.0
+975,2022,1,2,england,france,ENG,FRA,L,66971395.0,67971311.0
 976,2022,3,0,argentina,croatia,ARG,HRV,W,46234830.0,3855600.0
 977,2022,2,0,france,morocco,FRA,MAR,W,67971311.0,37457971.0
 978,2022,2,1,croatia,morocco,HRV,MAR,W,3855600.0,37457971.0
