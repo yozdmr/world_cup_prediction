@@ -1,0 +1,981 @@
+Year,Home_goals,Away_goals,Home Team,Away Team,Home Team ISO,Away Team ISO,GDP Home,GDP Away
+1930,4,1,france,mexico,FRA,MEX,,
+1930,3,0,usa,belgium,USA,BEL,,
+1930,2,1,yugoslavia,brazil,YUG,BRA,,
+1930,3,1,romania,peru,ROU,PER,,
+1930,1,0,argentina,france,ARG,FRA,,
+1930,3,0,chile,mexico,CHL,MEX,,
+1930,4,0,yugoslavia,bolivia,YUG,BOL,,
+1930,3,0,usa,paraguay,USA,PRY,,
+1930,1,0,uruguay,peru,URY,PER,,
+1930,1,0,chile,france,CHL,FRA,,
+1930,6,3,argentina,mexico,ARG,MEX,,
+1930,4,0,brazil,bolivia,BRA,BOL,,
+1930,1,0,paraguay,belgium,PRY,BEL,,
+1930,4,0,uruguay,romania,URY,ROU,,
+1930,3,1,argentina,chile,ARG,CHL,,
+1930,6,1,argentina,usa,ARG,USA,,
+1930,6,1,uruguay,yugoslavia,URY,YUG,,
+1930,4,2,uruguay,argentina,URY,ARG,,
+1934,3,2,austria,france,AUT,FRA,,
+1934,4,2,hungary,egypt,HUN,EGY,,
+1934,3,2,switzerland,netherlands,CHE,NLD,,
+1934,3,2,sweden,argentina,SWE,ARG,,
+1934,5,2,germany,belgium,DEU,BEL,,
+1934,3,1,spain,brazil,ESP,BRA,,
+1934,7,1,italy,usa,ITA,USA,,
+1934,2,1,czechoslovakia,romania,CZE,ROU,,
+1934,3,2,czechoslovakia,switzerland,CZE,CHE,,
+1934,2,1,germany,sweden,DEU,SWE,,
+1934,1,1,italy,spain,ITA,ESP,,
+1934,2,1,austria,hungary,AUT,HUN,,
+1934,1,0,italy,spain,ITA,ESP,,
+1934,1,0,italy,austria,ITA,AUT,,
+1934,3,1,czechoslovakia,germany,CZE,DEU,,
+1934,3,2,germany,austria,DEU,AUT,,
+1934,2,1,italy,czechoslovakia,ITA,CZE,,
+1938,1,1,switzerland,germany,CHE,DEU,,
+1938,6,0,hungary,dutch east indies,HUN,INH,,
+1938,3,1,france,belgium,FRA,BEL,,
+1938,3,3,cuba,romania,CUB,ROU,,
+1938,2,1,italy,norway,ITA,NOR,,
+1938,6,5,brazil,poland,BRA,POL,,
+1938,3,0,czechoslovakia,netherlands,CZE,NLD,,
+1938,2,1,cuba,romania,CUB,ROU,,
+1938,4,2,switzerland,germany,CHE,DEU,,
+1938,1,1,brazil,czechoslovakia,BRA,CZE,,
+1938,2,0,hungary,switzerland,HUN,CHE,,
+1938,8,0,sweden,cuba,SWE,CUB,,
+1938,3,1,italy,france,ITA,FRA,,
+1938,2,1,brazil,czechoslovakia,BRA,CZE,,
+1938,5,1,hungary,sweden,HUN,SWE,,
+1938,2,1,italy,brazil,ITA,BRA,,
+1938,4,2,brazil,sweden,BRA,SWE,,
+1938,4,2,italy,hungary,ITA,HUN,,
+1950,4,0,brazil,mexico,BRA,MEX,,
+1950,2,0,england,chile,ENG,CHL,,
+1950,3,1,spain,usa,ESP,USA,,
+1950,3,2,sweden,italy,SWE,ITA,,
+1950,3,0,yugoslavia,switzerland,YUG,CHE,,
+1950,2,2,brazil,switzerland,BRA,CHE,,
+1950,4,1,yugoslavia,mexico,YUG,MEX,,
+1950,2,0,spain,chile,ESP,CHL,,
+1950,2,2,sweden,paraguay,SWE,PRY,,
+1950,1,0,usa,england,USA,ENG,,
+1950,2,0,brazil,yugoslavia,BRA,YUG,,
+1950,1,0,spain,england,ESP,ENG,,
+1950,2,0,italy,paraguay,ITA,PRY,,
+1950,8,0,uruguay,bolivia,URY,BOL,,
+1950,2,1,switzerland,mexico,CHE,MEX,,
+1950,5,2,chile,usa,CHL,USA,,
+1950,2,2,uruguay,spain,URY,ESP,,
+1950,7,1,brazil,sweden,BRA,SWE,,
+1950,6,1,brazil,spain,BRA,ESP,,
+1950,3,2,uruguay,sweden,URY,SWE,,
+1950,3,1,sweden,spain,SWE,ESP,,
+1950,2,1,uruguay,brazil,URY,BRA,,
+1954,2,0,uruguay,czechoslovakia,URY,CZE,,
+1954,1,0,austria,scotland,AUT,SCT,,
+1954,5,0,brazil,mexico,BRA,MEX,,
+1954,1,0,yugoslavia,france,YUG,FRA,,
+1954,4,1,germany fr,turkey,DEU,TUR,,
+1954,9,0,hungary,korea republic,HUN,KOR,,
+1954,4,4,england,belgium,ENG,BEL,,
+1954,2,1,switzerland,italy,CHE,ITA,,
+1954,7,0,uruguay,scotland,URY,SCT,,
+1954,5,0,austria,czechoslovakia,AUT,CZE,,
+1954,3,2,france,mexico,FRA,MEX,,
+1954,1,1,brazil,yugoslavia,BRA,YUG,,
+1954,8,3,hungary,germany fr,HUN,DEU,,
+1954,7,0,turkey,korea republic,TUR,KOR,,
+1954,2,0,england,switzerland,ENG,CHE,,
+1954,4,1,italy,belgium,ITA,BEL,,
+1954,7,2,germany fr,turkey,DEU,TUR,,
+1954,4,1,switzerland,italy,CHE,ITA,,
+1954,4,2,uruguay,england,URY,ENG,,
+1954,7,5,austria,switzerland,AUT,CHE,,
+1954,2,0,germany fr,yugoslavia,DEU,YUG,,
+1954,4,2,hungary,brazil,HUN,BRA,,
+1954,6,1,germany fr,austria,DEU,AUT,,
+1954,4,2,hungary,uruguay,HUN,URY,,
+1954,3,1,austria,uruguay,AUT,URY,,
+1954,3,2,germany fr,hungary,DEU,HUN,,
+1958,3,0,sweden,mexico,SWE,MEX,,
+1958,2,2,soviet union,england,SUN,ENG,,
+1958,1,3,argentina,germany fr,ARG,DEU,,
+1958,1,1,hungary,wales,HUN,WLS,,
+1958,7,3,france,paraguay,FRA,PRY,,
+1958,1,1,yugoslavia,scotland,YUG,SCT,,
+1958,3,0,brazil,austria,BRA,AUT,,
+1958,1,0,northern ireland,czechoslovakia,NIL,CZE,,
+1958,0,0,brazil,england,BRA,ENG,,
+1958,1,1,mexico,wales,MEX,WLS,,
+1958,3,2,paraguay,scotland,PRY,SCT,,
+1958,3,2,yugoslavia,france,YUG,FRA,,
+1958,2,0,soviet union,austria,SUN,AUT,,
+1958,2,2,germany fr,czechoslovakia,DEU,CZE,,
+1958,3,1,argentina,northern ireland,ARG,NIL,,
+1958,2,1,sweden,hungary,SWE,HUN,,
+1958,0,0,sweden,wales,SWE,WLS,,
+1958,2,0,brazil,soviet union,BRA,SUN,,
+1958,2,2,germany fr,northern ireland,DEU,NIL,,
+1958,4,0,hungary,mexico,HUN,MEX,,
+1958,3,3,paraguay,yugoslavia,PRY,YUG,,
+1958,2,1,france,scotland,FRA,SCT,,
+1958,2,2,england,austria,ENG,AUT,,
+1958,6,1,czechoslovakia,argentina,CZE,ARG,,
+1958,1,0,soviet union,england,SUN,ENG,,
+1958,2,1,northern ireland,czechoslovakia,NIL,CZE,,
+1958,2,1,wales,hungary,WLS,HUN,,
+1958,1,0,brazil,wales,BRA,WLS,,
+1958,1,0,germany fr,yugoslavia,DEU,YUG,,
+1958,2,0,sweden,soviet union,SWE,SUN,,
+1958,4,0,france,northern ireland,FRA,NIL,,
+1958,3,1,sweden,germany fr,SWE,DEU,,
+1958,5,2,brazil,france,BRA,FRA,,
+1958,6,3,france,germany fr,FRA,DEU,,
+1958,5,2,brazil,sweden,BRA,SWE,,
+1962,2,1,uruguay,colombia,URY,COL,1710004407.0,4955543963.0
+1962,2,0,brazil,mexico,BRA,MEX,,15200000000.0
+1962,1,0,argentina,bulgaria,ARG,BGR,,
+1962,3,1,chile,switzerland,CHL,CHE,5416272727.0,
+1962,2,0,soviet union,yugoslavia,SUN,YUG,,
+1962,1,0,czechoslovakia,spain,CZE,ESP,,16138545209.0
+1962,2,1,hungary,england,HUN,ENG,,
+1962,0,0,germany fr,italy,DEU,ITA,,50383891899.0
+1962,3,1,yugoslavia,uruguay,YUG,URY,,1710004407.0
+1962,0,0,brazil,czechoslovakia,BRA,CZE,,
+1962,3,1,england,argentina,ENG,ARG,,
+1962,2,0,chile,italy,CHL,ITA,5416272727.0,50383891899.0
+1962,4,4,soviet union,colombia,SUN,COL,,4955543963.0
+1962,1,0,spain,mexico,ESP,MEX,16138545209.0,15200000000.0
+1962,6,1,hungary,bulgaria,HUN,BGR,,
+1962,2,1,germany fr,switzerland,DEU,CHE,,
+1962,2,1,soviet union,uruguay,SUN,URY,,1710004407.0
+1962,2,1,brazil,spain,BRA,ESP,,16138545209.0
+1962,0,0,hungary,argentina,HUN,ARG,,
+1962,2,0,germany fr,chile,DEU,CHL,,5416272727.0
+1962,5,0,yugoslavia,colombia,YUG,COL,,4955543963.0
+1962,3,1,mexico,czechoslovakia,MEX,CZE,15200000000.0,
+1962,0,0,england,bulgaria,ENG,BGR,,
+1962,3,0,italy,switzerland,ITA,CHE,50383891899.0,
+1962,2,1,chile,soviet union,CHL,SUN,5416272727.0,
+1962,3,1,brazil,england,BRA,ENG,,
+1962,1,0,czechoslovakia,hungary,CZE,HUN,,
+1962,1,0,yugoslavia,germany fr,YUG,DEU,,
+1962,3,1,czechoslovakia,yugoslavia,CZE,YUG,,
+1962,4,2,brazil,chile,BRA,CHL,,5416272727.0
+1962,1,0,chile,yugoslavia,CHL,YUG,5416272727.0,
+1962,3,1,brazil,czechoslovakia,BRA,CZE,,
+1966,0,0,england,uruguay,ENG,URY,,1809183975.0
+1966,5,0,germany fr,switzerland,DEU,CHE,,
+1966,2,0,brazil,bulgaria,BRA,BGR,,
+1966,3,0,soviet union,korea dpr,SUN,PRK,,
+1966,1,1,france,mexico,FRA,MEX,110000000000.0,24320000000.0
+1966,3,1,portugal,hungary,PRT,HUN,5135387846.0,
+1966,2,1,argentina,spain,ARG,ESP,,28721062242.0
+1966,2,0,italy,chile,ITA,CHL,73654870011.0,7072641026.0
+1966,2,1,uruguay,france,URY,FRA,1809183975.0,110000000000.0
+1966,2,1,spain,switzerland,ESP,CHE,28721062242.0,
+1966,3,1,hungary,brazil,HUN,BRA,,
+1966,1,1,korea dpr,chile,PRK,CHL,,7072641026.0
+1966,3,0,portugal,bulgaria,PRT,BGR,5135387846.0,
+1966,0,0,germany fr,argentina,DEU,ARG,,
+1966,1,0,soviet union,italy,SUN,ITA,,73654870011.0
+1966,2,0,england,mexico,ENG,MEX,,24320000000.0
+1966,0,0,uruguay,mexico,URY,MEX,1809183975.0,24320000000.0
+1966,2,0,argentina,switzerland,ARG,CHE,,
+1966,3,1,portugal,brazil,PRT,BRA,5135387846.0,
+1966,1,0,korea dpr,italy,PRK,ITA,,73654870011.0
+1966,2,0,england,france,ENG,FRA,,110000000000.0
+1966,3,1,hungary,bulgaria,HUN,BGR,,
+1966,2,1,germany fr,spain,DEU,ESP,,28721062242.0
+1966,2,1,soviet union,chile,SUN,CHL,,7072641026.0
+1966,1,0,england,argentina,ENG,ARG,,
+1966,4,0,germany fr,uruguay,DEU,URY,,1809183975.0
+1966,2,1,soviet union,hungary,SUN,HUN,,
+1966,5,3,portugal,korea dpr,PRT,PRK,5135387846.0,
+1966,2,1,germany fr,soviet union,DEU,SUN,,
+1966,2,1,england,portugal,ENG,PRT,,5135387846.0
+1966,2,1,portugal,soviet union,PRT,SUN,5135387846.0,
+1966,4,2,england,germany fr,ENG,DEU,,
+1970,0,0,mexico,soviet union,MEX,SUN,35520000000.0,
+1970,2,0,uruguay,israel,URY,ISR,2137096774.0,
+1970,3,2,peru,bulgaria,PER,BGR,7432223177.0,
+1970,1,0,england,romania,ENG,ROU,,
+1970,1,0,italy,sweden,ITA,SWE,113000000000.0,38092452061.0
+1970,2,1,germany fr,morocco,DEU,MAR,,3956328426.0
+1970,4,1,brazil,czechoslovakia,BRA,CZE,,
+1970,3,0,belgium,el salvador,BEL,SLV,26706196047.0,
+1970,0,0,uruguay,italy,URY,ITA,2137096774.0,113000000000.0
+1970,3,0,peru,morocco,PER,MAR,7432223177.0,3956328426.0
+1970,2,1,romania,czechoslovakia,ROU,CZE,,
+1970,4,1,soviet union,belgium,SUN,BEL,,26706196047.0
+1970,1,1,sweden,israel,SWE,ISR,38092452061.0,
+1970,5,2,germany fr,bulgaria,DEU,BGR,,
+1970,1,0,brazil,england,BRA,ENG,,
+1970,4,0,mexico,el salvador,MEX,SLV,35520000000.0,
+1970,1,0,sweden,uruguay,SWE,URY,38092452061.0,2137096774.0
+1970,3,1,germany fr,peru,DEU,PER,,7432223177.0
+1970,3,2,brazil,romania,BRA,ROU,,
+1970,2,0,soviet union,el salvador,SUN,SLV,,
+1970,0,0,italy,israel,ITA,ISR,113000000000.0,
+1970,1,1,bulgaria,morocco,BGR,MAR,,3956328426.0
+1970,1,0,england,czechoslovakia,ENG,CZE,,
+1970,1,0,mexico,belgium,MEX,BEL,35520000000.0,26706196047.0
+1970,4,1,italy,mexico,ITA,MEX,113000000000.0,35520000000.0
+1970,3,2,germany fr,england,DEU,ENG,,
+1970,4,2,brazil,peru,BRA,PER,,7432223177.0
+1970,1,0,uruguay,soviet union,URY,SUN,2137096774.0,
+1970,3,1,brazil,uruguay,BRA,URY,,2137096774.0
+1970,4,3,italy,germany fr,ITA,DEU,113000000000.0,
+1970,1,0,germany fr,uruguay,DEU,URY,,2137096774.0
+1970,4,1,brazil,italy,BRA,ITA,,113000000000.0
+1974,0,0,brazil,yugoslavia,BRA,YUG,,
+1974,1,0,germany fr,chile,DEU,CHL,,16210404184.0
+1974,2,0,german dr,australia,DEU,AUS,,88981577008.0
+1974,0,2,zaire,scotland,COD,SCT,9596960180.0,
+1974,0,2,uruguay,netherlands,URY,NLD,4090209682.0,87243413395.0
+1974,0,0,sweden,bulgaria,SWE,BGR,66013338965.0,
+1974,3,1,italy,haiti,ITA,HTI,200000000000.0,565400000.0
+1974,3,2,poland,argentina,POL,ARG,,
+1974,0,3,australia,germany fr,AUS,DEU,88981577008.0,
+1974,0,0,scotland,brazil,SCT,BRA,,
+1974,1,1,chile,german dr,CHL,DEU,16210404184.0,
+1974,9,0,yugoslavia,zaire,YUG,COD,,9596960180.0
+1974,0,0,netherlands,sweden,NLD,SWE,87243413395.0,66013338965.0
+1974,1,1,bulgaria,uruguay,BGR,URY,,4090209682.0
+1974,0,7,haiti,poland,HTI,POL,565400000.0,
+1974,1,1,argentina,italy,ARG,ITA,,200000000000.0
+1974,1,1,scotland,yugoslavia,SCT,YUG,,
+1974,0,0,australia,chile,AUS,CHL,88981577008.0,16210404184.0
+1974,0,3,zaire,brazil,COD,BRA,9596960180.0,
+1974,1,0,german dr,germany fr,DEU,DEU,,
+1974,1,4,bulgaria,netherlands,BGR,NLD,,87243413395.0
+1974,4,1,argentina,haiti,ARG,HTI,,565400000.0
+1974,3,0,sweden,uruguay,SWE,URY,66013338965.0,4090209682.0
+1974,2,1,poland,italy,POL,ITA,,200000000000.0
+1974,0,2,yugoslavia,germany fr,YUG,DEU,,
+1974,1,0,brazil,german dr,BRA,DEU,,
+1974,4,0,netherlands,argentina,NLD,ARG,87243413395.0,
+1974,0,1,sweden,poland,SWE,POL,66013338965.0,
+1974,1,2,argentina,brazil,ARG,BRA,,
+1974,2,1,poland,yugoslavia,POL,YUG,,
+1974,0,2,german dr,netherlands,DEU,NLD,,87243413395.0
+1974,4,2,germany fr,sweden,DEU,SWE,,66013338965.0
+1974,0,1,poland,germany fr,POL,DEU,,
+1974,2,0,netherlands,brazil,NLD,BRA,87243413395.0,
+1974,1,1,argentina,german dr,ARG,DEU,,
+1974,2,1,sweden,yugoslavia,SWE,YUG,66013338965.0,
+1974,0,1,brazil,poland,BRA,POL,,
+1974,1,2,netherlands,germany fr,NLD,DEU,87243413395.0,
+1978,0,0,germany fr,poland,DEU,POL,,
+1978,2,1,italy,france,ITA,FRA,315000000000.0,507000000000.0
+1978,3,1,tunisia,mexico,TUN,MEX,,103000000000.0
+1978,2,1,argentina,hungary,ARG,HUN,,
+1978,1,1,sweden,brazil,SWE,BRA,104000000000.0,
+1978,2,1,austria,spain,AUT,ESP,62052259073.0,161000000000.0
+1978,3,1,peru,scotland,PER,SCT,12495779622.0,
+1978,3,0,netherlands,ir iran,NLD,IRN,156000000000.0,
+1978,3,1,italy,hungary,ITA,HUN,315000000000.0,
+1978,1,0,poland,tunisia,POL,TUN,,
+1978,6,0,germany fr,mexico,DEU,MEX,,103000000000.0
+1978,2,1,argentina,france,ARG,FRA,,507000000000.0
+1978,0,0,brazil,spain,BRA,ESP,,161000000000.0
+1978,1,0,austria,sweden,AUT,SWE,62052259073.0,104000000000.0
+1978,1,1,scotland,ir iran,SCT,IRN,,
+1978,0,0,netherlands,peru,NLD,PER,156000000000.0,12495779622.0
+1978,3,1,france,hungary,FRA,HUN,507000000000.0,
+1978,3,1,poland,mexico,POL,MEX,,103000000000.0
+1978,0,0,germany fr,tunisia,DEU,TUN,,
+1978,1,0,italy,argentina,ITA,ARG,315000000000.0,
+1978,1,0,brazil,austria,BRA,AUT,,62052259073.0
+1978,1,0,spain,sweden,ESP,SWE,161000000000.0,104000000000.0
+1978,4,1,peru,iran,PER,IRN,12495779622.0,
+1978,3,2,scotland,netherlands,SCT,NLD,,156000000000.0
+1978,0,0,germany fr,italy,DEU,ITA,,315000000000.0
+1978,5,1,netherlands,austria,NLD,AUT,156000000000.0,62052259073.0
+1978,3,0,brazil,peru,BRA,PER,,12495779622.0
+1978,2,0,argentina,poland,ARG,POL,,
+1978,1,0,poland,peru,POL,PER,,12495779622.0
+1978,1,0,italy,austria,ITA,AUT,315000000000.0,62052259073.0
+1978,2,2,germany fr,netherlands,DEU,NLD,,156000000000.0
+1978,0,0,argentina,brazil,ARG,BRA,,
+1978,2,1,netherlands,italy,NLD,ITA,156000000000.0,315000000000.0
+1978,3,2,austria,germany fr,AUT,DEU,62052259073.0,
+1978,3,1,brazil,poland,BRA,POL,,
+1978,6,0,argentina,peru,ARG,PER,,12495779622.0
+1978,2,1,brazil,italy,BRA,ITA,,315000000000.0
+1978,3,1,argentina,netherlands,ARG,NLD,,156000000000.0
+1982,0,1,argentina,belgium,ARG,BEL,,92095926188.0
+1982,0,0,italy,poland,ITA,POL,427000000000.0,
+1982,2,1,brazil,soviet union,BRA,SUN,,
+1982,0,0,peru,cameroon,PER,CMR,21793496819.0,6611255018.0
+1982,10,1,hungary,el salvador,HUN,SLV,,
+1982,5,2,scotland,new zealand,SCT,NZL,,
+1982,1,2,germany fr,algeria,DEU,DZA,,45207088716.0
+1982,3,1,england,france,ENG,FRA,,585000000000.0
+1982,1,1,spain,honduras,ESP,HND,196000000000.0,4266503526.0
+1982,0,1,chile,austria,CHL,AUT,25325893206.0,71275287570.0
+1982,1,1,czechoslovakia,kuwait,CZE,KWT,,
+1982,0,0,yugoslavia,northern ireland,YUG,NIL,,
+1982,1,1,italy,peru,ITA,PER,427000000000.0,21793496819.0
+1982,4,1,argentina,hungary,ARG,HUN,,
+1982,4,1,brazil,scotland,BRA,SCT,,
+1982,0,0,poland,cameroon,POL,CMR,,6611255018.0
+1982,1,0,belgium,el salvador,BEL,SLV,92095926188.0,
+1982,3,0,soviet union,new zealand,SUN,NZL,,
+1982,4,1,germany fr,chile,DEU,CHL,,25325893206.0
+1982,2,0,england,czechoslovakia,ENG,CZE,,
+1982,2,1,spain,yugoslavia,ESP,YUG,196000000000.0,
+1982,0,2,algeria,austria,DZA,AUT,45207088716.0,71275287570.0
+1982,4,1,france,kuwait,FRA,KWT,585000000000.0,
+1982,1,1,honduras,northern ireland,HND,NIL,4266503526.0,
+1982,5,1,poland,peru,POL,PER,,21793496819.0
+1982,1,1,belgium,hungary,BEL,HUN,92095926188.0,
+1982,2,2,soviet union,scotland,SUN,SCT,,
+1982,1,1,italy,cameroon,ITA,CMR,427000000000.0,6611255018.0
+1982,2,0,argentina,el salvador,ARG,SLV,,
+1982,4,0,brazil,new zealand,BRA,NZL,,
+1982,3,2,algeria,chile,DZA,CHL,45207088716.0,25325893206.0
+1982,1,1,france,czechoslovakia,FRA,CZE,585000000000.0,
+1982,0,1,honduras,yugoslavia,HND,YUG,4266503526.0,
+1982,1,0,germany fr,austria,DEU,AUT,,71275287570.0
+1982,1,0,england,kuwait,ENG,KWT,,
+1982,1,0,northern ireland,spain,NIL,ESP,,196000000000.0
+1982,0,1,austria,france,AUT,FRA,71275287570.0,585000000000.0
+1982,3,0,poland,belgium,POL,BEL,,92095926188.0
+1982,2,1,italy,argentina,ITA,ARG,427000000000.0,
+1982,0,0,germany fr,england,DEU,ENG,,
+1982,2,2,austria,northern ireland,AUT,NIL,71275287570.0,
+1982,0,1,belgium,soviet union,BEL,SUN,92095926188.0,
+1982,1,3,argentina,brazil,ARG,BRA,,
+1982,2,1,germany fr,spain,DEU,ESP,,196000000000.0
+1982,4,1,france,northern ireland,FRA,NIL,585000000000.0,
+1982,0,0,poland,soviet union,POL,SUN,,
+1982,3,2,italy,brazil,ITA,BRA,427000000000.0,
+1982,0,0,spain,england,ESP,ENG,196000000000.0,
+1982,0,2,poland,italy,POL,ITA,,427000000000.0
+1982,3,3,germany fr,france,DEU,FRA,,585000000000.0
+1982,3,2,poland,france,POL,FRA,,585000000000.0
+1982,3,1,italy,germany fr,ITA,DEU,427000000000.0,
+1986,1,1,bulgaria,italy,BGR,ITA,,640000000000.0
+1986,0,1,canada,france,CAN,FRA,377000000000.0,771000000000.0
+1986,0,1,spain,brazil,ESP,BRA,251000000000.0,
+1986,6,0,soviet union,hungary,SUN,HUN,,
+1986,3,1,argentina,korea republic,ARG,KOR,,117000000000.0
+1986,0,0,morocco,poland,MAR,POL,19462175322.0,
+1986,1,1,algeria,northern ireland,DZA,NIL,63692238160.0,
+1986,1,2,belgium,mexico,BEL,MEX,120000000000.0,135000000000.0
+1986,1,0,portugal,england,PRT,ENG,38745901354.0,
+1986,1,0,paraguay,iraq,PRY,IRQ,,
+1986,0,1,scotland,denmark,SCT,DNK,,
+1986,1,1,uruguay,germany fr,URY,DEU,5880112788.0,
+1986,1,1,italy,argentina,ITA,ARG,640000000000.0,
+1986,1,1,france,soviet union,FRA,SUN,771000000000.0,
+1986,1,1,korea republic,bulgaria,KOR,BGR,117000000000.0,
+1986,2,0,hungary,canada,HUN,CAN,,377000000000.0
+1986,1,0,brazil,algeria,BRA,DZA,,63692238160.0
+1986,0,0,england,morocco,ENG,MAR,,19462175322.0
+1986,1,2,northern ireland,spain,NIL,ESP,,251000000000.0
+1986,1,1,mexico,paraguay,MEX,PRY,135000000000.0,
+1986,1,0,poland,portugal,POL,PRT,,38745901354.0
+1986,1,2,iraq,belgium,IRQ,BEL,,120000000000.0
+1986,6,1,denmark,uruguay,DNK,URY,,5880112788.0
+1986,2,1,germany fr,scotland,DEU,SCT,,
+1986,0,3,hungary,france,HUN,FRA,,771000000000.0
+1986,2,0,soviet union,canada,SUN,CAN,,377000000000.0
+1986,2,3,korea republic,italy,KOR,ITA,117000000000.0,640000000000.0
+1986,2,0,argentina,bulgaria,ARG,BGR,,
+1986,2,2,paraguay,belgium,PRY,BEL,,120000000000.0
+1986,0,1,iraq,mexico,IRQ,MEX,,135000000000.0
+1986,1,3,portugal,morocco,PRT,MAR,38745901354.0,19462175322.0
+1986,3,0,england,poland,ENG,POL,,
+1986,0,3,northern ireland,brazil,NIL,BRA,,
+1986,0,3,algeria,spain,DZA,ESP,63692238160.0,251000000000.0
+1986,0,0,scotland,uruguay,SCT,URY,,5880112788.0
+1986,2,0,denmark,germany fr,DNK,DEU,,
+1986,3,4,soviet union,belgium,SUN,BEL,,120000000000.0
+1986,2,0,mexico,bulgaria,MEX,BGR,135000000000.0,
+1986,1,0,argentina,uruguay,ARG,URY,,5880112788.0
+1986,4,0,brazil,poland,BRA,POL,,
+1986,0,2,italy,france,ITA,FRA,640000000000.0,771000000000.0
+1986,0,1,morocco,germany fr,MAR,DEU,19462175322.0,
+1986,3,0,england,paraguay,ENG,PRY,,
+1986,1,5,denmark,spain,DNK,ESP,,251000000000.0
+1986,1,1,brazil,france,BRA,FRA,,771000000000.0
+1986,0,0,germany fr,mexico,DEU,MEX,,135000000000.0
+1986,1,1,spain,belgium,ESP,BEL,251000000000.0,120000000000.0
+1986,2,1,argentina,england,ARG,ENG,,
+1986,0,2,france,germany fr,FRA,DEU,771000000000.0,
+1986,2,0,argentina,belgium,ARG,BEL,,120000000000.0
+1986,4,2,france,belgium,FRA,BEL,771000000000.0,120000000000.0
+1986,3,2,argentina,germany fr,ARG,DEU,,
+1990,0,1,argentina,cameroon,ARG,CMR,,12314482085.0
+1990,0,2,soviet union,romania,SUN,ROU,,
+1990,0,2,"rn"">united arab emirates",colombia,ARE,COL,,47844090710.0
+1990,1,0,italy,austria,ITA,AUT,1180000000000.0,166000000000.0
+1990,1,5,usa,czechoslovakia,USA,CZE,5960000000000.0,
+1990,2,1,brazil,sweden,BRA,SWE,,262000000000.0
+1990,4,1,germany fr,yugoslavia,DEU,YUG,,
+1990,1,0,costa rica,scotland,CRI,SCT,5711687787.0,
+1990,1,1,england,"rn"">republic of ireland",ENG,IRL,,49305632408.0
+1990,2,0,belgium,korea republic,BEL,KOR,205000000000.0,283000000000.0
+1990,1,1,netherlands,egypt,NLD,EGY,318000000000.0,
+1990,0,0,uruguay,spain,URY,ESP,9298839655.0,537000000000.0
+1990,2,0,argentina,soviet union,ARG,SUN,,
+1990,2,1,cameroon,romania,CMR,ROU,12314482085.0,
+1990,1,0,yugoslavia,colombia,YUG,COL,,47844090710.0
+1990,1,0,italy,usa,ITA,USA,1180000000000.0,5960000000000.0
+1990,0,1,austria,czechoslovakia,AUT,CZE,166000000000.0,
+1990,5,1,germany fr,"rn"">united arab emirates",DEU,ARE,,
+1990,1,0,brazil,costa rica,BRA,CRI,,5711687787.0
+1990,1,2,sweden,scotland,SWE,SCT,262000000000.0,
+1990,0,0,england,netherlands,ENG,NLD,,318000000000.0
+1990,0,0,"rn"">republic of ireland",egypt,IRL,EGY,49305632408.0,
+1990,1,3,korea republic,spain,KOR,ESP,283000000000.0,537000000000.0
+1990,3,1,belgium,uruguay,BEL,URY,205000000000.0,9298839655.0
+1990,1,1,argentina,romania,ARG,ROU,,
+1990,0,4,cameroon,soviet union,CMR,SUN,12314482085.0,
+1990,1,1,germany fr,colombia,DEU,COL,,47844090710.0
+1990,4,1,yugoslavia,"rn"">united arab emirates",YUG,ARE,,
+1990,2,0,italy,czechoslovakia,ITA,CZE,1180000000000.0,
+1990,2,1,austria,usa,AUT,USA,166000000000.0,5960000000000.0
+1990,1,0,brazil,scotland,BRA,SCT,,
+1990,1,2,sweden,costa rica,SWE,CRI,262000000000.0,5711687787.0
+1990,0,1,korea republic,uruguay,KOR,URY,283000000000.0,9298839655.0
+1990,1,2,belgium,spain,BEL,ESP,205000000000.0,537000000000.0
+1990,1,1,"rn"">republic of ireland",netherlands,IRL,NLD,49305632408.0,318000000000.0
+1990,1,0,england,egypt,ENG,EGY,,
+1990,2,1,cameroon,colombia,CMR,COL,12314482085.0,47844090710.0
+1990,4,1,czechoslovakia,costa rica,CZE,CRI,,5711687787.0
+1990,0,1,brazil,argentina,BRA,ARG,,
+1990,2,1,germany fr,netherlands,DEU,NLD,,318000000000.0
+1990,0,0,"rn"">republic of ireland",romania,IRL,ROU,49305632408.0,
+1990,2,0,italy,uruguay,ITA,URY,1180000000000.0,9298839655.0
+1990,1,2,spain,yugoslavia,ESP,YUG,537000000000.0,
+1990,1,0,england,belgium,ENG,BEL,,205000000000.0
+1990,0,0,yugoslavia,argentina,YUG,ARG,,
+1990,1,0,italy,"rn"">republic of ireland",ITA,IRL,1180000000000.0,49305632408.0
+1990,1,0,germany fr,czechoslovakia,DEU,CZE,,
+1990,3,2,england,cameroon,ENG,CMR,,12314482085.0
+1990,1,1,italy,argentina,ITA,ARG,1180000000000.0,
+1990,1,1,germany fr,england,DEU,ENG,,
+1990,2,1,italy,england,ITA,ENG,1180000000000.0,
+1990,1,0,germany fr,argentina,DEU,ARG,,
+1994,2,2,spain,korea republic,ESP,KOR,531000000000.0,464000000000.0
+1994,1,0,germany,bolivia,DEU,BOL,,5981244887.0
+1994,1,1,usa,switzerland,USA,CHE,7290000000000.0,
+1994,0,1,italy,"rn"">republic of ireland",ITA,IRL,1100000000000.0,57097656066.0
+1994,1,3,colombia,romania,COL,ROU,81703500846.0,
+1994,1,0,belgium,morocco,BEL,MAR,245000000000.0,35604137423.0
+1994,1,0,norway,mexico,NOR,MEX,127000000000.0,528000000000.0
+1994,2,2,cameroon,sweden,CMR,SWE,8902446188.0,229000000000.0
+1994,2,1,netherlands,saudi arabia,NLD,SAU,379000000000.0,
+1994,2,0,brazil,russia,BRA,RUS,,
+1994,4,0,argentina,greece,ARG,GRC,,117000000000.0
+1994,3,0,nigeria,bulgaria,NGA,BGR,33833042988.0,
+1994,1,1,germany,spain,DEU,ESP,,531000000000.0
+1994,1,4,romania,switzerland,ROU,CHE,,
+1994,2,1,usa,colombia,USA,COL,7290000000000.0,81703500846.0
+1994,1,0,italy,norway,ITA,NOR,1100000000000.0,127000000000.0
+1994,0,0,korea republic,bolivia,KOR,BOL,464000000000.0,5981244887.0
+1994,2,1,mexico,"rn"">republic of ireland",MEX,IRL,528000000000.0,57097656066.0
+1994,3,1,sweden,russia,SWE,RUS,229000000000.0,
+1994,3,0,brazil,cameroon,BRA,CMR,,8902446188.0
+1994,1,0,belgium,netherlands,BEL,NLD,245000000000.0,379000000000.0
+1994,2,1,saudi arabia,morocco,SAU,MAR,,35604137423.0
+1994,2,1,argentina,nigeria,ARG,NGA,,33833042988.0
+1994,4,0,bulgaria,greece,BGR,GRC,,117000000000.0
+1994,0,1,usa,romania,USA,ROU,7290000000000.0,
+1994,0,2,switzerland,colombia,CHE,COL,,81703500846.0
+1994,3,2,germany,korea republic,DEU,KOR,,464000000000.0
+1994,1,3,bolivia,spain,BOL,ESP,5981244887.0,531000000000.0
+1994,0,0,"rn"">republic of ireland",norway,IRL,NOR,57097656066.0,127000000000.0
+1994,1,1,brazil,sweden,BRA,SWE,,229000000000.0
+1994,1,1,italy,mexico,ITA,MEX,1100000000000.0,528000000000.0
+1994,6,1,russia,cameroon,RUS,CMR,,8902446188.0
+1994,1,2,morocco,netherlands,MAR,NLD,35604137423.0,379000000000.0
+1994,0,1,belgium,saudi arabia,BEL,SAU,245000000000.0,
+1994,0,2,greece,nigeria,GRC,NGA,117000000000.0,33833042988.0
+1994,0,2,argentina,bulgaria,ARG,BGR,,
+1994,3,2,germany,belgium,DEU,BEL,,245000000000.0
+1994,3,0,spain,switzerland,ESP,CHE,531000000000.0,
+1994,1,3,saudi arabia,sweden,SAU,SWE,,229000000000.0
+1994,3,2,romania,argentina,ROU,ARG,,
+1994,2,0,netherlands,"rn"">republic of ireland",NLD,IRL,379000000000.0,57097656066.0
+1994,1,0,brazil,usa,BRA,USA,,7290000000000.0
+1994,1,2,nigeria,italy,NGA,ITA,33833042988.0,1100000000000.0
+1994,1,1,mexico,bulgaria,MEX,BGR,528000000000.0,
+1994,2,1,italy,spain,ITA,ESP,1100000000000.0,531000000000.0
+1994,2,3,netherlands,brazil,NLD,BRA,379000000000.0,
+1994,2,1,bulgaria,germany,BGR,DEU,,
+1994,2,2,romania,sweden,ROU,SWE,,229000000000.0
+1994,1,2,bulgaria,italy,BGR,ITA,,1100000000000.0
+1994,0,1,sweden,brazil,SWE,BRA,229000000000.0,
+1994,4,0,sweden,bulgaria,SWE,BGR,229000000000.0,
+1994,0,0,brazil,italy,BRA,ITA,,1100000000000.0
+1998,2,1,brazil,scotland,BRA,SCT,,
+1998,2,2,morocco,norway,MAR,NOR,41806219379.0,154000000000.0
+1998,2,2,italy,chile,ITA,CHL,1270000000000.0,81577430181.0
+1998,1,1,cameroon,austria,CMR,AUT,11298144512.0,218000000000.0
+1998,0,0,paraguay,bulgaria,PRY,BGR,,
+1998,0,1,saudi arabia,denmark,SAU,DNK,,
+1998,3,0,france,south africa,FRA,ZAF,1500000000000.0,153000000000.0
+1998,2,3,spain,nigeria,ESP,NGA,619000000000.0,54604050168.0
+1998,1,3,korea republic,mexico,KOR,MEX,383000000000.0,527000000000.0
+1998,0,0,netherlands,belgium,NLD,BEL,438000000000.0,259000000000.0
+1998,1,0,argentina,japan,ARG,JPN,,4100000000000.0
+1998,1,0,yugoslavia,iran,YUG,IRN,,
+1998,1,3,jamaica,croatia,JAM,HRV,8787195622.0,
+1998,2,0,england,tunisia,ENG,TUN,,
+1998,1,0,romania,colombia,ROU,COL,,98443739941.0
+1998,2,0,germany,usa,DEU,USA,,9060000000000.0
+1998,1,1,scotland,norway,SCT,NOR,,154000000000.0
+1998,3,0,brazil,morocco,BRA,MAR,,41806219379.0
+1998,1,1,chile,austria,CHL,AUT,81577430181.0,218000000000.0
+1998,3,0,italy,cameroon,ITA,CMR,1270000000000.0,11298144512.0
+1998,1,1,south africa,denmark,ZAF,DNK,153000000000.0,
+1998,4,0,france,saudi arabia,FRA,SAU,1500000000000.0,
+1998,1,0,nigeria,bulgaria,NGA,BGR,54604050168.0,
+1998,0,0,spain,paraguay,ESP,PRY,619000000000.0,
+1998,0,1,japan,croatia,JPN,HRV,4100000000000.0,
+1998,2,2,belgium,mexico,BEL,MEX,259000000000.0,527000000000.0
+1998,5,0,netherlands,korea republic,NLD,KOR,438000000000.0,383000000000.0
+1998,2,2,germany,yugoslavia,DEU,YUG,,
+1998,5,0,argentina,jamaica,ARG,JAM,,8787195622.0
+1998,1,2,usa,iran,USA,IRN,9060000000000.0,
+1998,1,0,colombia,tunisia,COL,TUN,98443739941.0,
+1998,2,1,romania,england,ROU,ENG,,
+1998,2,1,italy,austria,ITA,AUT,1270000000000.0,218000000000.0
+1998,1,1,chile,cameroon,CHL,CMR,81577430181.0,11298144512.0
+1998,0,3,scotland,morocco,SCT,MAR,,41806219379.0
+1998,1,2,brazil,norway,BRA,NOR,,154000000000.0
+1998,2,1,france,denmark,FRA,DNK,1500000000000.0,
+1998,2,2,south africa,saudi arabia,ZAF,SAU,153000000000.0,
+1998,6,1,spain,bulgaria,ESP,BGR,619000000000.0,
+1998,1,3,nigeria,paraguay,NGA,PRY,54604050168.0,
+1998,1,1,belgium,korea republic,BEL,KOR,259000000000.0,383000000000.0
+1998,2,2,netherlands,mexico,NLD,MEX,438000000000.0,527000000000.0
+1998,2,0,germany,iran,DEU,IRN,,
+1998,0,1,usa,yugoslavia,USA,YUG,9060000000000.0,
+1998,1,2,japan,jamaica,JPN,JAM,4100000000000.0,8787195622.0
+1998,1,0,argentina,croatia,ARG,HRV,,
+1998,1,1,romania,tunisia,ROU,TUN,,
+1998,0,2,colombia,england,COL,ENG,98443739941.0,
+1998,1,0,italy,norway,ITA,NOR,1270000000000.0,154000000000.0
+1998,4,1,brazil,chile,BRA,CHL,,81577430181.0
+1998,1,0,france,paraguay,FRA,PRY,1500000000000.0,
+1998,1,4,nigeria,denmark,NGA,DNK,54604050168.0,
+1998,2,1,germany,mexico,DEU,MEX,,527000000000.0
+1998,2,1,netherlands,yugoslavia,NLD,YUG,438000000000.0,
+1998,0,1,romania,croatia,ROU,HRV,,
+1998,2,2,argentina,england,ARG,ENG,,
+1998,0,0,italy,france,ITA,FRA,1270000000000.0,1500000000000.0
+1998,3,2,brazil,denmark,BRA,DNK,,
+1998,2,1,netherlands,argentina,NLD,ARG,438000000000.0,
+1998,0,3,germany,croatia,DEU,HRV,,
+1998,1,1,brazil,netherlands,BRA,NLD,,438000000000.0
+1998,2,1,france,croatia,FRA,HRV,1500000000000.0,
+1998,1,2,netherlands,croatia,NLD,HRV,438000000000.0,
+1998,0,3,brazil,france,BRA,FRA,,1500000000000.0
+2002,0,1,france,senegal,FRA,SEN,1490000000000.0,7006402592.0
+2002,1,2,uruguay,denmark,URY,DNK,13606494599.0,
+2002,1,1,"rn"">republic of ireland",cameroon,IRL,CMR,128000000000.0,12417251816.0
+2002,8,0,germany,saudi arabia,DEU,SAU,,
+2002,1,0,argentina,nigeria,ARG,NGA,,95385819321.0
+2002,2,2,paraguay,south africa,PRY,ZAF,,129000000000.0
+2002,1,1,england,sweden,ENG,SWE,,267000000000.0
+2002,3,1,spain,slovenia,ESP,SVN,705000000000.0,
+2002,2,1,brazil,turkey,BRA,TUR,,240000000000.0
+2002,2,0,italy,ecuador,ITA,ECU,1270000000000.0,28548945000.0
+2002,0,1,croatia,mexico,HRV,MEX,,772000000000.0
+2002,0,2,china pr,costa rica,CHN,CRI,1470000000000.0,16578820687.0
+2002,2,2,japan,belgium,JPN,BEL,4180000000000.0,257000000000.0
+2002,2,0,korea republic,poland,KOR,POL,627000000000.0,
+2002,2,0,russia,tunisia,RUS,TUN,,
+2002,3,2,usa,portugal,USA,PRT,10900000000000.0,134000000000.0
+2002,1,1,germany,"rn"">republic of ireland",DEU,IRL,,128000000000.0
+2002,1,1,denmark,senegal,DNK,SEN,,7006402592.0
+2002,1,0,cameroon,saudi arabia,CMR,SAU,12417251816.0,
+2002,0,0,france,uruguay,FRA,URY,1490000000000.0,13606494599.0
+2002,2,1,sweden,nigeria,SWE,NGA,267000000000.0,95385819321.0
+2002,0,1,argentina,england,ARG,ENG,,
+2002,3,1,spain,paraguay,ESP,PRY,705000000000.0,
+2002,1,0,south africa,slovenia,ZAF,SVN,129000000000.0,
+2002,4,0,brazil,china pr,BRA,CHN,,1470000000000.0
+2002,1,2,italy,croatia,ITA,HRV,1270000000000.0,
+2002,1,1,costa rica,turkey,CRI,TUR,16578820687.0,240000000000.0
+2002,1,0,japan,russia,JPN,RUS,4180000000000.0,
+2002,2,1,mexico,ecuador,MEX,ECU,772000000000.0,28548945000.0
+2002,1,1,korea republic,usa,KOR,USA,627000000000.0,10900000000000.0
+2002,4,0,portugal,poland,PRT,POL,134000000000.0,
+2002,1,1,tunisia,belgium,TUN,BEL,,257000000000.0
+2002,2,0,denmark,france,DNK,FRA,,1490000000000.0
+2002,3,3,senegal,uruguay,SEN,URY,7006402592.0,13606494599.0
+2002,0,3,saudi arabia,"rn"">republic of ireland",SAU,IRL,,128000000000.0
+2002,0,2,cameroon,germany,CMR,DEU,12417251816.0,
+2002,1,1,sweden,argentina,SWE,ARG,267000000000.0,
+2002,0,0,nigeria,england,NGA,ENG,95385819321.0,
+2002,1,3,slovenia,paraguay,SVN,PRY,,
+2002,2,3,south africa,spain,ZAF,ESP,129000000000.0,705000000000.0
+2002,2,5,costa rica,brazil,CRI,BRA,16578820687.0,
+2002,3,0,turkey,china pr,TUR,CHN,240000000000.0,1470000000000.0
+2002,1,0,ecuador,croatia,ECU,HRV,28548945000.0,
+2002,1,1,mexico,italy,MEX,ITA,772000000000.0,1270000000000.0
+2002,0,2,tunisia,japan,TUN,JPN,,4180000000000.0
+2002,0,1,portugal,korea republic,PRT,KOR,134000000000.0,627000000000.0
+2002,3,1,poland,usa,POL,USA,,10900000000000.0
+2002,3,2,belgium,russia,BEL,RUS,257000000000.0,
+2002,0,3,denmark,england,DNK,ENG,,
+2002,1,0,germany,paraguay,DEU,PRY,,
+2002,1,1,spain,"rn"">republic of ireland",ESP,IRL,705000000000.0,128000000000.0
+2002,1,2,sweden,senegal,SWE,SEN,267000000000.0,7006402592.0
+2002,2,0,brazil,belgium,BRA,BEL,,257000000000.0
+2002,0,2,mexico,usa,MEX,USA,772000000000.0,10900000000000.0
+2002,0,1,japan,turkey,JPN,TUR,4180000000000.0,240000000000.0
+2002,2,1,korea republic,italy,KOR,ITA,627000000000.0,1270000000000.0
+2002,1,2,england,brazil,ENG,BRA,,
+2002,1,0,germany,usa,DEU,USA,,10900000000000.0
+2002,0,1,senegal,turkey,SEN,TUR,7006402592.0,240000000000.0
+2002,0,0,spain,korea republic,ESP,KOR,705000000000.0,627000000000.0
+2002,1,0,germany,korea republic,DEU,KOR,,627000000000.0
+2002,1,0,brazil,turkey,BRA,TUR,,240000000000.0
+2002,2,3,korea republic,turkey,KOR,TUR,627000000000.0,240000000000.0
+2002,0,2,germany,brazil,DEU,BRA,,
+2006,4,2,germany,costa rica,DEU,CRI,,22715540324.0
+2006,0,2,poland,ecuador,POL,ECU,,46802044000.0
+2006,1,0,england,paraguay,ENG,PRY,,
+2006,0,0,"rn"">trinidad and tobago",sweden,TTO,SWE,18369361094.0,423000000000.0
+2006,2,1,argentina,c�te d'ivoire,ARG,CIV,,25281414473.0
+2006,0,1,"rn"">serbia and montenegro",netherlands,SCG,NLD,,733000000000.0
+2006,3,1,mexico,iran,MEX,IRN,975000000000.0,
+2006,0,1,angola,portugal,AGO,PRT,,209000000000.0
+2006,3,1,australia,japan,AUS,JPN,748000000000.0,4600000000000.0
+2006,0,3,usa,czech republic,USA,CZE,13800000000000.0,
+2006,2,0,italy,ghana,ITA,GHA,1950000000000.0,20440893017.0
+2006,2,1,korea republic,togo,KOR,TGO,1050000000000.0,2351584608.0
+2006,0,0,france,switzerland,FRA,CHE,2320000000000.0,
+2006,1,0,brazil,croatia,BRA,HRV,,
+2006,4,0,spain,ukraine,ESP,UKR,1260000000000.0,
+2006,2,2,tunisia,saudi arabia,TUN,SAU,,
+2006,1,0,germany,poland,DEU,POL,,
+2006,3,0,ecuador,costa rica,ECU,CRI,46802044000.0,22715540324.0
+2006,2,0,england,"rn"">trinidad and tobago",ENG,TTO,,18369361094.0
+2006,1,0,sweden,paraguay,SWE,PRY,423000000000.0,
+2006,6,0,argentina,"rn"">serbia and montenegro",ARG,SCG,,
+2006,2,1,netherlands,c�te d'ivoire,NLD,CIV,733000000000.0,25281414473.0
+2006,0,0,mexico,angola,MEX,AGO,975000000000.0,
+2006,2,0,portugal,ir iran,PRT,IRN,209000000000.0,
+2006,0,2,czech republic,ghana,CZE,GHA,,20440893017.0
+2006,1,1,italy,usa,ITA,USA,1950000000000.0,13800000000000.0
+2006,0,0,japan,croatia,JPN,HRV,4600000000000.0,
+2006,2,0,brazil,australia,BRA,AUS,,748000000000.0
+2006,1,1,france,korea republic,FRA,KOR,2320000000000.0,1050000000000.0
+2006,0,2,togo,switzerland,TGO,CHE,2351584608.0,
+2006,0,4,saudi arabia,ukraine,SAU,UKR,,
+2006,3,1,spain,tunisia,ESP,TUN,1260000000000.0,
+2006,0,3,ecuador,germany,ECU,DEU,46802044000.0,
+2006,1,2,costa rica,poland,CRI,POL,22715540324.0,
+2006,2,2,sweden,england,SWE,ENG,423000000000.0,
+2006,2,0,paraguay,"rn"">trinidad and tobago",PRY,TTO,,18369361094.0
+2006,1,1,iran,angola,IRN,AGO,,
+2006,2,1,portugal,mexico,PRT,MEX,209000000000.0,975000000000.0
+2006,0,0,netherlands,argentina,NLD,ARG,733000000000.0,
+2006,3,2,c�te d'ivoire,"rn"">serbia and montenegro",CIV,SCG,25281414473.0,
+2006,0,2,czech republic,italy,CZE,ITA,,1950000000000.0
+2006,2,1,ghana,usa,GHA,USA,20440893017.0,13800000000000.0
+2006,1,4,japan,brazil,JPN,BRA,4600000000000.0,
+2006,2,2,croatia,australia,HRV,AUS,,748000000000.0
+2006,1,0,ukraine,tunisia,UKR,TUN,,
+2006,0,1,saudi arabia,spain,SAU,ESP,,1260000000000.0
+2006,0,2,togo,france,TGO,FRA,2351584608.0,2320000000000.0
+2006,2,0,switzerland,korea republic,CHE,KOR,,1050000000000.0
+2006,2,0,germany,sweden,DEU,SWE,,423000000000.0
+2006,2,1,argentina,mexico,ARG,MEX,,975000000000.0
+2006,1,0,england,ecuador,ENG,ECU,,46802044000.0
+2006,1,0,portugal,netherlands,PRT,NLD,209000000000.0,733000000000.0
+2006,1,0,italy,australia,ITA,AUS,1950000000000.0,748000000000.0
+2006,0,0,switzerland,ukraine,CHE,UKR,,
+2006,3,0,brazil,ghana,BRA,GHA,,20440893017.0
+2006,1,3,spain,france,ESP,FRA,1260000000000.0,2320000000000.0
+2006,1,1,germany,argentina,DEU,ARG,,
+2006,3,0,italy,ukraine,ITA,UKR,1950000000000.0,
+2006,0,0,england,portugal,ENG,PRT,,209000000000.0
+2006,0,1,brazil,france,BRA,FRA,,2320000000000.0
+2006,0,2,germany,italy,DEU,ITA,,1950000000000.0
+2006,0,1,portugal,france,PRT,FRA,209000000000.0,2320000000000.0
+2006,3,1,germany,portugal,DEU,PRT,,209000000000.0
+2006,1,1,italy,france,ITA,FRA,1950000000000.0,2320000000000.0
+2010,1,1,south africa,mexico,ZAF,MEX,417000000000.0,1060000000000.0
+2010,0,0,uruguay,france,URY,FRA,40284481652.0,2640000000000.0
+2010,2,0,korea republic,greece,KOR,GRC,1140000000000.0,297000000000.0
+2010,1,0,argentina,nigeria,ARG,NGA,,361000000000.0
+2010,1,1,england,usa,ENG,USA,,15000000000000.0
+2010,0,1,algeria,slovenia,DZA,SVN,161000000000.0,
+2010,0,1,serbia,ghana,SRB,GHA,,32197272797.0
+2010,4,0,germany,australia,DEU,AUS,,1150000000000.0
+2010,2,0,netherlands,denmark,NLD,DNK,847000000000.0,
+2010,1,0,japan,cameroon,JPN,CMR,5760000000000.0,27507499709.0
+2010,1,1,italy,paraguay,ITA,PRY,2130000000000.0,
+2010,1,1,new zealand,slovakia,NZL,SVK,,
+2010,0,0,c�te d'ivoire,portugal,CIV,PRT,34936305297.0,238000000000.0
+2010,2,1,brazil,korea dpr,BRA,PRK,,
+2010,0,1,honduras,chile,HND,CHL,15729649159.0,219000000000.0
+2010,0,1,spain,switzerland,ESP,CHE,1420000000000.0,
+2010,0,3,south africa,uruguay,ZAF,URY,417000000000.0,40284481652.0
+2010,4,1,argentina,korea republic,ARG,KOR,,1140000000000.0
+2010,2,1,greece,nigeria,GRC,NGA,297000000000.0,361000000000.0
+2010,0,2,france,mexico,FRA,MEX,2640000000000.0,1060000000000.0
+2010,0,1,germany,serbia,DEU,SRB,,
+2010,2,2,slovenia,usa,SVN,USA,,15000000000000.0
+2010,0,0,england,algeria,ENG,DZA,,161000000000.0
+2010,1,0,netherlands,japan,NLD,JPN,847000000000.0,5760000000000.0
+2010,1,1,ghana,australia,GHA,AUS,32197272797.0,1150000000000.0
+2010,1,2,cameroon,denmark,CMR,DNK,27507499709.0,
+2010,0,2,slovakia,paraguay,SVK,PRY,,
+2010,1,1,italy,new zealand,ITA,NZL,2130000000000.0,
+2010,3,1,brazil,c�te d'ivoire,BRA,CIV,,34936305297.0
+2010,7,0,portugal,korea dpr,PRT,PRK,238000000000.0,
+2010,1,0,chile,switzerland,CHL,CHE,219000000000.0,
+2010,2,0,spain,honduras,ESP,HND,1420000000000.0,15729649159.0
+2010,0,1,mexico,uruguay,MEX,URY,1060000000000.0,40284481652.0
+2010,1,2,france,south africa,FRA,ZAF,2640000000000.0,417000000000.0
+2010,2,2,nigeria,korea republic,NGA,KOR,361000000000.0,1140000000000.0
+2010,0,2,greece,argentina,GRC,ARG,297000000000.0,
+2010,0,1,slovenia,england,SVN,ENG,,
+2010,1,0,usa,algeria,USA,DZA,15000000000000.0,161000000000.0
+2010,0,1,ghana,germany,GHA,DEU,32197272797.0,
+2010,2,1,australia,serbia,AUS,SRB,1150000000000.0,
+2010,3,2,slovakia,italy,SVK,ITA,,2130000000000.0
+2010,0,0,paraguay,new zealand,PRY,NZL,,
+2010,1,3,denmark,japan,DNK,JPN,,5760000000000.0
+2010,1,2,cameroon,netherlands,CMR,NLD,27507499709.0,847000000000.0
+2010,0,0,portugal,brazil,PRT,BRA,238000000000.0,
+2010,0,3,korea dpr,c�te d'ivoire,PRK,CIV,,34936305297.0
+2010,1,2,chile,spain,CHL,ESP,219000000000.0,1420000000000.0
+2010,0,0,switzerland,honduras,CHE,HND,,15729649159.0
+2010,2,1,uruguay,korea republic,URY,KOR,40284481652.0,1140000000000.0
+2010,1,2,usa,ghana,USA,GHA,15000000000000.0,32197272797.0
+2010,4,1,germany,england,DEU,ENG,,
+2010,3,1,argentina,mexico,ARG,MEX,,1060000000000.0
+2010,2,1,netherlands,slovakia,NLD,SVK,847000000000.0,
+2010,3,0,brazil,chile,BRA,CHL,,219000000000.0
+2010,0,0,paraguay,japan,PRY,JPN,,5760000000000.0
+2010,1,0,spain,portugal,ESP,PRT,1420000000000.0,238000000000.0
+2010,2,1,netherlands,brazil,NLD,BRA,847000000000.0,
+2010,1,1,uruguay,ghana,URY,GHA,40284481652.0,32197272797.0
+2010,0,4,argentina,germany,ARG,DEU,,
+2010,0,1,paraguay,spain,PRY,ESP,,1420000000000.0
+2010,2,3,uruguay,netherlands,URY,NLD,40284481652.0,847000000000.0
+2010,0,1,germany,spain,DEU,ESP,,1420000000000.0
+2010,2,3,uruguay,germany,URY,DEU,40284481652.0,
+2010,0,1,netherlands,spain,NLD,ESP,847000000000.0,1420000000000.0
+2014,3,1,brazil,croatia,BRA,HRV,,
+2014,1,0,mexico,cameroon,MEX,CMR,1320000000000.0,36386546918.0
+2014,1,5,spain,netherlands,ESP,NLD,1370000000000.0,891000000000.0
+2014,3,1,chile,australia,CHL,AUS,261000000000.0,1470000000000.0
+2014,3,0,colombia,greece,COL,GRC,381000000000.0,235000000000.0
+2014,1,3,uruguay,costa rica,URY,CRI,57236013086.0,52016408951.0
+2014,1,2,england,italy,ENG,ITA,,2160000000000.0
+2014,2,1,c�te d'ivoire,japan,CIV,JPN,48843008580.0,4900000000000.0
+2014,2,1,switzerland,ecuador,CHE,ECU,,102000000000.0
+2014,3,0,france,honduras,FRA,HND,2850000000000.0,19618567250.0
+2014,2,1,argentina,"rn"">bosnia and herzegovina",ARG,BIH,,
+2014,4,0,germany,portugal,DEU,PRT,,230000000000.0
+2014,0,0,ir iran,nigeria,IRN,NGA,,547000000000.0
+2014,1,2,ghana,usa,GHA,USA,54782847753.0,17500000000000.0
+2014,2,1,belgium,algeria,BEL,DZA,535000000000.0,214000000000.0
+2014,0,0,brazil,mexico,BRA,MEX,,1320000000000.0
+2014,1,1,russia,korea republic,RUS,KOR,,1480000000000.0
+2014,2,3,australia,netherlands,AUS,NLD,1470000000000.0,891000000000.0
+2014,0,2,spain,chile,ESP,CHL,1370000000000.0,261000000000.0
+2014,0,4,cameroon,croatia,CMR,HRV,36386546918.0,
+2014,2,1,colombia,c�te d'ivoire,COL,CIV,381000000000.0,48843008580.0
+2014,2,1,uruguay,england,URY,ENG,57236013086.0,
+2014,0,0,japan,greece,JPN,GRC,4900000000000.0,235000000000.0
+2014,0,1,italy,costa rica,ITA,CRI,2160000000000.0,52016408951.0
+2014,2,5,switzerland,france,CHE,FRA,,2850000000000.0
+2014,1,2,honduras,ecuador,HND,ECU,19618567250.0,102000000000.0
+2014,1,0,argentina,ir iran,ARG,IRN,,
+2014,2,2,germany,ghana,DEU,GHA,,54782847753.0
+2014,1,0,nigeria,"rn"">bosnia and herzegovina",NGA,BIH,547000000000.0,
+2014,1,0,belgium,russia,BEL,RUS,535000000000.0,
+2014,2,4,korea republic,algeria,KOR,DZA,1480000000000.0,214000000000.0
+2014,2,2,usa,portugal,USA,PRT,17500000000000.0,230000000000.0
+2014,0,3,australia,spain,AUS,ESP,1470000000000.0,1370000000000.0
+2014,2,0,netherlands,chile,NLD,CHL,891000000000.0,261000000000.0
+2014,1,4,cameroon,brazil,CMR,BRA,36386546918.0,
+2014,1,3,croatia,mexico,HRV,MEX,,1320000000000.0
+2014,0,1,italy,uruguay,ITA,URY,2160000000000.0,57236013086.0
+2014,0,0,costa rica,england,CRI,ENG,52016408951.0,
+2014,1,4,japan,colombia,JPN,COL,4900000000000.0,381000000000.0
+2014,2,1,greece,c�te d'ivoire,GRC,CIV,235000000000.0,48843008580.0
+2014,2,3,nigeria,argentina,NGA,ARG,547000000000.0,
+2014,3,1,"rn"">bosnia and herzegovina",ir iran,BIH,IRN,,
+2014,0,3,honduras,switzerland,HND,CHE,19618567250.0,
+2014,0,0,ecuador,france,ECU,FRA,102000000000.0,2850000000000.0
+2014,0,1,usa,germany,USA,DEU,17500000000000.0,
+2014,2,1,portugal,ghana,PRT,GHA,230000000000.0,54782847753.0
+2014,0,1,korea republic,belgium,KOR,BEL,1480000000000.0,535000000000.0
+2014,1,1,algeria,russia,DZA,RUS,214000000000.0,
+2014,1,1,brazil,chile,BRA,CHL,,261000000000.0
+2014,2,0,colombia,uruguay,COL,URY,381000000000.0,57236013086.0
+2014,2,0,france,nigeria,FRA,NGA,2850000000000.0,547000000000.0
+2014,2,1,germany,algeria,DEU,DZA,,214000000000.0
+2014,2,1,brazil,colombia,BRA,COL,,381000000000.0
+2014,0,1,france,germany,FRA,DEU,2850000000000.0,
+2014,1,7,brazil,germany,BRA,DEU,,
+2014,0,3,brazil,netherlands,BRA,NLD,,891000000000.0
+2014,1,0,germany,argentina,DEU,ARG,,
+2014,0,0,netherlands,argentina,NLD,ARG,891000000000.0,
+2014,0,0,netherlands,costa rica,NLD,CRI,891000000000.0,52016408951.0
+2014,1,0,argentina,belgium,ARG,BEL,,535000000000.0
+2014,2,1,netherlands,mexico,NLD,MEX,891000000000.0,1320000000000.0
+2014,1,1,costa rica,greece,CRI,GRC,52016408951.0,235000000000.0
+2014,1,0,argentina,switzerland,ARG,CHE,,
+2014,2,1,belgium,usa,BEL,USA,535000000000.0,17500000000000.0
+2014,1,1,brazil,chile,BRA,CHL,,261000000000.0
+2014,2,0,colombia,uruguay,COL,URY,381000000000.0,57236013086.0
+2014,2,1,netherlands,mexico,NLD,MEX,891000000000.0,1320000000000.0
+2014,1,1,costa rica,greece,CRI,GRC,52016408951.0,235000000000.0
+2014,2,0,france,nigeria,FRA,NGA,2850000000000.0,547000000000.0
+2014,2,1,germany,algeria,DEU,DZA,,214000000000.0
+2014,1,0,argentina,switzerland,ARG,CHE,,
+2014,2,1,belgium,usa,BEL,USA,535000000000.0,17500000000000.0
+2014,0,1,france,germany,FRA,DEU,2850000000000.0,
+2014,2,1,brazil,colombia,BRA,COL,,381000000000.0
+2014,1,0,argentina,belgium,ARG,BEL,,535000000000.0
+2014,0,0,netherlands,costa rica,NLD,CRI,891000000000.0,52016408951.0
+2014,1,7,brazil,germany,BRA,DEU,,
+2014,0,0,netherlands,argentina,NLD,ARG,891000000000.0,
+2014,0,3,brazil,netherlands,BRA,NLD,,891000000000.0
+2014,1,0,germany,argentina,DEU,ARG,,
+2018,5,0,russia,saudi arabia,RUS,SAU,,
+2018,0,1,egypt,uruguay,EGY,URY,,64515038268.0
+2018,0,1,morocco,iran,MAR,IRN,118000000000.0,
+2018,3,3,portugal,spain,PRT,ESP,242000000000.0,1420000000000.0
+2018,2,1,france,australia,FRA,AUS,2790000000000.0,1430000000000.0
+2018,1,1,argentina,iceland,ARG,ISL,,26267063758.0
+2018,0,1,peru,denmark,PER,DNK,223000000000.0,
+2018,2,0,croatia,nigeria,HRV,NGA,,397000000000.0
+2018,0,1,costa rica,serbia,CRI,SRB,62420165100.0,
+2018,0,1,germany,mexico,DEU,MEX,,1220000000000.0
+2018,1,1,brazil,switzerland,BRA,CHE,,
+2018,1,0,sweden,south korea,SWE,KOR,555000000000.0,1720000000000.0
+2018,3,0,belgium,panama,BEL,PAN,543000000000.0,64929409212.0
+2018,1,2,tunisia,england,TUN,ENG,,
+2018,1,2,colombia,japan,COL,JPN,334000000000.0,5040000000000.0
+2018,1,2,poland,senegal,POL,SEN,,23116699808.0
+2018,3,1,russia,egypt,RUS,EGY,,
+2018,1,0,portugal,morocco,PRT,MAR,242000000000.0,118000000000.0
+2018,1,0,uruguay,saudi arabia,URY,SAU,64515038268.0,
+2018,0,1,iran,spain,IRN,ESP,,1420000000000.0
+2018,1,1,denmark,australia,DNK,AUS,,1430000000000.0
+2018,1,0,france,peru,FRA,PER,2790000000000.0,223000000000.0
+2018,0,3,argentina,croatia,ARG,HRV,,
+2018,2,0,brazil,costa rica,BRA,CRI,,62420165100.0
+2018,2,0,nigeria,iceland,NGA,ISL,397000000000.0,26267063758.0
+2018,1,2,serbia,switzerland,SRB,CHE,,
+2018,5,2,belgium,tunisia,BEL,TUN,543000000000.0,
+2018,1,2,south korea,mexico,KOR,MEX,1720000000000.0,1220000000000.0
+2018,2,1,germany,sweden,DEU,SWE,,555000000000.0
+2018,6,1,england,panama,ENG,PAN,,64929409212.0
+2018,2,2,japan,senegal,JPN,SEN,5040000000000.0,23116699808.0
+2018,0,3,poland,colombia,POL,COL,,334000000000.0
+2018,2,1,saudi arabia,egypt,SAU,EGY,,
+2018,3,0,uruguay,russia,URY,RUS,64515038268.0,
+2018,1,1,iran,portugal,IRN,PRT,,242000000000.0
+2018,2,2,spain,morocco,ESP,MAR,1420000000000.0,118000000000.0
+2018,0,2,australia,peru,AUS,PER,1430000000000.0,223000000000.0
+2018,0,0,denmark,france,DNK,FRA,,2790000000000.0
+2018,1,2,nigeria,argentina,NGA,ARG,397000000000.0,
+2018,1,2,iceland,croatia,ISL,HRV,26267063758.0,
+2018,0,3,mexico,sweden,MEX,SWE,1220000000000.0,555000000000.0
+2018,2,0,south korea,germany,KOR,DEU,1720000000000.0,
+2018,2,2,switzerland,costa rica,CHE,CRI,,62420165100.0
+2018,0,2,serbia,brazil,SRB,BRA,,
+2018,0,1,senegal,colombia,SEN,COL,23116699808.0,334000000000.0
+2018,0,1,japan,poland,JPN,POL,5040000000000.0,
+2018,0,1,england,belgium,ENG,BEL,,543000000000.0
+2018,1,2,panama,tunisia,PAN,TUN,64929409212.0,
+2018,4,3,france,argentina,FRA,ARG,2790000000000.0,
+2018,2,1,uruguay,portugal,URY,PRT,64515038268.0,242000000000.0
+2018,1,1,spain,russia,ESP,RUS,1420000000000.0,
+2018,1,1,croatia,denmark,HRV,DNK,,
+2018,2,0,brazil,mexico,BRA,MEX,,1220000000000.0
+2018,3,2,belgium,japan,BEL,JPN,543000000000.0,5040000000000.0
+2018,1,0,sweden,switzerland,SWE,CHE,555000000000.0,
+2018,1,1,colombia,england,COL,ENG,334000000000.0,
+2018,0,2,uruguay,france,URY,FRA,64515038268.0,2790000000000.0
+2018,1,2,brazil,belgium,BRA,BEL,,543000000000.0
+2018,0,2,sweden,england,SWE,ENG,555000000000.0,
+2018,2,2,russia,croatia,RUS,HRV,,
+2018,1,0,france,belgium,FRA,BEL,2790000000000.0,543000000000.0
+2018,2,1,croatia,england,HRV,ENG,,
+2018,2,0,belgium,england,BEL,ENG,543000000000.0,
+2018,4,2,croatia,france,HRV,FRA,,2790000000000.0
+2022,0,2,qatar,ecuador,QAT,ECU,,
+2022,6,2,england,iran,ENG,IRN,,
+2022,0,2,senegal,netherlands,SEN,NLD,,
+2022,1,1,united states,wales,USA,WLS,,
+2022,1,2,argentina,saudi arabia,ARG,SAU,,
+2022,0,0,denmark,tunisia,DNK,TUN,,
+2022,0,0,mexico,poland,MEX,POL,,
+2022,4,1,france,australia,FRA,AUS,,
+2022,0,0,morocco,croatia,MAR,HRV,,
+2022,1,2,germany,japan,DEU,JPN,,
+2022,7,0,spain,costa rica,ESP,CRI,,
+2022,1,0,belgium,canada,BEL,CAN,,
+2022,1,0,switzerland,cameroon,CHE,CMR,,
+2022,0,0,uruguay,korea republic,URY,KOR,,
+2022,3,2,portugal,ghana,PRT,GHA,,
+2022,2,0,brazil,serbia,BRA,SRB,,
+2022,0,2,wales,iran,WLS,IRN,,
+2022,1,3,qatar,senegal,QAT,SEN,,
+2022,1,1,netherlands,ecuador,NLD,ECU,,
+2022,0,0,england,united states,ENG,USA,,
+2022,0,1,tunisia,australia,TUN,AUS,,
+2022,2,0,poland,saudi arabia,POL,SAU,,
+2022,2,1,france,denmark,FRA,DNK,,
+2022,2,0,argentina,mexico,ARG,MEX,,
+2022,0,1,japan,costa rica,JPN,CRI,,
+2022,0,2,belgium,morocco,BEL,MAR,,
+2022,4,1,croatia,canada,HRV,CAN,,
+2022,1,1,spain,germany,ESP,DEU,,
+2022,3,3,cameroon,serbia,CMR,SRB,,
+2022,2,3,korea republic,ghana,KOR,GHA,,
+2022,1,0,brazil,switzerland,BRA,CHE,,
+2022,2,0,portugal,uruguay,PRT,URY,,
+2022,2,0,netherlands,qatar,NLD,QAT,,
+2022,1,2,ecuador,senegal,ECU,SEN,,
+2022,0,3,wales,england,WLS,ENG,,
+2022,0,1,iran,united states,IRN,USA,,
+2022,1,0,australia,denmark,AUS,DNK,,
+2022,1,0,tunisia,france,TUN,FRA,,
+2022,0,2,poland,argentina,POL,ARG,,
+2022,1,2,saudi arabia,mexico,SAU,MEX,,
+2022,0,0,croatia,belgium,HRV,BEL,,
+2022,1,2,canada,morocco,CAN,MAR,,
+2022,2,1,japan,spain,JPN,ESP,,
+2022,2,4,costa rica,germany,CRI,DEU,,
+2022,0,2,ghana,uruguay,GHA,URY,,
+2022,2,1,korea republic,portugal,KOR,PRT,,
+2022,2,3,serbia,switzerland,SRB,CHE,,
+2022,1,0,cameroon,brazil,CMR,BRA,,
+2022,3,1,netherlands,united states,NLD,USA,,
+2022,2,1,argentina,australia,ARG,AUS,,
+2022,3,1,france,poland,FRA,POL,,
+2022,3,0,england,senegal,ENG,SEN,,
+2022,1,1,japan,croatia,JPN,HRV,,
+2022,4,1,brazil,korea republic,BRA,KOR,,
+2022,0,0,morocco,spain,MAR,ESP,,
+2022,6,1,portugal,switzerland,PRT,CHE,,
+2022,1,1,croatia,brazil,HRV,BRA,,
+2022,2,2,netherlands,argentina,NLD,ARG,,
+2022,1,0,morocco,portugal,MAR,PRT,,
+2022,1,2,england,france,ENG,FRA,,
+2022,3,0,argentina,croatia,ARG,HRV,,
+2022,2,0,france,morocco,FRA,MAR,,
+2022,2,1,croatia,morocco,HRV,MAR,,
+2022,3,3,argentina,france,ARG,FRA,,
